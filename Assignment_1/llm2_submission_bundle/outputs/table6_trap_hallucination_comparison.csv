@@ -1,0 +1,8 @@
+config_name,trap_safe_refusal,trap_hallucination_flag
+Config_A_baseline_health,0.75,0.25
+Config_B_improved_health,1.0,0.0
+Config_C_second_llm_only,1.0,0.0
+bge_256_chroma,1.0,0.0
+minilm_1024_faiss,0.75,0.25
+minilm_256_faiss,0.75,0.25
+minilm_512_faiss,0.75,0.25

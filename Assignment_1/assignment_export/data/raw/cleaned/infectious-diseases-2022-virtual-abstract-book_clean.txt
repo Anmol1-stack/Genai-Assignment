@@ -1,0 +1,1713 @@
+2ND EDITION OF WORLD CONGRESS ON
+INFECTIOUS
+DISEASES
+JUNE 2022
+VIRTUAL EVENT
+Contact us:
+Ph: +1 (702) 988-2320
+WhatsApp: +1 (540) 709 1879
+Email: infectious@magnusconference.com
+Website: https://infectiouscongress.com/
+2ND EDITION OF WORLD CONGRESS ON
+INFECTIOUS
+DISEASES
+17-18 ENUJ
+BOOK OF
+ABSTRACTS
+Infection 2022
+
+INDEX
+Contents
+About Host 4
+About Infection 2022 5
+Keynote Presentations - Day 1 6
+Oral Presentations - Day 1 10
+Poster Presentations - Day 1 24
+Keynote Presentations - Day 2 32
+Oral Presentations - Day 2 35
+Participants List 51
+Infection 2022
+
+ABOUT MAGNUS GROUP
+Magnus Group (MG) is initiated to meet a need and to pursue collective goals of the scientific
+community specifically focusing in the field of Sciences, Engineering and technology to endorse
+exchanging of the ideas & knowledge which facilitate the collaboration between the scientists,
+academicians and researchers of same field or interdisciplinary research. Magnus group is
+proficient in organizing conferences, meetings, seminars and workshops with the ingenious
+and peerless speakers throughout the world providing you and your organization with broad
+range of networking opportunities to globalize your research and create your own identity. Our
+conference and workshops can be well titled as  ocean of knowledge  where you can sail your
+boat and pick the pearls, leading the way for innovative research and strategies empowering
+the strength by overwhelming the complications associated with in the respective fields.
+Participation from 90 different countries and 1090 different Universities have contributed
+to the success of our conferences. Our first International Conference was organized on
+Oncology and Radiology (ICOR) in Dubai, UAE. Our conferences usually run for 2-3
+days completely covering Keynote & Oral sessions along with workshops and
+poster presentations. Our organization runs promptly with dedicated and
+proficient employees  managing different conferences throughout the
+world, without compromising service and quality.
+Infection 2022
+
+ABOUT INFECTION 2022
+Magnus Group takes the pleasure to announce  2nd Edition of World Congress on Infectious
+Diseases  - Virtual Event during June 17-18, 2022 with the theme  Stepping Stones in
+Infectious Diseases Prevention, Control and Cure . Infectious Disease conference will provide
+all the attendees, the opportunity to network with experts, present their research findings to
+an international audience and notify the latest scientific developments from world s eminent
+speakers and contribute to various discussions that will shape future health policies and a
+proper patient care all around the world. The Conference will have a mix of lectures of keynote
+addresses, panel discussions, case discussions, current reports of scientific progress featured
+in oral abstracts and posters. The chosen topics will be of great benefit to practicing clinicians
+and academicians in the field of infectious diseases, medicine, microbiology, epidemiology
+and public health. This conference offers an opportunity for faculty, postgraduates, fellows,
+residents, and undergraduates to present their work, learn and network with the experts.
+Infection 2022
+
+2ND EDITION OF WORLD CONGRESS ON
+INFECTIOUS
+DISEASES
+17-18 ENUJ
+KEYNOTE FORUM
+DAY 01
+Infection 2022
+
+noitcefnI
+
+Ulrich Steinhoff* and Rouzbeh Mahdavi
+Department of Medical Microbiology and Hospital Hygiene, Philipps
+University of Marburg, Germany
+Improved diagnosis and treatment of visceral leishmaniasis
+Leishmania donovani L. donovani L. infantum
+isceral Leishmaniasis (VL) is the second-largest parasitic killer in the world (after Malaria) caused by parasites of
+the complex, including (East-Africa and India) and (Europe, North
+Africa and India). VL, also known as kala-azar, is mostly fatal if left untreated and the disease is characterized by
+Virregular fever, weight loss, enlargement of the spleen. Therefore, reliable diagnosis and subsequent treatment is vital
+for VL-patients. Kinesins are the dominant antigens in visceral leishmaniasis (VL), targeted by the patient s immune
+response. However, their sequence and structure (number of repeats) vary between different Leishmania isolates.
+L. infantum L. donovani
+This explains why rapid diagnosis of VL is still unreliable as commercially available tests are mainly based on rK39
+( , Brazil) and rK16 ( , India). Our goal was to develop an improved, rapid diagnostic test-system
+suitable for all VL-endemic countries, including Africa, Brazil and India. Further, as VL infected dogs (CVL) are an
+important reservoir that enhance the spread of VL, we also tested our new candidate antigens for their potential to
+diagnose and differentiate between VL-infected and VL-vaccinated dogs. To select the kinesin antigen(s) for most
+specific and efficient VL diagnosis, we sequenced, cloned and expressed the kinesin of VL isolates from East-Africa,
+Brazil and India and determined the impact of isolate- and repeat-specific variations on their diagnostic capacity.
+Furthermore, we studied in-silico and in vitro the influence of the number of kinesin repeats on antigenicity and
+diagnostic performance and could show that the number of Kinesin-repeats has a bigger influence on diagnostic
+sensitivity and specificity than strain-specific sequence variations. The second part of our work is concerned with
+the treatment of VL-patients. Currently, VL treatment strategies differ in the endemic countries - but common to all
+Trypanosoma brucei Trypanosoma
+therapeutic approaches are strong side effects and the occurrence of drug resistant Leishmania-species. Currently,
+cruzei
+it was shown that the group of Kinetoplastida parasites (Leishmania spp., and
+) express proteasomes that differ from the host organisms with respect to the proteasomal beta 4 and 5 subunit.
+Accordingly, a new class of proteasome inhibitors (azabenzoxazole) was developed that selectively binds to the beta
+4/5 subunit of Kinetoplastida, suggesting the proteasome as ideal drug target molecule for infections caused by
+the Kinetoplastida parasites. Currently we are testing the suitability of such an inhibitor in the various Leishmania
+parasites by analyzing the efficiency of proteasome inhibition -, the parasite viability and survival in host cells. Our
+cAuurdreiennt cdea tTaa skheo Aww tahya:t this new class of inhibitors is a very promising drug candidate for the treatment of VL.
+  Understanding the biology a complex disease with respect to diagnosis and treatment.
+  Improved design of diagnostic antigens, design and testing new therapeutic drugs.
+Biography
+Dr. Ulrich Steinhoff earned a Diploma and PhD from Max-Planck Institute for Immunobiology, PHD Student from University of Ulm,
+Postdoctoral Fellow from University of Z rich, He obtained the position of Group leader and assistant director Max-Planck Institute
+for Infection Biology, and professor for Philipps University of Marburg   GERMANY, he has published a several research articles.
+
+noitcefnI
+
+Stephen Hsu*1,2, Douglas Dickinson1, Bianca
+Marsh2, Melissa Del Tufo1, Lester Sampath3, Emma
+Liu2, Xiaocui Jiang4, Bo Yao4, Lee H Lee5, Tin-chun
+Chu6, Jiarong Zhong7
+
+Camellix Research laboratory, USA
+
+Dental College of Georgia, Augusta University, USA
+
+Inopak, Ltd. Ringwood, USA
+
+Hangzhou Sanju Biotechnology Co. LTD, China
+
+Montclair State University, Upper Montclair, USA
+
+Seton Hall University, South Orange, USA
+
+Georgia State University, USA
+Novel formulations containing EC16 for future antiviral and
+virucidal products
+Background:
+Norovirus is the world-leading cause of acute gastroenteritis associated with severe symptoms and
+deaths. However, vaccines against norovirus are currently not available, and medications that specifically target human
+norovirus infection are still under development. Surface disinfectants with activity against norovirus often contain
+toxic chemicals such as chlorine-based compounds (e.g., hypochlorite/bleach, ammonium chloride), acids, hydrogen
+peroxide, or a combination of these chemicals. However, these chemicals are not suitable for hand hygiene products
+to help prevent norovirus outbreaks or certain healthcare associated infections. The current studies evaluated the
+virucidal and antiviral activities of epigallocatechingallate-palmitate (EC16), a compound derived from green tea
+pMoelythpohden: ols, against murine norovirus (MNV S99, a surrogate for human norovirus) and other microorganisms.
+Initially, formulation suitability tests were conducted to compare EGCG (epigallocatechingallate), EC16
+and tea polyphenol-palmitate in alcohol solution and hand hygiene formulations. The virucidal activity of EC16 was
+then tested in hand sanitizer gel and hand sanitizer foam formulations using a TCID50 time-kill suspension assay. The
+hand sanitizer gel prototype was also tested according to the EN13727:2012 (S. aureus and P. aeruginosa), EN13624
+(Candida albicans), and EN 14476:2019 (norovirus) protocols. The surface disinfectant spray prototype was tested
+against S. aureus, P. aeruginosa, and S. enterica according to the AOAC Official Method 961.02, and against feline
+calicivirus according to ASTM test method E1053-20. The prototypes were also tested against spores of Bacillus
+cereus and Clostridium sporogenes using time-kill suspension tests. The In vitro treatment and prevention tests were
+performed using a 1-hour incubation of EC16 or EGCG with RAW264.7 cells, either pre-infection or post-infection
+wReitshu MltsN: V.
+Unlike EC16, both EGCG and tea polyphenol-palmitate showed auto-oxidation (color change) and precipitation
+in alcohol solution and hand hygiene formulations, and were thus less suitable for potential hand hygiene products
+or new drug development. The time-kill suspension test results demonstrated that EC16 in both sanitizer gel and
+foam formulations reduced MNV by >99.99% (>log10 4) after 60 sec direct contact. The hand sanitizer gel showed
+activities against S. aureus, P. aeruginosa, C. albicans, and murine norovirus with a >log10 7.4 reduction for bacteria,
+>log10 6.4 for the yeast, and >log10 5.5 for murine norovirus. The surface disinfectant spray tests passed EPA required
+standards with all species tested. The sporicidal activities of similar formulations showed >log10 5 reductions against
+two bacterial spores. Without alcohol, one-hour incubation of EC16 with RAW264.7 cells either before or after MNV
+iCnofencctliuosni o(in.e:. , without direct contact with MNV) resulted in >99% (>log10 2) reduction of MNV infectivity.
+EC16 is a candidate for use as a virucidal and antiviral compound to prevent and treat norovirus infection,
+
+with potential to be developed as a new drug against norovirus, pending in vivo and clinical tests. The hand sanitizer
+
+noitcefnI
+
+and surface disinfectant formulations containing EC16 have the potential to be further developed into novel hand
+hygiene and surface disinfectant products with bactericidal, fungicidal, virucidal, and sporicidal activities, pending
+aAduddiiteionncael Tstaukdei eAsw aanyd: tests.
+  Recognize certain major alcohol-resistant pathogenic microorganisms that pose serious threats to public health,
+and the gaps in methods for prevention and control of these microorganisms.
+  Know how natural and non-toxic compounds could be used in antiviral and virucidal formulations and medications.
+  Understand the advantages and disadvantages of the currently used hand hygiene antiseptics and surface
+disinfectants, and the applicable test standards of regulatory agencies.
+  Gain knowledge of new technologies and novel prototypes designed to provide better control and prevention of
+alcohol-resistant microorganisms with higher efficacy and minimum toxicity.
+Biography
+Dr. Stephen Hsu earned a bachelor s degree from Wuhan University, China, a Master of Arts degree from Montclair State University
+and a PhD. degree from the University of Cincinnati College of Medicine. He spent four years at Memorial Sloan-Kettering Cancer
+Center before a career change. During the four years as a sports anchor for ESPN International, Dr. Hsu taught at the National
+University of Singapore. Dr. Hsu joined Augusta University in 1999 and serves as Course Director for Nutrition and for Biochemistry.
+His research has been supported by the NIH and other agencies, with more than 80 research articles published.
+
+2ND EDITION OF WORLD CONGRESS ON
+INFECTIOUS
+DISEASES
+17-18 ENUJ
+SPEAKERS
+DAY 01
+Infection 2022
+
+noitcefnI
+
+Kai-Fu Tang
+Chongqing Medical University, China
+Role of dicer in the pathogenesis of HBV-associated hepatocellular carcinoma
+icer, a key component of the RNA interference pathway, is also essential for DNA repair. Reactive oxygen species
+in inflamed liver tissues induce DNA damage and decrease Dicer expression. The downregulation of Dicer, in turn,
+reduces DNA repair efficiency and leads to increased DNA damage. DNA damage leads to an aggravation of inflammation
+Dvia various mechanisms. First, it induces the expression of the natural killer group 2D (NKG2D) receptor ligands, and the
+binding of these ligands to their receptor promotes inflammation. Second, DNA damage promotes the release of nuclear
+DNA into the cytoplasm. Consequently, the cytosolic DNA sensing machinery induces the secretion of proinflammatory
+cytokines. Thus, decreased Dicer expression plays a central role in the development of unresolved chronic inflammation,
+a common and important factor in neoplasia pathogenesis.
+In addition to promoting inflammation, decreased Dicer expression may promote the development of hepatocellular
+carcinoma via the following mechanisms. First, decreased Dicer expression reduces DNA repair efficiency, promoting
+gene mutation and eventually carcinogenesis. Second, Dicer processes 7SL RNA into small fragments that function as
+dominant negative regulators of the full-length 7SL RNA and interfere with signal recognition particle (SRP) complex
+formation. Accordingly, a decrease in Dicer expression promotes SRP complex formation via a downregulation of the
+7SL RNA fragment biogenesis, which then enhances SRP-mediated protein targeting and increases the translocation
+and expression of membrane and secretory proteins, which are upregulated in tumor tissues. Finally, decreased Dicer
+expression may promote carcinogenesis by deregulating miRNA expression.
+Biography
+Dr. Kai-Fu Tang graduated from Chongqing Medical University, Peking Union Medical College, and Chongqing University with a
+Bachelor s degree in Medicine, a Master of science degree, and a Doctoral degree in Engineering, respectively. He has successively
+worked in Huaying People s Hospital (Sichuan, China), University of Cologne (Cologne, Germany), Friedrich Miescher Institute (Basel,
+Switzerland), Second Affiliated Hospital of Chongqing Medical University (Chongqing, China), Wenzhou Medical University (Wenzhou,
+China), The First Affiliated Hospital of Medical University (Wenzhou, China), and Chongqing Medical University (Chongqing, China).
+Currently, Dr. Tang is a professor at the Key Laboratory of Molecular Biology on Infectious Diseases, Ministry of Education, Chongqing
+Medical University. Dr. Tang s research is focused on the role of Dicer in inflammation and inflammation-driven carcinogenesis. He
+has published more than 30 papers in international journals such as Genome Biol, J Cell Biol, Nucleic Acids Res, Oncogene, Cell Rep,
+Theranostics, Pharmacol Res, Cell Death Dis, Carcinogenesis, and J Biol Chem.
+
+noitcefnI
+
+Wei Jiang*, Ling Luo, Yunzhi Zhang, Xin Zhang, Xiaohao
+Wang, Jing Li
+Second Affiliated Hospital of Chongqing Medical University, China
+Effects of motivational interviewing based on the thrive model of psychological
+recovery on post-traumatic growth in patients with post-hepatitis B liver cancer
+: A randomized controlled study
+n China, about more than 80% of primary liver cancer patients are co-infected with hepatitis B virus. These patients
+suffer from great physical and psychological pain during anti-cancer and anti-viral treatment, but there is also a
+degree of post-traumatic growth, and post-traumatic growth (PTG) plays an active role in promoting their physical and
+Ipsychological recovery and improving their quality of life. This study investigated the effects of motivational interviewing
+based on the THRIVE model of psychological recovery on post-traumatic growth, anxiety and depression, and quality
+of life in patients with post-hepatitis B liver cancer. We used a single-blind, randomized, controlled trial. A convenience
+sample of 100 patients with post-hepatitis B liver cancer who met the inclusion criteria in a tertiary hospital in Chongq
+China, was selected for the study, and they were randomly divided into a control group given conventional psychological
+care (n=50) and an intervention group given motivational interviewing based on conventional psychological care plus the
+THRIVE model of psychological recovery (n=50). The post-traumatic growth, anxiety and depression, and quality of life
+of the patients were assessed using the Simplified Chinese version of the Post-Traumatic Growth Inventory (C-PTGI), the
+Self-Assessment Scale for Anxiety (SAS), the Self-Assessment Scale for Depression (SDS), and the Quality of Life Scale for
+Patients with Liver Cancer (QOL-LC V2.0) before the intervention and 1 and 3 months after discharge, respectively.
+The results revealed that at 1 month after discharge and 3 months after discharge, the C-PTGI and the scores of each
+dimension in the intervention group were higher than those in the control group, and the SAS and SDS scores were lower
+than those in the control group (P 0.01); the QOL-LC total score, psychological function, symptom side effects, and
+social function scores in the intervention group were higher than those in the control group (P 0.01), but the difference
+between the somatic function scores of the two groups was not statistically However, the difference in somatic function
+scores between the two groups was not statistically significant (P 0.05). These results suggest that this study provides
+preliminary evidence that motivational interviewing based on the THRIVE model of psychological recovery can enhance
+post-traumatic growth, alleviate anxiety and depression, and improve the quality of life of post-hepatitis B liver cancer
+pAautdieienntsc teo T saokmee A ewxtaeyn:t.
+
+This study can expand the scope of research on post-traumatic growth, enrich the theoretical and practical studies
+related to PTG, and provide methodological references for the study of post-traumatic growth in patients with other
+
+cancers or infectious diseases.
+Optimize clinical nurses  psychological care measures for post-hepatitis B liver cancer patients to improve their mental
+health and quality of life; the formed PTG intervention model can provide practical references for other infectious
+
+disease patients.
+In clinical teaching and research, the research content of this study can provide ideas for mental health education for
+
+patients with infectious diseases. the THRIVE.
+Model clearly clarifies the six steps of psychological recovery, namely self-assessment, nurturing hope, telling new
+stories, discovering changes, assessing changes, and demonstrating growth with practical actions; and it is used as
+a theoretical basis to form an MI applicable to PTG in patients with post-hepatocellular carcinoma after hepatitis B
+
+intervention program, which is highly innovative.
+Unlike previous patients who passively and ineffectively received psychological.
+
+noitcefnI
+
+
+Care interventions, the MI intervention program we designed based on the THRIVE model of psychological recovery
+can well establish a good nurse-patient partnership with patients, and the patient s subjective initiative is greatly
+improved in solving the problems of patients  psychosocial and behavioral styles, and the efficiency of nurse-patient
+
+communication is also improved to some extent.
+This study can provide a new research protocol to address the health promotion of post-hepatitis B liver cancer
+patients. Through the MI intervention based on the THRIVE model of psychological recovery for post-hepatitis B liver
+cancer patients, we aim to improve PTG levels, improve patients  psychological status and quality of life, and provide
+a basis for clinical nurses to implement individualized psychological care for post-hepatitis B liver cancer patients.
+Biography
+Jiang Wei, a master s degree student in nursing studying at Chongqing Medical University, joined Prof. Luo Ling s research team at
+the Second Hospital of Chongqing Medical University in 2019, with research interests in infectious disease nursing and psychological
+nursing, and will graduate and obtain her master s degree in 2022. In the Department of Infectious Diseases of the Second Hospital of
+Chongqing Medical University, Prof. Luo Ling has guided her in nursing research and has successfully published one paper and another
+papers in core journals are under review.
+
+noitcefnI
+
+Pooyan Afzali Harsini*1, Gholamreza Imani2, Saeed
+hamzehie3
+
+BS. s of Public Health, Kermanshah University of Medical Sciences, Iran
+
+MD, Department of Medicine, Kermanshah University of Medical
+Sciences, Kermanshah
+
+MD, Internal Medicine Specialist, Kermanshah University of Medical
+Sciences, Kermanshah
+COVID 19 and pregnancy vaccination : Challenges and concerns
+he 2019-nCoV (or COVID-19) outbreak began in Wuhan and has since spread throughout China and the world. A
+increase in new diseases and deaths poses severe public health and governance concerns in Wuhan. Governments
+have taken required activities such as limiting cross-city travel, case detection and contact tracing, quarantine, public
+Teducation, and creation of detection kits with the help of the federal government. The society s unity has considerably
+decreased challenges including shortage of efficient medications, healthcare services, medical supplies, and logistics. The
+epidemic will be ended with the ongoing efforts of national and international multi-sectoral bodies. 48.5 % of the world s
+population has had a COVID-19 vaccine. Globally, 6.84 billion doses have been given, with 25.52 million given daily. Only
+3% of low-income persons have received one dosage.
+Simultaneously, many COVID-19 vaccines have been created and approved at a breakneck pace, all while adhering to
+stringent regulatory requirements. Pregnant women had a greater risk of severe illness, ICU admission, and invasive
+ventilation compared to non-pregnant patients of the same age. As a result, pregnant women are designated a high-risk
+population for COVID-19 infection. A passive approach to pregnant, puerperal, and breastfeeding women s requests for
+vaccination does not justify the absence of evidence on the efficacy and evaluation of immunological response to the SARS-
+CoV-2 vaccine. It is crucial to recognize that during the pregnancy-puerperal cycle, women are at a greater risk of severe
+COVID-19, and their children are at an increased risk of the detrimental effects of preterm delivery, providing a compelling
+aArugduimenencet fToark per iAmwaaryy :p revention.
+
+
+Pregnancy Covid-19 vaccination concerns.
+
+New studies finding about Covid-19 pregnancy vaccination.
+
+Important questions about pregnancy vaccination should be answered.
+FDA guides about pregnancy.
+Biography
+Pooyan Afzali Harsini was born in 13 June 1988 in Kermanshah. He has Bachelor of Public Health. He s interest in research are: Nutrition,
+Cancer prevention, Public Health, Infectious disease, Health Education.
+
+noitcefnI
+
+Marshal Sikandangwa*1, Mary Kagujje1, Nsala Sanjase1,
+Clara Kasapo2, Rhehab Chimzizi2, Michael Herce1,3, Nancy
+Kasese-Chanda, Monde Muyoyeta1, Patrick Lungu2
+
+Centre for Infectious Disease Research in Zambia, Zambia
+
+Ministry of Health, National TB program, Zambia
+
+University of North Carolina, Zambia
+Outcomes for drug susceptible TB retreatment cases in Zambia : A review of
+2016-2019 program data
+Background:
+In 2017, Zambia revised its drug susceptible TB (DS-TB) treatment guidelines to change from an 8 months
+streptomycin containing regimen to an all oral 6 months regimen for retreatment TB cases; new and retreatments DS-TB
+patients were to take same regimen. We sought to understand the changes in treatment outcomes for retreatment TB
+cases since adoption of an all oral 6 months regimen and to compare the treatment outcomes of new and retreatment TB
+pInatteiernvtesn. tion:
+We analyzed programmatic data, from all the ten provinces in Zambia, of patients on treatment between
+2R0e1su6 latsn:d 2019 to determine the TB treatment outcomes stratified by new and retreatment TB cases.
+The treatment success rate among retreatment TB cases increased from 82% in 2016 to 89.2% in 2019, mortality
+rate reduced from 8.2% to 5.4%; treatment failure was constant at about 1% and loss to follow up reduced from 4.1% to
+2.8%. Among new cases, the success rate increased from 88.2% in 2016 to 89.5% in 2019 cohort, the mortality reduced
+fCroonmc l5u.6si%on tos: 5 .2%, treatment failure rates were less than 1%.
+Overall, there has been an increase in the treatment success rate of both new and retreatment TB cases.
+Unfavorable outcomes such as death, loss to follow up steadily decreased.
+Outcomes for retreatment notified 2019
+Year of T o t a l Treatment Lost to
+Success rate Died Not evaluated
+notification notified failed follow-up
+Treatment outcomes for new notified in 2019
+Biography
+Marshal Sikandangwa received a diploma in Clinical medicine (Chainama Hills College of Health Sciences - Lusaka, Zambia) in 2002
+and a diploma in TB control and epidemiology (Research Institute of Tuberculosis (RIT)   Tokyo Japan )in 2007. In 2017, finished his
+Degree in Public Health (Texila American University) and in 2019 Masters in Public Health(Texila American University in conjunction
+with Universidad Central de Nicaragua -UCN).
+Marshal started working at a medical clinic in 2002 before moving to the district to coordinator TB and Leprosy program in 2005.
+The same year (2005), he was promoted to be the provincial coordinator for TB and leprosy the position he had until 2013. In 2013,
+he worked as provincial TB/HIV liaison Officer until 2017. In 2018, he joined FHI360 and was seconded to the Ministry of Health
+headquarters as the National Multi Drug Resistant Tuberculosis (MDR-TB) Coordinator. He was move to FHI360 national officer in 2019
+as national TB/HIV technical officer the position he held until 2020 when he joined Centre for Infectious Disease research in Zambia
+as MDR-TB coordinator the position he currently holds. He has passion for TB and has worked in the development of TB materials and
+capacity building in the country.
+
+noitcefnI
+
+Shyamapada Mandal*2, Manisha Mandal1
+
+Department of Physiology, MGM Medical College, India
+
+Department of Zoology, University of Gour Banga, India
+Exploring the plant-derived natural antimetabolites against pathogenic bacteria
+: In silico approaches of drug discovery in combating bacterial infection to
+humans
+mergence of multiple antibiotic resistance among pathogenic bacteria, and lack of suitable antibiotic choice to combat
+them highlight the urgent need of effective alternatives for the treatment of such bacterial infection to humans.
+in silico Prunus avium Cajanus
+Phytochemicals have been considered as the most useful components of lead molecules in drug discovery. The current
+cajan
+Estudy performs molecular docking of phytochemicals from sweet cherry ( ) and pigeon pea (
+), targeting bacterial enzymes: dihydrofolate reductase (DHFR) and dihydropteroate synthase (DHPS) useful in
+Prunus avium
+nucleic acid biosynthesis among bacteria. The phytochemicals (small-molecules) which were utilized as the ligands in
+Cajanus cajan
+docking studies included caffeic acid, p-coumaric acid, sinapic acid and ferulic acid from , and cajaisoflavone,
+cajaflavanone and cajanone from .
+The anti-DHFR trimethoprim (TMP) and anti-DHPS sulfamethoxazole (SMZ) were used as the reference standards in
+molecular docking. The molecules studied through docking were then subjected to pharmacological property analysis.
+The top-scored ligands were selected for molecular dynamic simulation to authenticate the thermodynamically stable
+binding with the target proteins. The overall findings of the current study signify the usefulness of the phytochemicals
+as natural antimetabolites against human pathogenic bacteria, and this would also be valuable in aiding precise drug
+discovery from phytochemicals with systematic pharmacological understanding.
+Biography
+Dr. Shyamapada Mandal is Professor and Head of the Department of Zoology, and Dean (Science), University of Gour Banga, India. He is
+interested on infectious diseases, probiotics, and genomics and bioinformatics research. He did pre-PhD, PhD, and post-PhD research
+under the guidance of Professor Nishith Kumar Pal at Calcutta School of Tropical Medicine, India.
+He has published 118 articles with eight book chapters. He is life member of IAMM and IASR, India, and fellow member of SASS, India.
+Eight national academic and research awards have been conferred to him. He has guided 52 post graduate students; supervised three
+MPhil and three PhD students, and supervising 6 PhD and one MPhil students. Professor Mandal is among the world s top 2% scientists
+as per the survey of the Stanford University, published in PLOS (Public Library of Science) Biology (October, 2020). He is featured in the
+top 2% world scientists list for second consecutive time as published by the Stanford University-Elsevier BV (October, 2021).
+
+noitcefnI
+
+Amanda H Cavalheiro*, Andrea Q Ungari
+Faculty of Medicine of Ribeir o Preto, Brazil
+Adherence, physical limitation and social participation in leprosy patients in a
+high-complexity hospital
+Background:
+Therapies and procedures to improve the quality of life of patients and adherence to treatment is a concern
+for the health systems and for health professionals. More studies related to preventive and therapeutic education, using
+eOdbujecacttiiovneasl: technologies for health purposes are needed.
+To demonstrate the educational instruments developed by the researcher, as animated videos and posts, as
+well as the pharmacotherapeutic monitoring of pharmaceutical care, increase the adherence to the treatment of patients
+dMiaegthnoosdesd: with leprosy in a high-complexity hospital.
+This is a longitudinal study, using quantitative and qualitative assessment tests to assess adherence to treatment
+and general knowledge about the disease and quality of life. From the data, educational materials were produced and
+tReessteudlt os:n patients. Then, the impact of follow-up and instructional materials on treatment adherence was evaluated.
+Treatment adherence increases after the intervention of pharmaceutical care and health education, as per the
+Morisky-Green treatment test. The methodology was more effective in male patients with low education than in women,
+who already had high adherence. In addition, it was possible to identify that the Morisky-Green and Haynes-Sackett
+adhesion tests, used in the work, completely differed in their results, they occur to reflect the use of such tools in research
+iCno tnhcel uasreioan. :
+It is possible to increase patient treatment adherence through health education programs and pharmaceutical
+cKaeryew. ords:
+Audience TaEkdeu cAawtioayn:a l tools; Leprosy; Medication Adherence; Pharmaceutical care.
+
+
+How to manage with patients adherence in pandemic situation.
+
+How to use technologies to improve adherence in patients.
+
+How pharmacists can use their knowledge to help chronic patients.
+How to help leprosy patients to be more concerned about their treatment.
+Biography
+Graduated in Pharmacy-Biochemistry from the University of S o Paulo(USP), Research and Development Analyst for the Medicines,
+Cosmetics and Food Industry with project development in the Natural Products area together with USP; Specialist in Pharmacology and
+Drug Interactions and Specialist in Teaching in Higher Education. Health Instructor in education programs for patients with chronic
+and rare diseases. Taught classes for vocational courses. She has already been a Responsible Pharmacist in a distributor of medicines
+and drugstores. She is currently Professor of Pharmacy Technician and is finishing her master s degree at FMRP - USP, working with
+leprosy patients.
+
+noitcefnI
+
+Grace Lalana Christopher
+Grace Specialist Clinic, South India
+Early onset neonatal sepsis
+arly onset neonatal sepsis despite a low incidence has a high mortality rate of over 50%, hence early diagnosis and
+institution of antibiotics within 24 hours of birth is important to prevent not only the high mortality but also morbidity.
+However there is a lack of an ideal confirmatory diagnostic test within 24 hours of birth with 100% sensitivity and 100%
+Especificity is challenging to the clinician in making an accurate and early diagnosis of early onset sepsis. Most etiological
+pathogens cause in-utero with fetal infections and identification of predisposing high risk maternal, obstetric and neonatal
+factors are important as it support a high index of clinical suspicion warranting screening for sepsis.
+Multivariate analysis and multiple logistic regression of various antepartum, intrapartum and neonatal factors revealed
+that young mothers  24 years, OR 1.53, (95% CI 1.2-2.0) and primigravidae, OR 2.08, (95% CI 1.6-2.7) was highly
+statistically significant P>|z|=0.002 and P>|z| <0.001 respectively. Premature Rupture of Membranes (PROM) OR 12.96,
+(95% CI 9.5-18.4), P>|z| <0.001 as well as Gestational diabetes OR 2.19, (95% CI 1-1.3), P>|z| <0.008 was statistically
+significant. Surprisingly birth by emergency Lower Segment Cesarean Section (LSCS) OR 1.82, (95% CI 1.3-2.5), P>|z|
+<0.001, since the usual indication was fetal distress probably due to in-utero infection including neonatal risk factors of
+prematurity  36 weeks, OR 2.57, (95% CI 1.8-3.6), P>|z| <0.001 and Low Birth Weight (LBW)  2499g, OR 2.76, (95% CI
+2.1-3.7), P>|z| <0.001, and male gender, OR 1.88, (95% CI 1.1-3.0), P>|z| <0.008 were also highly statistically significant.
+Presently reported global incidence of neonatal sepsis was is low, less than 4%, while it was 8.9% in present study, clinical
+observation despite its limitation and diagnostic hematologic tests including serological markers tests remain the most
+practical means to confirm and monitor progress of disease or to withhold antibiotics in uninfected newborns thereby
+decreasing the emergence of multidrug resistant pathogens Thus early diagnosis based on presence of two or more high
+risk maternal, obstetric and neonatal factors, warrants screening for sepsis in newborns and early antibiotic therapy will
+not only save lives but also decrease morbidity of severe lifelong threatening sequelae such as seizures, mental retardation,
+blindness, hearing loss etc. The awareness of the role of infection causing high morbidity and mortality in the newborn has
+increased dramatically over the past few decades, emphasizing the importance of early diagnosis of early onset neonatal
+sepsis.
+Biography
+Dr. Grace Lalana Christopher completed both her undergraduate M.B.B.S. and postgraduate DCH at reputed Christian Medical College
+& Hospital, Vellore, South India, thereafter completed her DNB course from Bangalore. She has qualified for ECFMG (US) currently
+valid. She is a Consultant Pediatrician at Grace Specialist Clinic and Founder, CEO of  New Gen Parenting  @www.newgenparenting.
+com. She is an eminent speaker in the field of Perinatology and authored several books on Parenting and child care Website: www.
+newgenparenting.com. She has published several leading original scientific research papers in pediatrics and new-born care including
+innovative  Newborn Resuscitation  and presented papers at several reputed conferences.
+
+noitcefnI
+
+Amarjeet Gambhir
+Faculty, Department of Dental & Oral Surgery, Lady Hardinge Medical
+College & Associated Hospitals, India
+COVID-19 & fungal infections
+he outbreak of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory system coronavirus 2 (SARS-
+CoV-2) has been sweeping across the globe. It has been associated with a wide range of opportunistic bacterial and
+fungal infections. COVID-19 likely increases the risk for fungal infections because of its effect on the immune system and
+Tbecause treatments for COVID-19 (like steroids and other drugs) can weaken the body s defenses against fungi. COVIDassociated fungal infections can lead to severe illness and death. The most commonly reported fungal infections in
+patients with COVID-19 include aspergillosis, invasive candidiasis, and mucormycosis. Aspergillus species could be an
+important cause of life-threatening infection in COVID-19 patients, especially in those with high risk factors such as steroid
+use, chronic obstructive pulmonary disease, hemopoietic malignancy etc. COVIDassociated pulmonary aspergillosis
+(CAPA) usually occurs in patients with severe COVID-19 and can be difficult to diagnose because testing usually involves
+obtaining specimens from patients  lower respiratory tract. The treatment of CAPA includes antifungals like voriconazole,
+posaconazole, and isavuconazole.
+Patients hospitalized for COVID-19 are at risk for healthcare-associated infections (HAIs), including candidemia, or
+bloodstream infections caused by Candida. Diagnosis of invasive candidiasis (IC) depends on culture methods including
+culture of blood or other samples and nonculture diagnostic tests including mannan and antimannan IgG tests, C. albicans
+germ tube antibody (CAGTA), BDG and PCR-based assays. COVIDassociated mucormycosis erroneously referred
+to as  black fungus  is another fungal infection which became a major public health problem particularly in India. It is
+postulated that COVID-19 associated mucormycosis (CAM) is driven by complex host-microbe interactions. It may affect
+the lungs (pulmonary mucormycosis) but more frequently involves the nose, sinuses, eyes & brain (rhino-orbito-cerebral
+mucormycosis). Diagnosis is usually made by clinical findings supported by diagnostic nasal endoscopy or contrast-
+enhanced MRI or CT scan coupled with microbiological confirmation on direct microscopy, culture or histopathology.
+The treatment for mucormycosis frequently involves aggressive surgical intervention and treatment with antifungals,
+including amphotericin B, posaconazole, or isavuconazole. Fungal infections resistant to antifungal treatment have also
+been described in patients with severe COVID-19. As clinicians, we should be aware of the possibility of fungal co-infections
+with COVID-19 to reduce delays in diagnosis and treatment in order to help prevent severe illness and death from these
+iAnufedciteinonces. T ake Away:
+The presentation will provide an overview of the various fungal co-infections associated with COVID-19 with special
+
+emphasis on:
+
+Causes/predisposing factors.
+
+Pathophysiology & clinical presentation.
+Guidelines for diagnosis & management.
+Biography
+Dr. AMARJEET GAMBHIR graduated in dentistry from GDC, Indore in 2002 & completed his post-graduation in Oral & Maxillofacial
+Surgery from NHDC, Mumbai in 2006. He completed his Senior residency from Lady Hardinge Medical College & Hospital, New Delhi in
+2009. He worked as a faculty at different dental colleges and was promoted to Professor, Oral & Maxillofacial Surgery in 2016. He again
+joined Lady Hardinge Medical College as a Faculty in 2016. He is the co-investigator for  O-PMD Hub , A National Resource Centre for
+Oral Potentially Malignant Disorders under the National Oral Health Program, MoHFW, Government of India.
+
+noitcefnI
+
+Corsame, Lester Jay*
+Philippine College of Physician, Philippines
+Predictors of treatment outcome among drug resistant tuberculosis patient at
+the outpatient TB dots facility of Zamboanga city medical center
+he Philippines is one of the high tuberculosis burden countries and drug- resistance is widespread in the country
+and abroad and threatens the success of TB program. Timely and efficient MDRTD treatment is crucial in preventing
+disease transmission and reducing the morbidity and mortality. Review of literature showed disparate predictors of
+Ttreatment outcome and only prevalence studies are available in the Philippines. Hence, the findings of this study can
+be different among Filipinos. This study aims to determine the predictors of treatment outcomes among drug-resistant
+patients in outpatient setting at Zamboanga City Medical Center TB DOTS Center to enhance the TB program and its
+outcome.
+This study is a retrospective cohort analytical design, which was conducted at the TB DOTS Center of Zamboanga City
+Medical Center. Using the data registry book from January 2015 to December 2019, patient s demographic, and clinical
+characteristics were reviewed, collected, tabulated and analysis was done using binary regression to determine the
+predictors of treatment outcomes among drug-resistant tuberculosis patients. Of the 207 DR-TB patients, only 176 were
+p value p value p value
+included in the analysis, 120 (68.2%) had successful treatment outcome while 56 (31.8%) had poor treatment outcome.
+p values
+Age less than 40 years ( = 0.038), absence of diabetes ( = 0.079) and susceptible to isoniazid ( = 0.025)
+and streptomycin ( =0.012) were predictors of good outcome while none of the variables were predictors of
+mortality. The common drug resistance pattern were Rifampicin-resistant (56.8%), followed by MDR TB (36.4%). The
+common characteristics of drug-resistant tuberculosis are male sex, age more than 40 years old, married, living in urban
+areas and with history of previous TB treatment. None of the variables were predictors of mortality however, age less than
+40 years old, absence of diabetes, TB strains susceptible to isoniazid and streptomycin were predictors of good outcome.
+DAurudgi ernescies tTaankt,e t rAewatamy:e nt outcomes, MDR-TB, treatment success, poor outcomes MESH WORDS.
+
+The study results will help determine the risk factors common to Filipino people at high risk for drug resistant
+
+tuberculosis.
+
+The study results will help improve the existing policies and tailor fit to the Filipino people.
+Tuberculosis has been a global health concern in the world and Philippines is among the 30 countries with high TB
+burden. The results of the study may help determine risk factors that could affect the treatment outcome of drug
+
+resistant TB patients, and this will help improve the management to further enhance the treatment success rates.
+This study establishes the baseline data for Filipinos with Drug resistant TB and can be implemented in a wider scale.
+Biography
+Dr. Lester Jay Corsame finished his residency training in Internal Medicine at Zamboanga City Medical Center. He received his diplomate
+degree in 2022. Currently, he is under deployment program of the Department of Health to the rural areas.
+
+noitcefnI
+
+Asit Kumar Chakraborty
+Oriental Institute of Science & Technology, India
+Indian medicinal phytoextracts to tackle multi-drug resistant bacterial
+infections targeting RNA polymerase and DNA topoisomerase
+radual increase of multidrug resistant infections is a threat to the human race as MDR plasmids have acquired.>10
+mdr and drug efflux genes to inactivate antibiotics. Plants secret anti-metabolites to retard growth of soil and water
+bacteria and are ideal source of antibiotics. Six plants derived bacteriocidal organic extracts were selected testing 80
+Gmedicinal plants against MDR bacteria. A Cassia fistula saponin bromo-polyphenol compound (CU1) ran fast on TLC and
+purified on HPLC C18 column at 3min. CU1 is three times less active than rifampicin in Agar-hole assay. CU1 inhibited
+transcription from Escherichia coli as well as Mycobacterium tuberculosis RNA Polymerases. Gel shift assays demonstrated
+that CU1 interferes at the open promoter complex formation step. Phytochemicals are unstable and we thought three
+Suregada multiflora
+possible remedies: (a) search for more active and stable extracts, (b) cultivation of plant in big clay pot keeping in the roof
+top located in cities, and (c) plant tissue culture. A single tree of was grown five years in roof top at
+Kolkata and its root extracts was found exceptionally active (18 fold than natural sources) against MDR bacteria.
+Further, in MS tissue culture media with plant hormones IAA and 6-BA (2.5 g/ml), over-produced active principles
+Leishmania donovani, Trypanosoma brucei Plasmodium falciparum
+further 2.8 fold. We purified the active principle NU2 by TLC and HPLC, and also confirmed by MASS, NMR and FT-IR. NU2
+phytochemical also inhibited some parasites like and .
+NU-2 actively inhibited the DNA topoisomerase I and RNA polymerase of Escherichia coli suggesting the modes of action.
+Thus, cities of poor nations with population burden should cultivate medicinal plants in small garden or roof top in a similar
+way for superbug treatment where common antibiotic therapy fail. This message is urgent and universal as scientists
+projected that MDR spreading may claim 10 million people in the Asian countries as we would approach 2050. We think
+antibiotic void will continue due to few reasons: (1) MDR genes are accumulated in large conjugative plasmids as well as
+chromosome islands with many transposons; (2) the spread of MDR genes in plasmids is increasing at 5%/year and (3)
+a critical message has generated to protect symbiosis relation between gut bacteria and human facilitating efficient MDR
+genes creation to protect gut microbiota from antibiotics as well as helping vitamin synthesis for human metabolosome.
+Biography
+Dr. Asit Kumar Chakraborty was performed his PhD at CSIR-Indian Institute of Chemical Biology, Kolkata and awarded PhD degree in
+1990 from Calcutta University. He did postdoctoral work at University of California at Berkeley and visiting scientist at Johns Hopkins
+University School of Medicine. He was Associate Professor of Biochemistry at OIST, Department of Biotechnology, Vidyasagar University
+and now retired.
+
+noitcefnI
+
+Annapurna Ahuja
+Department od Periodontics and Oral Implantology, India
+Periodontitis and adverse pregnancy outcomes. A possible link
+n 1900, William Hunter, a British physician, first developed the idea that oral microorganisms were responsible for a
+wide range of systemic condition and he also identified gingivitis and periodontitis as foci of infection. The focal infection
+theory, proposed by hunter was based on almost no evidence. Currently, in re-examining the potential association between
+Ioral infections and systemic conditions, it is important to determine what evidence is available, and is still needed to
+substantiate the association and to validate the possible mechanism of association. So this evidence paper reviews
+current knowledge relating periodontitis to preeclampsia and pre term birth(PTB).Thus the Focused question: is  does
+pBearcikogdroonutintids :c ause adverse pregnancy outcomes? 
+Periodontitis is an inflammatory disease affecting supportive tissues of the teeth, leading to progressive
+destruction of connective tissue attachment and the alveolar bone. This destruction is characterized by the formation of a
+periodontal pocket. Because of its chronic inflammatory infectious nature, periodontitis has been considered a systemic
+exposure implicated with causative agent in variety of systemic diseases and condition. Recent findings have suggested
+that periodontal diseases are associated with a higher risk of cardiovascular diseases, atherosclerosis and adverse
+pAruedgineannccey Toauktceo Amweasy, s: uch as preterm birth and low birth weight and preeclampsia.
+
+
+Learning the importance of oral hygiene and effects of periodontitis on systemic health.
+
+Audience shall learn about the effects of oral microorganisms on pregnancy.
+Along with seeking advice from Gynecologist one should also consider visiting oral health specialist during pregnancy.
+Biography
+Prof. Dr. Annapurna Ahuja, studies her Masters of dental surgery from the prestigious college of dental science and hospital, affiliated to
+Rajiv Gandhi University of health sciences, Bangalore in 2009. She then joined Dental College as a Teaching Faculty. She has published
+more than 40 research articles, 8 text books of her specialty, one chapter contribution. She is a very active part of the research and has
+4 copyrights of her work in the field of Periodontics. She is also a renowned poet, has written more than 200 poems. Has a recipient of
+Best book award for her debut book, BAPUJI written in Indian Language. Presently she is associated with Hazaribag College of Dental
+Sciences & Hospital, as Head of the Department, Dept. of Periodontics & Oral Implants.
+
+noitcefnI
+
+Balamurugan. R MDS (OMFS)
+Fellow ICOI (USA) Oral and Maxillofacial Surgeon, India
+Maxillary mucormycosis treated by maxillectomy : A complication of oroantral
+fistula 6 months post-surgery planned for functional endoscopic sinus surgery
+(FESS) and palatal finger flap reconstruction
+Introduction:
+Mucormycosis is an opportunistic fungal infection predominantly caused by the Rhizopus and Mucor
+sCpaescei eDse. Tschrei putbiioqnu:i ty of mucormycosis is high with poor prognosis because of the delay in diagnosis and intervention.
+A 68 year old male patient who is diabetic since the past 20 years reported with pain and ulcerations
+in the maxillary alveolus. Biopsy of the region revealed it to be a mucormycosis which was then operated by performing
+a maxillectomy. After six months of surgery, the patient reported back with oroantral fistula, which was further explored
+tChornoculguhs ifounnc: tional endoscopic surgery and then soft tissue reconstruction was done using palatal finger flap.
+The current case scenario signifies that through early diagnosis and intervention it is possible to achieve
+good prognosis and can also remarkably decrease the mortality rate.
+Biography
+Dr. R. Balamurugan is an Oral and Maxillofacial Surgeon and Oral Implantologist from Chennai, India. He initiated his professional
+career in the field of dentistry and continued his specialisation in the path of Oral and Maxillofacial Surgery (India) and Fellowship in
+Oral Implantology (International Congress of Oral Implantologists ICOI, USA). His field of expertise in basic dental treatments, dento-
+alveolar surgeries, maxillofacial trauma, dental implants, medical emergencies, pathologies associated with maxillofacial region, TMJ
+related disorders. He was awarded as the best PEER REVIEWER by Star Dental Centre Pvt Ltd, India for his sincerity and dedication
+towards work by adhering to the timelines with a prompt reviewing process.
+He holds various International and National peer reviewed paper publication that adds credit to his career. He is associated with
+International and National journals as editor and reviewer board member and he has also been invited as a keynote speaker globally.
+He also encourages and motivates the authors to explore with new innovative ideas in the field of research. Currently, he is a researcher
+and walks in the right path of motivation by providing a heart of service for the patients as an Oral and Maxillofacial Surgeon in RYA
+Cosmo Foundation, Chennai, India. His research interest include: Dentistry; trauma of maxillofacial region; dentoalveolar surgeries;
+pathologies of maxillofacial region; bone grafts; dental implants; temporomandibular joint disorders, cleft anomalies, reconstruction
+of jaws.
+2ND EDITION OF WORLD CONGRESS ON
+INFECTIOUS
+DISEASES
+17-18 ENUJ
+POSTERS
+DAY 01
+Infection 2022
+
+noitcefnI
+
+Seema Mittal*, Surender Kumar
+Associate Professor, Microbiology, BPS GMC, Khanpurkalan, India
+Professor and Head of Microbiology, BPS GMC, Khanpurkalan, India
+Prevalence of rifampicin resistance in pediatric tuberculosis vases in rural area
+of Northern India
+Background:
+Globally, tuberculosis (TB) continues to exact an unacceptably high toll of disease and death among children,
+particularly in the wake of the HIV epidemic. Increased international travel and immigration have seen childhood TB rates
+increase even in traditionally low burden, industrialised settings, and threaten to facilitate the emergence and spread of
+multi-drug resistant strains. While intense scientific and clinical research efforts into novel diagnostic, therapeutic and
+preventative interventions have focused on TB in adults, childhood TB has been relatively neglected. However, children
+are particularly vulnerable to severe disease and death following infection, and those with latent infection become the
+reservoir of disease reactivation in adulthood, fueling the future epidemic. Further Advances in our understanding of TB
+iAni mch:i ldren would provide wider insights and opportunities to facilitate efforts to control this ancient disease.
+MaterTioa lf ianndd p Mreevtahleondcse: rate of tuberculosis and multi drug resistance tuberculosis in pediatric age group.
+This was a retrospective observational study done in department of Microbiology of Bhagat phool
+Singh Government Medical college , Khanpurkalan, Sonepat, Haryana during a time period of nine months from January
+2021  september 2021. A variety of clinical samples were collected from suspected patients of pediatric age group (0-
+14 years) including samples from OPD and IPD patients. These samples were processed for diagnosis of Mycobacterium
+tRuebseurlctlse: bacilli via CB-NAAT as per standard protocol and results were recorded both digitally as well as manually.
+A total of 1279 various clinical samples were processed, out of which 46 samples were from pediatric age
+group. Among these 46 clinical samples , 10 (21.74%) samples came to be positive with Mycobacterium tuberculosis and
+resistance to Rifampicin was detected in one(2.17%) sample (Intermediate level). This positivity rate was most prevalent
+iCno angcelu gsoiuopn :o f 13-14 years old patients (32.60%) followed by age group 11-12 years old patients (17.4%).
+Tuberculosis in children is an epidemiological indicator of recent transmission of Mycobacterium tuberculosis
+in the community. Efforts must be made to collect microbiological specimens before initiating treatment whenever possible.
+Management by an experienced paediatrics team allows an accurate diagnosis even when microbiologic confirmation is
+nKoety pwoosrsdibsl:e .
+Audience TaTkueb eArwcualyo:s is, Mycobacterium tuberculosis, Paediatrics, Diagnosis.
+
+This study explains an important role of pediatric age group tuberculosis, in higher prevance rate of tuberculosis
+cases in India, which are usually not diagnosed at all. These cases most of the times remain hidden in society and act
+
+as source of infection to other person in contact.
+Therefore, refined use of technology, clinical expertise, specific focus on suspected pediatric population for screening
+tuberculosis with prompt / continuous treatment can alter this higher prevalence of endemic tuberculosis in India.
+Biography
+Dr. Seema is a medical microbiolgist graduated her M.D. Microbiology in 2013 from Pt B.D.S PGIMS, Rohtak , Haryana, India. She then
+joined the Health university Rohtak as Sr. Resident in department of Microbiology, followed byjoining as Assistant professorship at BPS
+GMC, SONEPAT, INDIA. Now she is working at the position of an Associate Professor at the BPS GMC. She has published more than 30
+research articles in SCI (E) pubmed and various other indexed journals.
+
+noitcefnI
+
+Rosanova, M T *; Voto C; Carnovale S; Tramonti N; Lema J;
+Pinheiro J L; Isasmendi A; Alvarez V; Villasboas R M; Laborde
+S, Highton E, Trugman F and Caracciolo B, Juan P. Garrahan
+University of Buenos Aires, Argentina
+Osteomyelitis in pediatric burn patients in a pediatric burn unit from Argentina
+Introduction:
+Objective: Osteomyelitis in burn patients is rare.
+To describe the clinical, microbiological and evolution characteristics of burned children with osteomyelitis
+hGoosapl:i talized in a high complexity hospital.
+To describe the clinical, microbiological and outcome of children diagnosed with osteomyelitis hospitalized in a
+tMerettiharoyd Ps:e diatric Burn Unit.
+Results: Retrospective and descriptive study carried out during the period from January 2007 to January 2017.
+Of a total of 600 burned children, 12 presented osteomyelitis (incidence of 2%). Eleven patients presented burns
+due to direct fire. The median age was 42.5 months (interquartile range -IQR118 months) and the burned area was
+33.5% (IQR 18.5-58%). Osteomyelitis was diagnosed a median of 30 days post-burn. The most frequent locations were
+the upper extremities and the calvaria. Fever was the most common clinical manifestation. The most frequently isolated
+microorganisms in bone tissue were fungi in 9 patients. All presented compatible pathological anatomy. The median of
+tCroenatcmluesniot nw:a s 44.5 days (IQR 34.5-65.5 days). Six patients presented motor sequelae and 1 patient died.
+Fungal etiology was the most frequent. Half of the patients presented functional sequelae and only one
+patient died.
+Biography
+Dr. Maria Teresa Rosanova MD. PhD. Pediatric Infectologist Doctor of Medicine from the University of Buenos Aires. Clinical Head of the
+Infectious Disease Service Hospital de Pediatr a Juan P. Garrahan.
+
+noitcefnI
+
+Nashwa M. Al-Kasaby*1, Maysaa El Sayed Zaki1, Abdel-
+Rahaman Eid2, Amany Y. El Ashry1
+
+Medical Microbiology and Immunology Department, Mansoura Faculty of
+Medicine, Egypt
+
+Genetic Unit-Pediatric Department, Mansoura University, Egypt
+
+Clinical Pathology Department, Mansoura University, Egypt
+Molecular study of norovirus in pediatric patients with gastroenteritis
+cute diarrhea is a common cause of morbidity in children worldwide. Rotavirus, as an etiology of acute diarrhea,
+has been decreased after the implementation of vaccine and norovirus has become the most prevalent viral etiology
+of acute gastroenteritis. Norovirus is a non-enveloped RNA virus associated with acute gastroenteritis transmitted by
+Afecal-oral route in all age group. The aim of the present study was to detect the prevalence of norovirus and genotypes
+determination by real-time PCR among children below 18 years as an etiology of acute gastroenteritis and to compare rapid
+detection of norovirus by Enzyme-Linked Immunoassay (ELISA) to virus detection by real-time PCR. The research was a
+cross-sectional study conducted on children below 18 years complaining of community-acquired acute gastroenteritis.
+A stool sample was subjected to direct-antigen detection by ELISA for norovirus and molecular study by real-time
+polymerase chain reaction. The study included 200 children with acute gastroenteritis with a mean age of 6.7 3.8 years.
+Norovirus antigen was detected by EIA in 34.5% and by real-time PCR in 30.5% of studied children with genotype GII,
+the predominant detected genotype (80.97%). Both real-time PCR and antigen detection of norovirus were positive in 43
+(70.5%) of the children and negative in 113(81.3%) of the studied children. The sensitivity, specificity, positive predictive
+value, negative predictive value and accuracy for antigen detection by ELISA were 70.5%, 81.3%, 62.3%, 86.3% and 78%,
+respectively. Comparison between patients positive for norovirus and those negative for norovirus by real-time PCR
+rAeuvdeiaelendc en oTna-kseig Anwifiacya:n t difference as regards age, sex, the season of occurrence and residence.
+
+The present study highlights that norovirus prevalence is common among pediatric patients with gastroenteritis
+
+above 5 years with GII genotype as the prevalent genotype.
+There was a significant correlation between positive and negative results of antigen detection of norovirus by ELISA
+
+and detection of RNA of norovirus by real-time PCR in stool samples.
+However, the screening for norovirus by ELISA has limited sensitivity and needs to be associated with a molecular
+method for accurate diagnosis of sporadic cases of gastroenteritis.
+Biography
+Dr. Nashwa Elkasaby, MSc, PhD is an associate professor of Medical Microbiology and immunology at the University of Mansoura. She
+received her, Ph.D. degree in Medical Microbiology with a specialization in Virology 2011 from Faculty of Medicine, Mansoura University,
+Egypt. Dr. Nashwa has an experience of more than 15 years in research and teaching and has collaborated with researchers from
+different countries. A longside her academic work, Dr. Nashwa was an active member in Infection prevention and control Committee
+and Antibiotic Stewardship Programs in Mansoura university hospitals (Egypt) and Sohar hospital (Oman).
+
+noitcefnI
+
+Anas Alyousef*1, Mubarak Alfaresi2, Nenad Pandak3, Nervana
+Habashy4
+
+Amiri Hospital, Kuwait
+
+Sheikh Khalifa General Hospital, UAE
+
+The Royal Hospital, Oman
+
+Medical Science Liaison, UAE
+Overview of urinary tract infections (UTIs) in adults in five Arabian gulf
+countries : A literature review
+Background:
+Urinary tract infections (UTIs) are the most common bacterial infections in adults that compels immediate
+treatment to avoid serious complications. However, selecting the appropriate antibiotic therapy is challenging because of
+the emerging antibiotic resistance. The purpose of this narrative literature review is to gain knowledge on the prevalence
+of UTIs, predominant etiological agents, common risk factors, resistance patterns, and current antimicrobial therapy in
+fMiveet hAoradbsi:a n Gulf countries.
+A literature search was conducted for articles published from five Gulf countries (United Arab Emirates, Bahrain,
+Qatar, Oman, and Kuwait) between October 2011- September 2021 using  PubMed  and  Google Scholar  databases.
+Articles were eligible for inclusion if they were retrospective or prospective research studies conducted on adult patients
+oRre msuelttas-: analyses of such studies. The search was limited to English language.
+UTIs were found to be more common among women than men across the region. The mean age of UTI patients
+ranged between 39 and 55.6 years. Uncomplicated and complicated UTIs accounted for 78.70% and 6.40%, respectively.
+Renal transplant, diabetes and prolonged catheterization were common risk factors for UTIs. Among renal transplant
+recipients, 35.19% had symptomatic UTI and 86% had symptomatic and asymptomatic bacteriuria. The rate of UTIs among
+diabetic patients was reported as 35%, detected by urine analysis. Additionally, the overall rate of catheter associated UTI
+(CAUTI) varied from 0.4 to 9 per 1000 catheter days.
+Escherichia coli was noted to be the primary uropathogen (11.1% to 32.5% for hospital-acquired (HA-UTI) and 61% to
+76.5% for community acquired (Ca-UTI)), followed by Klebsiella pneumoniae (6% to 40% for HA-UTI and 16.4% to 23.5%
+for Ca-UTI), Acinetobacter baumannii (16.7% to 37.5% for HA-UTI and 0.52% for Ca-UTI), Pseudomonas aeruginosa (2%
+to 17.5% for HA-UTI and 0.8% for Ca-UTI), and Staphylococcus aureus (around 3% for HA-UTI and 0.81% for Ca-UTI).
+Prevalence of methicillin-resistant S. aureus was found to be 9.09% among overall UTI patients. The major extended
+spectrum beta-lactamase (ESBL) producing organisms were E. coli (11.1% to 32.5% for HA-UTI, 23% to 27.4% for Ca-UTI
+and 38.4% in CAUTI) and K. pneumoniae (16.6% to 20% for Ca-UTI and 56.7% for CAUTI).
+The prevalence of carbapenem-resistant E. coli and carbapenem-resistant K. pneumoniae in Ca-UTI was documented to
+be 0.12% to 0.34% and 0.89%, respectively.
+The most commonly prescribed antimicrobials included ciprofloxacin, ceftriaxone, and co-amoxiclav. E. coli and K.
+pneumoniae exhibited increased resistance against ampicillin (31% - 100%) and cotrimoxazole (42.7% - 100%), and low
+rCeosnisctlaunscieo nto: amikacin, piperacillin-tazobactam and meropenem.
+Evolving antibiotic resistance is becoming a therapeutic challenge and proving to be an emerging public
+threat across the region. There is an evident need for reliable regional epidemiological studies to ascertain the burden
+of UTIs, and to assess appropriateness of empiric antibiotic therapy and the impact on patient outcomes in different UTI
+sKeetytiwngosr.d Esn: hanced surveillance is recommended to monitor antimicrobial resistance in UTIs.
+What will thAed ualutsd, iAenntcieb iloetaicr nre fsriostman ycoeu, Gr uplrf ecsoeunnttariteios,n U?rinary tract infections.
+
+The paper sheds light on the epidemiology and etiology of UTIs in five Gulf countries. The findings highlight the
+prevalence of UTIs in specific population groups and shows the difference in etiology between Ca-UTI and HA-UTI
+in the region.
+
+noitcefnI
+
+
+The paper highlights that UTI management should be tailored based on patient risk factors and suspected MDR
+
+bacterial infection.
+Commonly prescribed antibiotics demonstrated increased resistance. Therefore, there is a need for novel antimicrobials
+
+to tackle the emerging antimicrobial resistance.
+Increasing multi-drug resistance in UTIs across the region is a concern that necessitates judicious use of antibiotics.
+Moreover, there is an increase in the prevalence of carbapenem-resistant bacteria among patients with Ca-UTI
+which warrants urgent action. The insights shared in this review can be vital in developing effective Antimicrobial
+
+Stewardship (AMS) programs in the region.
+The paper calls attention to the need for studies to assess the appropriateness of empiric antibiotic therapy and
+impact on patient outcomes. Data obtained from such studies can prove to be fundamental in drafting local guidelines
+on the use of antimicrobials and supporting proper management. Such data can also be insightful to researchers
+seeking to expand their research on the same topic. Additionally, there is a prerequisite for large epidemiological
+studies to assess the burden of UTIs across the region.
+Biography
+Dr. Anas Alyousef is the Vice President of Kuwait Nephrology Association. He is a consultant in Internal Medicine & Nephrology and
+is the Head of Nephrology and dialysis centers at Amiri Hospital, Kuwait. He holds a Canadian Board Certificate in Internal Medicine
+(2008) and in Nephrology (2009) from University of British Columbia, Vancouver, Canada.
+
+noitcefnI
+
+Asmaa Al-Rashed*1, Walid Abuhammour1, Zakariya Yahya Al-
+Balushi2, Nervana Habashy4
+
+Pediatric Infectious Diseases, UAE
+
+Infectious Disease Consultant, Oman
+
+Department of General Surgery, Kuwait
+
+Medical Science Liaison, UAE
+Overview of intra-abdominal infections in five gulf countries : A literature
+review
+ntra-abdominal infections (IAIs) are the most common cause of morbidity and mortality in surgical emergency patients.
+Early appropriate antimicrobial therapy is challenging because of the emerging antimicrobial resistance (AMR) leading
+to prolonged hospitalization and increased mortality, morbidity and healthcare costs. The article aimed to review
+IeMpeidtheomdios:l ogy, etiology, resistance patterns and current antimicrobial therapy for IAIs in five Gulf countries.
+Literature search was conducted for published articles from five Gulf countries (United Arab Emirates, Bahrain,
+Qatar, Oman and Kuwait) between January 2011 - September 2021 using  PubMed  and  Google Scholar . Retrospective or
+prospective research studies conducted on adult/paediatric patients or meta-analyses of such studies in English language
+oRnelsyu wltesr: e included.
+From 69 screened studies, 18 met the inclusion criteria. Mean age of IAIs patients ranged between 29.6 - 53.2
+years with male predominance (52.9   95.6%) noted across all clinical entities of IAIs. Among IAIs patients, 61% were
+appendicitis, peritonitis (55% with single episode and 45% with multiple episodes), intra-abdominal abscess/pelvic
+abscess formation (46.4%), perforated duodenal ulcers (20.0%), bowel injury (57.5% for small bowel, 33.1% for colon,
+and 9.4% for combined small and large bowel), diverticulitis (3%) and small bowel perforation (1%).
+Positive cultures were reported in 46.26% with liver abscess, 62.2% with peritonitis, and 3.32% with patients who
+Staphylococcus epidermidis Pseudomonas aeruginosa
+underwent appendectomies. The common causative pathogens differed based on the site of infection. The most common
+Staphylococcus
+cultured bacteria in peritonitis were (21%), (14%) and extended
+Streptococcus
+spectrum beta-lactamase producers (ESBLs 3%). In Peritonitis patients undergoing peritoneal dialysis,
+was the main causative pathogen (14.9%) followed by (13.2%).Klebsiella pneumoniae Streptococcus
+melleri Escherichia coli Prevotella bivia Enterococcus bovis
+Common pathogens isolated from blood culture of pyogenic liver abscess were (38%),
+(11%), (4%), and Escherichia coli(2%). Pseudomonas aeruginosa
+Escherichia coli Enterococcus faecalis Klebsiella pneumoniae
+For surgical site infections following appendectomies, ESBL represented 60%,
+(20%) and (non-ESBL), , (ESBL) were reported to be 5% each.
+For pyogenic liver abscess, the mean duration of hospitalization was 13.6   8.1 days, and the mean duration of antibiotic
+therapy was 34.7   40.6 days. A mean length of stay of 6.42 days was reported with complicated appendicitis versus 3.82
+days with non-complicated appendicitis. Higher in-hospital mortality in patients infected with multi drug resistant (MDR)
+bacteria as compared to those infected with other bacterial isolates (16.6% vs. 4.9%). Prolonged antibiotic usage was
+reported in patients who refused invasive procedures and received solely intravenous antibiotics for 14 days followed by
+4 weeks of oral antibiotics.
+Commonly prescribed antibiotics included ceftazidime, vancomycin, cefepime, meropenem, piperacillin/tazobactam,
+tCiogenccyluclsinioen a:n d metronidazole. Inappropriate use of empiric piperacillin-tazobactam for peritonitis was reported.
+IAIs are heterogenous set that poses significant management challenge. A call for attention to generate more
+reliable regional epidemiological studies on IAIs in adults and paediatrics which would provide a strong foundation for
+better understanding and management. Enhanced surveillance is crucial to monitor evolving AMR in IAIs and support
+stratified management approach. Antimicrobial stewardship efforts focused on IAIs are recommended to guide appropriate
+antibiotic usage.
+
+noitcefnI
+
+Audience Take Away:
+
+This review showcases the epidemiology of various infections within IAIs and their etiology considering causative
+
+pathogens differ from one site of infection to another.
+The review also highlights the rise in resistant pathogens and their impact on mortality, reflecting the need for novel
+
+antimicrobials.
+Inappropriate antibiotic use was noted in some of the studies which warrants steps to be taken for justified use
+of antibiotics to curb the rise of MDR bacteria. This demonstrates the importance of implementing antimicrobial
+
+stewardship (AMS) programs to ensure appropriate antibiotic use in the region.
+The abstract highlights the scarcity of clinical data for IAIs from the five Gulf countries and emphasizes on the need to
+conduct reliable epidemiological studies on IAIs in adults and pediatrics which would provide a strong foundation for
+
+a better understanding and management of IAIs in the region.
+It also emphasized that enhanced surveillance is required to monitor increasing AMR in IAIs and tailor management
+strategies based on the information gathered.
+Biography
+Dr. Al-Rashed practices as general and a bariatric surgeon and as an intensivist in the in Al-Amiri Hospital, Kuwait. She is a Fellow of
+the Royal college of Surgeons of Canada and a Fellow of the American College of Surgeons. She has received her board certification
+and training in general surgery at McGill University, in Montreal, Canada. She is the Assistant Program Director of the Surgical
+Foundations Program, a clinical tutor and a lecturer for the Kuwaiti Boards of Surgery and the Critical Care in Kuwait Institute for
+Medical Specialization (KIMS).
+2ND EDITION OF WORLD CONGRESS ON
+INFECTIOUS
+DISEASES
+17-18 ENUJ
+KEYNOTE FORUM
+DAY 02
+Infection 2022
+
+noitcefnI
+
+Gayatri Tripathi*, R. Bharathi Rathinam, Monalisha
+Kumar and Amulya, S.G.
+Department of Aquatic Animal Health Management, Maharashtra, India
+Prevalence of Vibrio sp. in farmed shrimp and application of probiotics as a
+possible strategy for the prevention and treatment
+ibrio is a well-known opportunistic bacterial pathogen with a long history of causing substantial economic losses
+and mass mortality in shrimp aquaculture. It can cause up to 100% mortality and is estimated to cost the shrimp
+industry $3 billion in global losses each year. Early mortality syndrome (EMS), also known as acute hepatopancreatic
+Vnecrosis disease (AHPND), is one of the most recent cases of vibrio-related diseases and it has put a significant dent
+in Asian shrimp production profits over the last decade. The causative pathogen Vibrio parahaemolyticus is also
+Vibrio sp
+associated with seafood contamination leading to food-borne illnesses around the world. Studies were conducted to
+record the pathogenic profile of ., their virulence, abundance and qdistribution in shrimps farmed in Inland
+Vibrio parahaemolyticus V. alginolyticus V. cholerae V.
+saline water and if their pathogenicity is influenced by any kind of alterations in salinity. A total of 181 Vibrio isolates
+fluvialis V. vulnificus V. furnissii V. campbellii V. harveyi V. proteolyticus
+comprised of 12 species i.e., (22.65%), (17.13%), (12.15%),
+V. splendidus V. mimicus V. mediterranei
+(2.76%), (0.55%), (0.55%) and (0.55%) were recorded from the inland saline
+shrimp farms. Among them, 32 Vibrio isolates exhibited positive results on many of the virulence potential tests such
+as salt tolerance test, slime formation ability and various hydrolytic assays. Such virulent Vibrio isolates have already
+been reported to cause several diseases in shrimp farming. The reports on the presence of multiple drug-resistant
+Vibrio sp. in shrimp aquaculture systems emphasizes the need to find alternative measures to control this bacterial
+pathogen in shrimp farming. To combat Vibrio infection in shrimp farming, probiotics have acquired popularity as an
+Litopenaeus vannamei
+alternative to antibiotics and as a bioaugmentation strategy. An experiment was conducted to determine the effect of
+probiotic on the health and vibriosis of shrimp . A probiotic feed was used for healthy and vibrio
+L. vannamei
+challenged shrimp. The results showed that the probiotic-fed shrimp displayed better growth and survival rate than
+tWheh acot nwtriloll t ahned a suigdnieifniccaen ltelya rimn pfrroovme dy othuer rperseissteanntcaet oiof n? to this bacterial infection.
+  It will help the audience to understand the prevalence of Vibrio pathogen in farmed shrimp and the need for a
+strategy to mitigate the disease.
+  The presentation will also explore the importance of a probiotics-incorporated diet to combat vibrio infections
+that can also reduce the antimicrobial resistance issues in shrimp culture systems. The growth and survival of
+experimental animals were found to be higher in the probiotic administrated group than in the control, indicating
+the possible solution for preventing and controlling vibriosis.
+Biography
+An accomplished scientist and experienced professional, armed with a Ph.D. degree in Life Sciences. She is working as a Principal
+Scientist in the Aquatic Environment and Health management Division of the Central Institute of Fisheries Education, Mumbai.
+She possesses comprehensive experience in aquatic animal diseases & their diagnostic research encompassing embryonic stem
+cell biology, nanotoxicology, and immunotoxicology.A recognized researcher in the field of fish disease diagnosis and therapy with
+an enviable track record of scientific achievements through publications as well as researching and implementing new scientific
+concepts and procedures. More than 50 publications comprising papers in international journals and national journals and book
+chapters. She has 1483 citations to her name and has achieved an i10 index of 29.
+
+noitcefnI
+
+Hector Javier Gallardo Valencia*, Maritza Ivonne
+Rodriguez Silva
+School of veterinary medicine and zootechnics, University of michoacan/
+morelia, Mexico
+Effect of ozone on hematological parameters
+zone therapy has been used for therapeutic purposes since the end of the 17th century, in different modalities
+with unexpected therapeutic results in some pathologies. However, there is still a high prejudice in the medical
+community in general to the use of this therapy (Schwarts & Martinez-Sanchez, 2012). The objective of the present
+Oinvestigation was to compare the effects of ozone applied by rectal insufflation on hematic cells, both the red and
+white formulas with different levels of ozone and measured at 24, 48 and 72 hours post application. 3 batches of 5
+rabbits each were used in which 3 different doses of ozone were applied by rectal insufflation: the first batch only
+oxygen, the second batch 35 micrograms/ml/kg of live weight of ozone and the third batch 70 micrograms/ml. ml/
+kg live weight of ozone.
+The results of the hemograms were concentrated in tables and the data was entered into the SAS statistical program,
+showing in table 5 ANOVA at 24 hours significant differences in leukocytes and segmented neutrophils, likewise at 48
+hours significant differences are also observed, maintaining the segmented neutrophils and adding lymphocytes and
+monocytes. As conclusions, it can be ensured that, with the administration of ozone rectally, bone marrow and the
+immune system are stimulated for the production and release of leukocytes into the blood circulation and the use of
+ozone therapy has demonstrated its effectiveness in inducing immune responses and stabilization in the lymphocyte
+pAruoddiuecntcioen T.ake Away:
+  Importance of the use of ozone therapy.
+  Impact of ozone therapy on hematological parameters.
+  Effects of ozone therapy on the immune system.
+Biography
+Dr. Hector Javier Gallardo Valencia studied Veterinary at the Michoacana University, M xico and gradruated as MS in 2001. He has
+worked with wild species and private clinical with small animals. He received his PhD degree 1n 2015 at the Oviedo University. He
+obtained the position of an Associate Professor. He has published a several research articles.
+
+2ND EDITION OF WORLD CONGRESS ON
+INFECTIOUS
+DISEASES
+17-18 ENUJ
+SPEAKERS
+DAY 02
+Infection 2022
+
+noitcefnI
+
+1Anju Kaushal* and 2Rashed Noor
+
+Assistant Professor (Former), New Zealand
+
+Associate Professor, Independent University Bangladesh(IUB), Bangladesh
+Changing microbiota in hospitalized patients increase the COVID-19 severity, a
+possible cause of developing the dysregulated immune response- A literature
+study
+uman physiological homeostasis and onset of the disease, is largely depend on the interactions among resident
+Faecalibacterium prausnitzii, Eubacterium rectale bifidobacteria
+microbiome of skin, oral cavity, respiratory tract, gastrointestinal system, genital area, and host s protective immunity.
+Gut probiotics like and , influence the immunomodulatory
+Hsignaling, were noted to be depleted in hospitalized patients even after the disease resolution than healthy individuals.
+IBD is induced by SARSCoV-2, could stimulate the severity events via alteration of the gut microbiota during/ after the
+respiratory infection. The viral RNA signature in the faecal samples of recovered patients and its presence for longer
+period, even after the clearance of the virus from respiratory tract, is suggestive of dysbiosis leading to the poor prognosis
+of COVID-19 in ICU patients.
+GM plays a significant role to stimulate the modulated antiviral immune response against invading pathogens regulating
+Bacteroidaceae, Lachnospiraceae Ruminococcaceae
+the physiological homeostasis. GM profile of COVID-19 patients has revealed the drastic depletion of dominant families
+Enterococcus, Staphylococcus, Streptococcus, Serratia
+of commensals viz., and , were reported to be substituted with
+etc.; consequently, developing the dysfunctional activities of Th1-
+Th2 cells along the lung-gut axis exchanging microbes & other toxic metabolites and translocating them to the other body
+organs too. It is also speculated that the gut virome and bacteriophages could also interfere in maintaining / or disrupting
+the homeostasis. Excessive secretion of chemokines and cytokines cause ARDS, interstitial pneumonia and organ failure.
+Virome/ and microbiome also interact with immune cells to regulate the immune signaling mechanisms. Therefore, it is
+iAmupdeierantcivee T taok beu Ailwd astyr:a tegies to develop novel therapeutics in controlling these hyperinflammatory severity events.
+
+Transitional microbiota during respiratory infections, could interfere with changing immune signals responsible for
+
+causing COVID-19 severity along with secondary infections.
+Microbiome research is on the top of the headlines in the current timings, the researchers can utilize this new tool to
+
+study their impact in many communicable and non-communicable diseases.
+The studies conducted on dysbiosis occurred in hospitalized patients, have shown that there would be tremendous
+opportunities to translate this knowledge into the practical solutions, such as, impact of the interactions of SARS
+CoV-2 with enteric cells and its outcome in patients with asymptomatic and symptomatic IBDs. Development of
+new biomarkers causing dysbiosis would help develop new diagnostics. New treatment discoveries using various
+
+combination of commensals may control the hyperinflammatory response and poor prognosis of the disease.
+Implication of long-term presence of viral RNA in feces and dysbiosis and their relationships with long COVID-19
+symptoms.
+Biography
+Dr. Anju Kaushal received her MSc. Microbiology from Central Research Institute, Kasuali, India in 1993 and awarded with PhD
+Microbiology from Panjab University, Chandigarh, India in 2003. She worked in various scientific & medical institutes and companies in
+India and New Zealand. Her expertise is in Science and Technology, R&Ds, Productions and QA/QC in the field of biologicals, diagnostics
+and academia. She worked on Rabies, Aspergillus, Candida, HIV, enzymes and fermentation technologies. Her area of interest includes
+vaccines, sera & diagnostic development & production and on novel therapeutics on advancing technologies. She also attained, more
+than six years of experience in Business Management, Brand & Marketing, Communication & Information and as a Freelancer- she
+guided many PhDs and scientists in their careers. She has published 12 articles in Scientific Journals and more than 40 articles on
+LinkedIn.
+
+noitcefnI
+
+Taif Shah
+Faculty of Life Science and Technology, Kunming University of Science and
+Technology, China
+Pathogenesis of SARS-CoVmycobacterium tuberculosis coinfection, their
+prevention, and treatment
+oronavirus disease-2019 (COVID-19), caused by SARS-CoV-2, is an infectious disease that poses severe threats to global
+public health and significant economic losses. The COVID-19 global burden is rapidly increasing, with over 246.53
+million COVID-19 cases and 49.97 million deaths reported in the WHO 2021 report. People with compromised immunity,
+Csuch as tuberculosis (TB) patients, are highly exposed to severe COVID-19. Both COVID-19 and TB diseases spread primarily
+through respiratory droplets from an infected person to a healthy person, which may cause pneumonia and cytokine
+storms, leading to severe respiratory disorders. The COVIDTB coinfection could be fatal, exacerbating the current
+COVID-19 pandemic apart from cellular immune deficiency, coagulation activation, myocardial infarction, and other organ
+dysfunction. This study aimed to assess the pathogenesis of SARS-CoVMycobacterium tuberculosis Coinfections. We
+briefly overview COVID19-TB coinfection and discuss SARS-CoV-2 host cellular receptors and pathogenesis. In addition,
+we discuss M. tuberculosis host cellular receptors and pathogenesis. Moreover, we highlight the impact of SARS-CoV-2 on
+TB patients and the pathological pathways that connect SARS-CoV-2 and M. tuberculosis infection. Further, we discuss the
+impact of BCG vaccination on SARS-CoV-2 cases coinfected with M. tuberculosis and the diagnostic challenges associated
+with the coinfection.
+National Health Commission of the People s Republic of China has recommended certain TCM formulas, namely Jinhua
+Qinggan granule (JHQGG), Lianhua Qingwen granule (LHQWG), Qingfei Paidu decoction (QFPDD), Xuanfei Baidu granule
+(XFBD), Xuebijing injection (XBJ), and Huashi Baidu granule (HSBD) for treating COVID-19 infected individuals. Among
+these six TCM formulas, JHQGG and LHQWG effectively treated mild/moderate and severe COVID-19 infections. XFBD
+therapy is recommended for mild COVID-19 infections, while XBJ and HSBD effectively treat severe COVID-19 infections. The
+internationalization of TCM faces many challenges due to the absence of a clinical efficacy evaluation system, insufficient
+research evidence, and a lack of customer trust across the globe. Therefore, evidence-based research is crucial in battling
+this infectious disease. This review summarizes SARS-CoV-2 pathogenesis and the history of TCM used to treat various
+viral epidemics, with a focus on six TCM formulas. Based on the evidence, we also dis- cuss the composition of various
+TCM formulas, their underlying therapeutic mechanisms, and their role in curing COVID-19 infections. Furthermore, we
+hAiugdhileignhctee dT athkee e Affwicaayc:y and side effects of single prescriptions used in TCM formulas.
+
+In this presentation, I will discuss the pathogenesis of SARS-CoVM. tuberculosis coinfections, SARS-CoV-2 host
+
+cellular receptors, and M. tuberculosis host cellular receptors.
+I will also highlight the impact of SARS-CoV-2 on TB patients and the pathological pathways that connect SARS-CoV-2
+and M. tuberculosis infection. Further, I will discuss the impact of BCG vaccination on SARS-CoV-2 cases coinfected
+
+with M. tuberculosis and the diagnostic challenges associated with the coinfection.
+Moreover, I will highlight the importance of different Chinese Traditional Medicines (TCMs) in the effective treatment
+
+of COVID-19 patients.
+This will help the audience to understand SARS-CoV-2 and M. tuberculosis infection process and their prevention and
+possible treatment.
+Biography
+Dr. Shah studied Microbiology at Hazara University, Pakistan, and graduated MS in 2015. He then joined the research group of Prof. Cui
+Xiuming at the Faculty of Life Science and Technology, Kunming University of Science and Technology (KUST), Kunming, Yunnan, China.
+He received his Ph.D. degree in 2021 at the same institution. He then joined the research group of Prof. Xia Xueshan at the same faculty
+and institution for his postdoctoral fellowship program. He has published more than 25 SCI research articles in well-reputed journals.
+
+noitcefnI
+
+Sayan Bhattacharyya*, Atul Raj, Amit Banik
+Department of Microbiology, AIIH&PH, India
+Urinary tract infections : A persisting public health concern
+Introduction:
+Urinary tract infections (UTI) are still very common in community as well as nosocomial setting. It is often
+found to have a seasonal occurrence. They are more common in adult females as compared to males. Escherichia coli is the
+pMraetdeormiailnsa annt dp amtheothgeond sc:a using UTI.
+We collected available information on internet and also presented our own experience regarding
+the common uropathogens and their susceptibility patter. Samples came from the OPD and were inoculated on CLED agar
+and incubated at 37 C overnight, and also observed microscopically at 40X for WBCs, crystals and bacteria. A cut-off
+
+cRoelsounlyt sc:o unt of 10 CFU per ml was taken as significant bacteriuria.
+UTI was significantly more common in females than males. In females, age of patients affected by UTI ranged
+Escherichia coli
+from 3 years to 60 years. The single male patient was 68 years old. Over a 1- year period, the ratio of females: males
+Staphylococcus aureus Enterococcus E. coli
+having UTI in community as evident from OPD samples, was 13:1. is the commonest uropathogen in
+Staphylococcus aureus
+females, followed by and spp. About 75% of uropathogenic were resistant to
+Enterococcus fecalis
+Nitrofurantoin, a common drug prescribed in OPD for UTI. All the strains isolated, were MRSA. In
+mCoanlecsl uthsieo snin: gle uropathogen found was .
+Urinary tract infections are very common in community, and prescribing empirical drugs need to be based
+on antibiotic susceptibility data. Even in the community, due to illicit and over-the-counter antibiotic usage, resistance to
+cAoumdmieonnc eu Troapkaet hAowgaeyn:s is now high.
+
+
+UTI is very common.
+
+It should not be neglected.
+
+A AMR data on Uropathogens in a given area is needed.
+Explain how the audience will be able to use what they learn? It will be helpful for students, clinicians and researchers
+
+since they will get to know clinico-microbiological correlation.
+How will this help the audience in their job? It will help them do their work and also have good publications, and
+
+thereby help in securing job.
+
+Is this research that other faculty could use to expand their research or teaching? Yes, definitely.
+Does this provide a practical solution to a problem that could simplify or make a designer s job more efficient? Yes, it
+
+can help devise simpler urine culture or AMR techniques.
+
+Will it improve the accuracy of a design, or provide new information to assist in a design problem? Yes.
+It will be helpful for reading of students and also help in epidemiological studies on Uropathogens.
+Biography
+He did MBBS from Medical College, Calcutta, MD (Microbiology) from: PGIMER, Chandigarh. He has Post-MD working experience: 14
+years. Presently he is working as Associate Professor, Department of Microbiology, All India Institute of Hygiene and Public Health
+(AIIH&PH), Kolkata. He is reviewer and editorial board member of many medical journals and Life member: IAMM, SIHAM (ISMM), etc.
+He received awards: (a) 1st prize in English essay competition on  One health and Rabies , organized by Pashudhan Praharee, 2021. (b)
+Second prize in oral category in STMIDI TROPICON, 2018, Kolkata. His research interest include: Mycology, Bacteriology, Antimicrobial
+resistance.
+
+noitcefnI
+
+Amit Kumar Kesharwani*1,2, Dinesh Singh1 and
+Anupama Sharma Avasthi2
+
+ICAR-Indian Agricultural Research Institute, India
+
+Amity University, India
+Whole-genome sequencing and comparative analysis of Indian race 4 of
+xanthomonas campestris pv. campestris causing black rot disease in brassica
+oleracea var. capitata
+Xanthomonas campestris campestris
+X. campestris campestris X.
+pv. is a causative agent of black rot disease of cruciferous crops. A whole- genome
+campestris campestris Brassica oleracea var. capitata
+sequence of any race of pv. has not been reported from India. The isolate Xcc-C7, race 4, of
+pv. was isolated from cabbage ( ) from Bengaluru, in the southern
+parts of India. Whole-genome sequence data were generated by the next-generation sequencing based single-molecule
+real-time sequencing (SMRT) techniques. The complete genome assembly was composed of 5,121,051 bp and has a total
+GC content of 64.98%. Of 4,493 total genes, 4,347 CDS and 4,217 genes with assigned function were predicted in Xcc-C7
+strain. The profiles of 146 RNA encoding genes were identified, including 6 ribosomal RNA-encoding genes, 54 transfer
+RNA encoding genes, and 86 noncoding RNAs.
+X. campestris pv. campestris
+This whole-genome sequence data has been deposited in the NCBI Gen Bank database (CP077958). The comparative
+analysis of genomic features of Indian race 4 with genomes of four other strains (namely, B100,
+8004, CFBP5817, and ATCC33913) elucidates that the Indian race 4 is closely related to the Chilean strain CFBP5817.
+Furthermore, 19 genes of Xcc-C7 strain were identified as putative candidate genes that may play role in adaptation
+of cabbage as a host. Found in common with genes of strain 8004, which were validated genes of pathogenicity. The
+X. campestris
+phylogenetic tree of whole genome assemblies of the five strains showed that Xcc-C7 is closely related to CFBP5817, as
+. campestris X. campestris . campestris
+compared with B100, ATCC33913, and 8004, suggesting that both strains CFBP5817 and Xcc-C7 belong to
+X. campestris . campestris
+pv race 4. This study will improve our knowledge of genomic diversity in pv and pave
+the way for research on host pathogen interactions (crucifer crops  pv ) to develop resistance in
+cAuuldtiiveantecde BTraakses iAcawcaeya:e crops.
+
+X. campestris . campestris.
+The whole-genome sequence will be used to study the diversity, geographical changes and host specific development
+
+of pathogenicity genes in pv
+The outcomes of the study will be used to study the host-pathogen interaction to develop the resistance in Brassicaceae
+
+crops.
+The comparative analysis of genomic features of Indian race 4 of Xcc with other strains will also enhance the
+  X. campestris . campestris
+understanding of host specific development of disease in crucifer crops.
+Availability of genome resources of pv from India.
+Biography
+Mr. Amit Kumar Kesharwani Post-graduated in Microbiology from Gurukul Kangri Vishwavidyalaya, India in 2012. He has his expertise
+in microbiology, plant pathology and plant-microbe interaction. He then joined prestigious research laboratories in India to learn and
+gained experience in the field of Plant pathology and Biotechnology during 2012-2018. His research work enhances the understanding
+of bacterial pathogenesis in host. He has joined the research group of Dr. D. Singh at ICAR-Indian Agricultural Research Institute and Dr.
+A.S. Avasthi, Amity University, India to pursuing his Ph.D. degree in Biotechnology since 2018. He has published more than 6 research
+articles in SCI(E) journals & recipient of Junior and Young Scientist Awards.
+
+noitcefnI
+
+Rehab Mahmoud Abd El-Baky1,2,*, Esraa R. Shady2,
+Fatma Y. Ahmed1 and Hala Rady Ahmed1
+
+Professor of Microbiology & Immunology, Faculty of pharmacy, Minia
+University, Head of Microbiology & Immunology, Faculty of Pharmacy, Deraya
+University, Egypt
+
+Department of Microbiology and Immunology, Faculty of Pharmacy, Minia
+University, Egypt
+COVID-19 associated fungal infections due to the disturbance in infection
+control measures
+evere acute respiratory syndrome coronavirus-2 (SARS-CoV-2) pandemic is still difficult to be controlled by the
+emergence of new variants which are considered a great challenge worldwide. Disturbance in infection control
+guidelines implementation, use of steroids, strong antibiotics, hospital crowdedness and repeated use of oxygen masks
+Sduring the management of critically ill COVID-19 patients lead to the increase in the rate of opportunistic infections. So,
+patients need to fight both the virus with its different variants and opportunistic pathogens including bacteria and fungi
+especially patients with diabetes mellitus, malignancy, or those who undergo hemodialysis and receiving deferoxamine.
+During the pandemics, the emergence of many cases of Mucormycosis fungal infection was observed in many different
+countries. Delayed and difficult diagnosis, the need for surgical debridement of necrotic tissues, controlling the progression
+of the disease, difficulty in intubation and the management of renal impairment that results from prolonged antifungal
+therapy are the main challenges regarding Mucormycosis. We will discuss risk factors that increase the chance of the
+iAnufedciteinonce b Ty aokpep oArwtuanyi:s tic pathogens especially fungal pathogens, recent challenges, and control measures.
+
+
+Overview on COVID-19 pandemic.
+
+Risk factors increasing the chance of developing secondary bacterial and fungal infections.
+
+Mucormycosis associated with COVID-19 infection.
+ICU unit s environment and the implemented infection control measures as the first line of protection against infection.
+Biography
+Professor Rehab Mahmoud Abd El-Baky studied pharmaceutical science at Faculty of Pharmacy, Assuit University. She received PhD
+degree in 2009, Minia University, Egypt. she obtained the position of professor at Minia University. She has published more than 70
+research articles.
+
+noitcefnI
+
+Ambresh S Badad*, Biju Vasudevan
+Department of Dermatology, India
+Rare a typical subcutaneous fungal infections
+mergence of a typical fungal infections rare opportunistic fungal infection caused by saprophytes of genera such as
+MetFhuosdasr:i um, Paecilomyces, Scedosporium, Penicillium, Scopulariopsis Acremonium, and similar fungi.
+We report an instance of 3 cases of atypical fungal infections first in a 50-year-old woman, known to have
+diabetes, who presented with multiple raised lesions on the upper back of two years  duration. Second in a 33 years old
+mCoanlec lpuastiioennts :a nd third in 36 year old male HIV+ve patient.
+There is emergence of rare opportunistic fungal infections of Dermatological importance. we should look
+for these infections in immunosuppression. These patients have substantial morbidity and can be best treated with
+aAgugdrieesnsicvee Taanktiefu Anwgaaly t:h erapy.
+
+Audience will be made aware about emergence of rare opportunistic fungal infections in immunosuppression like
+
+HIV, Diabetes, malignancy.
+
+As these patients have substantial morbidity.
+Treating physicians will be able to diagnose and best treat with aggressive antifungal therapy and reduce morbidity
+and mortality.
+Biography
+Dr. Ambresh S Badad Studied MBBS from MRMC, Kalburagi RGUHS Bangalore and did his MD from prestigious Armed Forces Medical
+College (AFMC), Pune in 2013.He then did DNB from NATBOARD New Delhi. presently working as Associate Professor at MRMC,
+Kalburagi and is the DIRECTOR of Dr Badad s Skin Eye & LASER Care Centre, KALABURAGI, KARNATAKA, INDIA. He has published
+more than 40 research articles in National and International journals, and has written 2 chapters and edited a book in Dermatology. He
+is invited speaker at various National and International conferences. He has been awarded with Raising Star Award in WCD, Milan Italy
+2019, Global Education Award 2013 New Delhi India and Young Dermatologist Award 2021 Bangalore India.
+
+noitcefnI
+
+Rohit Kothari
+Department of Dermatology, Command Hospital Air Force, India
+Clinical and cytokine profile in Type-2 reaction in leprosy in response to
+thalidomide : A randomized controlled trial
+Background:
+Leprosy is a chronic granulomatous disease caused by Mycobacterium leprae (M. Lepra). Reactions may
+interrupt its usual chronic course. Type-2 leprosy reaction or erythema nodosum leprosum (ENL) is an acute event which
+is type-III hypersensitivity response and manifests clinically as tender evanescent skin-colored or erythematous nodules
+and systemic features. Various cytokines like TNF-alpha and IFN-gamma may be increased in ENL along with CD-64 which
+may be overexpressed due to massive influx of neutrophils during this reaction. Thalidomide is considered the drug of
+choice for type-2 lepra reaction. We tried to extrapolate these facts in the treatment of Leprosy reactions in the form of
+rOebdjueccttiiovne :o f these molecules following Thalidomide use and therefore predicting response and prognosis.
+To find a correlation between TNF-alpha, IFN-gamma and CD-64 expression on circulating neutrophils
+fMolelothwoidngo lTohgayl:i domide treatment and predicting response and prognosis in cases of Type-2 lepra reaction.
+This randomized controlled trial consisted of fifty confirmed cases of type-2 leprosy reaction and fifty age,
+sex and area of residence matched healthy controls. It was conducted in a tertiary care hospital in Bengaluru, India. The
+diagnosis of leprosy was made by the presence of cardinal features in the form of pale or red skin patch with definite loss
+of sensation, thickened or enlarged peripheral nerves with sensory and/or motor deficit, and positive slit skin smear for
+M. Lepra bacillus. Type-2 reaction was diagnosed in case the leprosy patient developed tender evanescent skin-colored or
+red nodules with systemic symptoms and neutrophil leukocytosis. Blood samples and skin biopsy were taken at baseline
+and on 14th day after Thalidomide therapy in the treated patients and subjected to histopathology, immunohistochemistry,
+immunofluorescence, Reverse Transcriptase-Polymerase Chain reaction (RT-PCR Quantitative) and flow cytometry. All
+pRaetsiuenlttss: with ENL responded well to Thalidomide and the lesions resolved within 1-2 weeks.
+TNF-alpha and IFN-gamma are increased in almost all cases of type-2 reaction. CD-64 expression is also
+upregulated in type-2 reaction and down regulated in patients who received Thalidomide and showed favorable clinical
+rCeosnpcolnussei.o Tnh: ere was significant correlation of increased CD-64 expression with the severity of reaction.
+TNF-alpha and IFN-gamma are sensitive markers of type-2 reaction, however, did not correlate with treatment
+response to Thalidomide and hence may be used as screening biomarkers for reaction. CD-64 expression on neutrophils
+may be an early biomarker for diagnosis, prognosis and clinical response to Thalidomide and it is not time-consuming as
+well. We also propose that anti-CD 64 antibodies may become one of the treatment modalities in type-2 reactions in future
+where Thalidomide is contraindicated or is less favored especially in childhood leprosy cases <12 years where safety data
+oAfu Tdhieanlidceo mTaidkee iAs wlimayit:ed and in pregnant females.
+
+TNF-alpha and IFN-gamma are sensitive markers of type-2 reaction and may be used as screening biomarkers for
+
+reaction.
+CD-64 expression on neutrophils may be an early biomarker for diagnosis, prognosis and clinical response to
+
+Thalidomide.
+
+Early diagnosis of type-2 reaction can significantly reduce the morbidity in leprosy cases.
+The response to treatment as assessed by these investigations may help in deciding the correct treatment and timely
+
+change if a patient is not responding.
+This research may be further be expanded by using various other cytokines/chemokines in type-1/2 reaction, healthy
+contacts or other scenarios for early diagnosis and prognosis in leprosy.
+
+noitcefnI
+
+Biography
+Dr. Rohit studied MBBS and MD Dermatology at Armed Forces Medical College, India and graduated as MD in 2021. He then joined the
+department of Dermatology, Command Hospital Air Force Bengaluru as Senior Resident. He has won several national and state level
+quizzes during his residency. He has been the quiz master of various national level quizzes as well and has published more 16 research
+articles in PubMed indexed journals including high impact one s. He has presented at various national level forums and has many
+upcoming national and international level presentations as well.
+
+noitcefnI
+
+Mohamad-Said Almasri*, Rashed Alqaisi, Mohammad
+Al-Shagahin, Waqar Al-Kubaisy, Ahmad Aljarajreh,
+Hani Al-Shagahin
+Faculty of Medicine, Mutah university, Jordan
+Risk factors and characterization of post COVID-19 syndrome, in Jordan
+ontroversial information about the sequelae of COVID-19 after recovery or post-COVID-19 syndrome(PCS). Whereas
+considerable studies have been done on COVID-19, proportionally, scarcity of literature addressing the PCS,
+particularly the risk factors causing this syndrome. Determining the prevalence, most common manifestations of PCS, and
+Cthe possible related risk factors is an important issue. A cross-sectional, online questionnaire-based study was conducted.
+This questionnaire was posted to the Association of  My experience with COVID-19  in Jordan. Socio-demographic, as well
+as COVID 19 illness information was collected, from 657 COVID-19 recovered patients at least three months after illness
+started. PCS prevalence was 71.9%, where the patient experienced, at least one PCS symptom.
+Most common symptoms including dyspnoea, fatigue, taste and smell impairment, cough, and depression. Six factors
+were found to be significantly increasing the risk of PCS (using OR, 95% CI); female (2.06, 1.409-2.856), aging  30 (1.64,
+1.16-2.33), DM (2.978, 1.08-8.21) hypertension, (2.22, 1.118-4.423), respiratory disease (2.33, 1.21-4.501), and neuro-
+psychological disturbance during illness (3.79, 2.574-5.573). Those patients showed also a significantly higher rate of
+post-COVID-19 syndrome than their counter groups. Therefore, females, aging  30, comorbidity, and neuropsychological
+disturbance during illness, are considered as a risk group for PCS. Thus, psychological and medical support is highly
+rWechoamt wmielnl daeudd ideunrcineg l eaanrdn a ffrteorm th me ye ppirseosdeen ptaarttiiocnu?la rly for the risk groups.
+
+The COVID-19 infection management should not be only during the acute episode has to continue several months
+
+after the recovery of the patient.
+The Post COVID-19 (PCS) prevalence is high, (71.8%) in Jordan and six factors were found to be significantly increasing
+
+the risk of PCS.
+The PCS period requires not only scientific study and investigation but also needs early interventions including
+
+rehabilitation.
+We have to start steps in preparing for this unavoidable problem to improve the health care system and enhance the
+management of patients during the PCS period.
+Biography
+Mr. Mohamad Said Almasri, final year medical student at Mutah university, Jordan. He was the president of the medical club 2019-2020.
+He has published an article as a first author as a student and participated as an oral presenter in a regional conference.
+
+noitcefnI
+
+J.A.A.S. Jayaweera* and W.W. Kumbukgolla
+Department of Microbiology, Rajarata University of Sri Lanka, Sri Lanka
+Clinical exposure and methicillin-resistant staphylococcus aureus (MSRA)
+colonization among medical students, rajarata university of Sri Lanka
+Staphylococcus aureus
+edical students who engage in clinical learning in healthcare settings can be potential methicillin-resistant
+(MRSA) carriers. This is a descriptive cross-sectional study having a follow-up approach. Three
+batches of medical students who were studying at the Faculty of Medicine and Allied Sciences, Rajarata University of Sri
+st rd th
+MLanka (1 , 3 and 5 study years of MBBS course) were screened for nasal and axillary MRSA colonization. The first-year
+students were screened before and 6 months after clinical learning. The knowledge of the students about infection control
+was scored (percentage) using a questionnaire in the one week before and later one year after the hospital exposure. Data
+was compared using two-sample t test.
+The percentage of MRSA colonization was 6.36% (7/110) and 49.57% (59/119) before clinical exposure and after 2.5 years
+of exposure, respectively (p<0.012). The percentage of correct responses obtained by the students for the questionnaire
+about infection control was 28% and 66.9% one week before the exposure to the hospitals and one year after the exposure
+to the hospitals, consecutively. MRSA carriage was significantly associated with the time duration of the clinical training
+of the medical students. The knowledge of students about infection control was significantly inadequate one week before
+tAhued hieonspciet aTl aekxep oAswuraey :a nd they have gained the knowledge only after being exposed to the hospitals.
+
+MRSA colonization among medical students is a huge problem and infection control specialists have to pay special
+
+attention to mitigate cross transmission.
+Limited studies have done to assess the MRSA colonization among medical students and to minimize the colonization
+
+frequency adherence to meticulous infection control practices have to be streamlined.
+
+Also clinical audits have to focus towards medical students to assess hand hygiene and other infection control practices.
+This in turn will be helpful to strengthen the infection control practices among young doctors.
+Biography
+Dr. J.A.A.S. Jayaweera acquired his MD in medical microbiology and MPhil in medical virology. Dr. Jayaweera has over ten years of
+research experience in microbiology, biochemistry, nano-biotechnology, complementary and alternative medicine, and biostatistics. He
+has so far published more than 30 research articles in international peer-reviewed journals. He has won several international awards,
+and he is serving as a reviewer for many reputed groups of journals in the Global Journal of Medical Research and BMC antimicrobials
+and infection control. Further, he is an honorary editor in the Annals of clinical immunology and microbiology journal and the chief
+editor in Asian journal of dermatological sciences.
+
+noitcefnI
+
+Marah El-Tahir El-Beeli*1, Yahya M. Al-Farsi1, Abdullah Balkhair2,
+Zakariya Al-Muharmi2, Samir Al-Adawi3
+
+Department of Family Medicine and Public Health, Sultan Qaboos University, Oman
+
+Department of Infection Control, Sultan Qaboos University, Oman
+
+Department of Behavioral Medicine, Sultan Qaboos University, Oman
+Five-year prevalence of hospital acquired blood stream infections in a tertiary
+hospital in Oman : A cross-sectional study
+Background:
+Several reports have emerged addressing the burden and the prevention of hospital acquired bloodstream
+infections (HA-BSI); however, they have been largely limited to developed countries. In Arab countries, however, few
+studies have emerged on various aspects of HA-BSIs. To our knowledge, there have been no reports of the prevalence rate
+of HA-BSI among admitted patients from Oman. This study aims to explore the HA-BSI prevalence estimates over selected
+socio-demographic characteristics among admitted patients at a tertiary hospital in Oman over five years of follow-up.
+TMheet hreogdiso:n al variations in Oman were also examined in this study.
+This hospital-based cross-sectional study reviewed reports of colonoscopies performed over 5- years of
+retrospective follow-up at a tertiary hospital in Oman. HA-BSI prevalence estimates were calculated over age, gender,
+governorate, and time of follow-up. Cumulative frequency of participants with single and mixed infections and types of
+cRaeussualttisv:e micro-organisms of HA-BSIs were also obtained.
+A total of 1246 HA-BSI cases were enumerated among 139,683 admissions to SQUH during the five years of
+retrospective follow up, yielding an overall HA-BSI prevalence estimate of 8.9 cases per 1000 admissions (95%CI: 8.4,
+9.4). Gender-specific HA-BSI prevalence among males was higher than that among females (9.3 vs. 8.5). The age-specific
+HA-BSI prevalence estimates started as relatively high at group aged 15 years or less (10.0), and then declined as age
+increased to 36 to 45 years (7.0) when it started to increase steadily with increasing age to the group aged 76 or more
+(9.9). Regional HA-BSI prevalence was highest among admitted patients who resided in Dhofar Governorate (11.8) while
+the lowest was among patients from Buraimi governorate (5.3). Over the 5-years of follow-up, there was a slow-declining
+rCeodnuccltuiosino onf HA-BSI prevalence.
+: The study provides supportive evidence for a varying slow reduction in HA-BSI prevalence over age
+categories and years of follow up; and depicted the variations of gender-specific CRC prevalence estimates over increasing
+age categories. The study calls for further reinforcement of infection prevention and control measures to reduce these
+rKaetyesw fourrdthse: r.
+AcknowledHgmosepnittal acquired bloodstream infections, HA-BSI, Prevalence, Oman.
+: The authors would like to thank the Infection Control nurses and staff at the Hospital Information
+SFeurnvdiciensg w Shtaot pemroevnidted guidance in data collection from patient records.
+: The research and publication of this article was funded by Deanship of Postgraduate Studies and
+Research, Sultan Qaboos University, Muscat, Oman.
+Biography
+Dr. Marah El-Tahir El-Beeli from Sultan Qaboos University, United Arab Emirates.
+
+noitcefnI
+
+Abdullah Ali Abdullah Gafer
+Ministry of public health, Yemen
+Prevalence cholera during Juanary December 2020 in Hudiedah city, Yemen
+emen has recently faced the largest cholera outbreak in the world started ate the end of 2016. By the end of 2017 the
+cumulative reported cases from all governorates reached 777,229 cases with 2,134 deaths. Al Hudeidah was one of
+the most affected areas where 88741 (18%) cases with 244 (12%) death were reported. To study Profile of suspected
+YcMheotlheroad p:atients in Hodeidah city.
+A retrospective descriptive study was carried out by using secondary  analysis of available data collected from
+(RDeTsCuslt)s, :( ORCs) and other health facilities by department of epidemiological surveillance   Al Hodeidah health office.
+A total of 10139 suspected cholera patients were included in the study whereas the average age of study subjects
+was 22.7 years where standard deviation (SD) 18.8 most affected age groups were (5-14),(15-30),(<5) the predominant
+of the study subjects from Al Hudeidah city (81.3%) from Al-Hali. Cases starts to appear in week 1 reaches a peak in week
+3C4o nacnldu sthioenn: s lowly decreases. 24 suspected cholera cases were culture positives.
+Cholera is one of the urgent health problems in Al Hudeidah city, Cholera distribution is not gender sensitive,
+the most affected age group is (5-14) years, followed by (15-30 ) then under five. The peak of cholera suspected cases is
+registered in weeks 34.Confirmed cholera cases by culture are 24 from 167 specimen tested whereas 186 are positive by
+cRheocloemram ReDnTd. ations:
+More cholera control interventions are necessary and urgent to eradicate it. More field related
+rAeusdeaiernchc em Tuaskt eb eA wcaaryri:e d out to guide control and management interventions.
+
+
+To identify epidemiological curve of cholera cases in Hudiedah city, Yemen.
+
+To determine cholera laboratory investigation (RDT and culture) results.
+This study was conducted as a part of current efforts for the management of cholera in Yemen. It is also expected to
+contribute in a better understanding of effectiveness of health interventions, and making operational and strategic
+recommendations that can be used to improve the designing and implementation.
+Biography
+Abdullah Ali Gafer studied Epidemiology at the Al-Razi University, Yemen and graduated as MS in 2021. He then joined the center
+research epidemiology in Yemen.
+
+noitcefnI
+
+Jiarong Zhong*1, Douglas Dickinson2, and Stephen
+Hsu2
+
+Georgia State University, USA
+
+Camellix Research Laboratory, USA
+
+Department of Oral Biology & Diagnostic Sciences, Augusta University, USA
+Effects of epigallocatechingallate-palmitate (EC16) on in vitro norovirus
+infection
+orovirus is the world-leading cause of acute gastroenteritis associated with severe symptoms and deaths. However,
+vaccines against norovirus are currently not available, and medications that specifically target human norovirus
+infection are still under development. The current study evaluated the suitability of EC16, EGCG, and LTP for virucidal
+Nformulations (based on auto-oxidation), and used a murine norovirus (MNV S99, a human norovirus surrogate) cell
+infection system to evaluate the virucidal activity of EC16 sanitizer formulations, and as a treatment and prevention model
+tMoe etxhaomdi:n e in vitro the antiviral activity of EC16 in comparison to EGCG.
+Initially, formulation suitability tests were conducted to compare EGCG (epigallocatechingallate), EC16 and
+tea polyphenol-palmitate in alcohol solution and hand hygiene formulations. The virucidal activity of EC16 was then
+tested in hand sanitizer gel and hand sanitizer foam formulations using a TCID50 time-kill suspension assay. In vitro
+treatment and prevention tests were performed using a 1-hour incubation of EC16 or EGCG with RAW264.7 cells, either
+pCroen-cinlufescitoionn: or post-infection with MNV. Statistical analysis employed the two-tailed student t test (alpha=0.05).
+Here we report, for the first time, that the antiviral activity of EC16 could be used in prevention and treatment
+of norovirus infection, pending future proof-of-concept in vitro and in vivo studies prior to human trials. In addition, the
+virucidal property of EC16 is suitable for use in hand hygiene and disinfectant products. It was also found that EGCG has
+lAouwdeire nanctei vTiarakle a Actwivaityy: comparing to EC16, and it is not suitable for virucidal formulations due to rapid auto-oxidation.
+
+
+The audience will understand how the natural company can be used for infectious disease with significant side effect.
+
+Understand the severity of alcohol-resistant pathogenic microorganism on our public health and clinical settings.
+Know the disadvantage of current hand hygiene antiseptics, and have the knowledge on new technologies to prevent
+alcohol-resistant microorganism infection in the future.
+Biography
+Jiarong Zhong earned bachelor`s degree from Georgia State University in Atlanta, a Master of Science degree from Georgia State
+University. He spent over eight years conducting researches in various virus related projects, such as rabies infection, HIN1, and
+norovirus infection.
+
+noitcefnI
+
+Sisay Shewasinad Yehualashet
+Debre Berhan University, Ethiopia
+Predictors of adherence to COVID-19 prevention measure among communities
+in North Shoa zone, ethiopia based on health belief model : A cross-sectional
+study
+Introduction:
+Coronavirus disease 2019 (COVID-19) is an emerging respiratory infections and is known to cause illness
+ranging from the common cold to severe acute respiratory syndrome. At present, the disease has been posing a serious
+threat to the communities, and it is critical to know the communities  level of adherence on COVID-19 prevention measures.
+Thus, this study aimed to identify the predictors of adherence to COVID-19 prevention measure among communities in
+NMoertthho Sdhso: a zone, Ethiopia by using a health belief model.
+Community-based cross-sectional study design was employed. A total of 683 respondents were interviewed
+using a structured and pre-tested questionnaire. The data were collected by using a mobile-based application called
+ Google form.  Logistic regression was performed to analyze the data. Estimates were reported in adjusted odds ratios
+wReitshu 9lt5: % confidence intervals (CI) and a significant association was declared at p-value of less than 0.05.
+The overall adherence level of the community towards the recommended safety measures of COVID-19 was 44.1%.
+Self-efficacy (AOR = 0.23; 95% 0.14, 0.36), perceived benefits (AOR = 0.35; 95% 0.23, 0.56), perceived barriers (AOR =
+3.36; 95% 2.23, 5.10), and perceived susceptibility of COVID-19 (AOR = 1.60; 95% 1.06, 2.39) were important predictors
+tChoant cilnuflsuioenncse: d the adherence of the community to COVID-19 preventive behaviors.
+In this study, the overall adherence level of the community towards the recommended safety measures of
+COVID-19 was relatively low. It is vital to consider the communities  self-efficacy, perceived benefits, perceived barriers
+and perceived susceptibility of COVID-19 in order to improve the adherence of the community towards the recommended
+sKaefyetwyo mrdeas:s ures of COVID-19.
+COVID-19, Adherence to COVID-19 preventive measures, North Shoa zone.
+Biography
+Mr. Sisay Shewasinad Yehualashet is lecturer in the Department of nursing in Government university at Debre Birhan University,
+Ethiopia. He is a graduate nurse of MadaWalabu University of undergraduate and MSc on child health nursing from Addis Abaaba
+University and clinical nurse at wogere and Jihur health center.
+He had trainings on Basic computer skills, Systemic review and Meta-analysis, R-software, SPSS, Stata 14 and Endnote. The training
+helped him to look on the ways enhancing problem identification, prioritization and implementations strategies to improve health
+services of a given community. His research interests were on Maternal and Child health, Reproductive health, Infections diseases, Non-
+communicable diseases, Quality of care, youth and adolescent health. He published more than 21 article papers on reputed international
+and national journals. He participated on different qualitative and quantitative research.
+
+noitcefnI
+
+Mouna Jlidi*1,2, Ismahen Akremi1,2, Adel Haj Ibrahim1,
+Wided Brabra1,2, Manel Ben Ali1,2 and Mamdouh Ben
+Ali1,2
+
+Laboratory of Microbial Biotechnology and Engineering Enzymes (LBMIE),
+University of Sfax, Tunisia
+
+Astrum Biotech, Business incubator, Center of Biotechnology of Sfax (CBS),
+University of Sfax, Tunisia
+Probiotic properties of bacillus strains isolated from gastrointestinal tract
+against pathogenic vibriosis
+ibriosis is one of the major diseases leading to massive fish mortality. Probiotics may provide a potential alternative
+method to protect fish from pathogens and to promote a balanced environment minimizing the use of antibiotics
+in vitro
+and chemotherapy. The aims of this study were to (i) isolate and purified marine sporeformers strains from Sardine
+Vand shrimp intestine, (ii) screen for bacteria with potential probiotic properties, and (iii) carry out their safety
+Vibrio harveyi Vibrio anguillarum
+assessment using a subtractive procedure. Among 108 sporeformers strains, five strains exhibited a strong antibacterial
+activity against Vibriosis such as and . These selected strains were unaffected by high
+temperature and gastrointestinal conditions, produced amylase, protease and lipase activities, showed high percentages
+Bacillus amyloliquefaciens Bacillus subtilis
+of auto-aggregation and co-aggregation with pathogens, as well as a strong adhesion to fish mucus. Partial 16S rDNA gene
+B. subtilis
+sequencing and MALDI-TOF MS revealed that isolates are or . All of them were
+B. subtilis
+susceptible to antibiotics, while hydrolic enzymes and virulence factors were not detected for S17. In conclusion,
+based on their proprieties and their safety assessment, S17 could serve as potential probiotic candidate for
+aAquudaiceunlctuer Tea.ke Away:
+
+
+Provide an idea to select good and friendly bacteria to control diseases.
+
+Control or prevent fish pathogens such as Vibriosis by using a viable and friendly alternative  Probiotics .
+In vitro subtractive screening by several physiologic criteria and safety assessment in order to select potential
+probiotic used aquaculture and for fish feeding process.
+Biography
+Mouna Jlidi PhD student at center of biotechnology of Sfax, Tunisia. She start to work in 2017. She will graduate soon. She published
+articles in several field with her teal of work.
+Participants List
+Abdullah Ali Abdullah Gafer 47
+Amanda H Cavalheiro 17
+Amarjeet Gambhir 19
+Ambresh S Badad 41
+Amit Kumar Kesharwani 39
+Anas Alyousef 28
+Anju Kaushal 36
+Annapurna Ahuja 22
+Asit Kumar Chakraborty 21
+Asmaa Al Rashed 30
+Balamurugan R 23
+Gayatri Tripathi 33
+Grace Lalana Christopher 18
+Hector Javier Gallardo Valencia 34
+J.A.A.S. Jayaweea 45
+Jiarong Zhong 48
+Kai-Fu Tang 11
+Lester Jay T. Corsame 20
+Marah El Tahir El Beeli 46
+Maria Rosanova 26
+Marshal Sikandangwa 15
+Mohamad Said Almasri 44
+Mouna Jlidi 50
+Nashwa M. Al-Kasaby 27
+Infection 2022
+
+Pooyan Afzali Harsini 14
+Rehab Mahmoud Abd El-Baky 40
+Rohit Kothari 42
+Sayan Bhattacharyya 38
+Seema Mittal 25
+Shyamapada Mandal 16
+Sisay Shewasinad Yehualashet 49
+Stephen Hsu 08
+Taif Shah 37
+Ulrich Steinhoff 07
+Wei Jiang 12
+Infection 2022
+
+UPCOMING CONFERENCES
+3rd Edition of World Congress on
+Infectious Diseases
+October 19-20, 2022 | Online Event
+https://infectious-diseases-conferences.magnusgroup.org/
+4th Edition of World Congress on
+Infectious Diseases
+June 26-28, 2023 | Rome, Italy
+https://infectiouscongress.com/
+Questions? Contact
++1 (702) 988-2320 or
+Inquires: infectious@magnusconference.com
+For Registration:
+https://infectiouscongress.com/register

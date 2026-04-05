@@ -1,0 +1,48 @@
+{
+  "query": "What is vaccination and how does it work?",
+  "config": {
+    "embedding_model": "minilm",
+    "chunk_size": 512,
+    "vector_db": "faiss",
+    "llm": "groq/llama-3.1-8b-instant",
+    "use_reranker": false,
+    "top_k": 5
+  },
+  "retrieved_chunks": [
+    {
+      "chunk_id": "Immunization_chunk_3",
+      "source": "Immunization",
+      "score": 0.5867043733596802,
+      "text": "have\nentered the body. When a vaccine is introduced into the body, the immune system of the body\ninteracts with the germs present in the vaccine and produces proteins known as antibodies,\nwhich act only against the germs in the vaccine. In addition, certain cells get programmed to\nremember this expo"
+    },
+    {
+      "chunk_id": "Immunization_chunk_6",
+      "source": "Immunization",
+      "score": 0.4712575078010559,
+      "text": "y side effects which were not detected in the phase of\nclinical trials.\nWhen any unusual side effects are noticed following any use of vaccine ,well\nestablished protocols are in place, by international bodies viz WHO, to establish\nwhether any reported side effects occurring following the administrat"
+    },
+    {
+      "chunk_id": "Immunization_chunk_16",
+      "source": "Immunization",
+      "score": 0.4699782431125641,
+      "text": "protection\nFrom the moment of birth, your child is\nexposed to thousands of germs every\nday in his environment through the food\nhe eats, the air he breathes and\nthings he puts in his mouth.\nThis circle of Protection can be\nprovided\nby various strategies\nWhat are vaccines?\nVaccines are injections\n(sho"
+    },
+    {
+      "chunk_id": "Immunization_chunk_2",
+      "source": "Immunization",
+      "score": 0.45412468910217285,
+      "text": "mplications caused by\nthese disease causing germs and in general improves the quality of life.\nThe baby has spent 9 months in the mother s womb, protected from all germs and getting the\noptimal nutrition. From the moment of birth, the newborn is exposed to a multitude of germs,\nsome of them are pote"
+    },
+    {
+      "chunk_id": "Immunization_chunk_1",
+      "source": "Immunization",
+      "score": 0.4523491859436035,
+      "text": "nsiderably, due to the effect of vaccines.\nSmallpox has been eradicated, polio is present only in two countries on this planet, measles,\nrubella, diphtheria, pertussis has declined considerably. It should be remembered that only a\nhandful of infections-measles, rubella, polio, can be eliminated from"
+    }
+  ],
+  "prompt_length": 10517,
+  "answer": "Vaccination is the process of introducing a vaccine into the body to stimulate the immune system to produce antibodies and memory cells that can recognize and fight specific germs. \n\nWhen a vaccine is introduced into the body, the immune system interacts with the germs present in the vaccine and produces proteins known as antibodies, which act against the germs in the vaccine. Certain cells also get programmed to remember this exposure to the germs, and when the germ enters the body again, these specialized cells known as memory cells get activated and produce very large quantities of antibodies, which surround the germs and kill them, thus preventing these germs from causing disease in the vaccinated person.\n\n[Source 1: Immunization] \n[Source 4: Immunization]",
+  "retrieval_time": 0.118,
+  "generation_time": 0.709,
+  "total_time": 0.827
+}

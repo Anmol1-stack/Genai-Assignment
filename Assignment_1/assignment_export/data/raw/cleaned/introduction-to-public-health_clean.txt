@@ -1,0 +1,501 @@
+Public Health 101 Series
+Introduction to Public
+Health
+Instructor name
+Title
+Organization
+Note: This slide set is in the public domain and may be customized as needed by
+the user for informational or educational purposes. Permission from the Centers for
+Disease Control and Prevention is not required, but citation of the source is
+appreciated.
+Course Topics
+Introduction to Public Health
+1. Public Health Definition and Key Terms
+2. History of Public Health
+3. A Public Health Approach
+4. Core Functions and Essential Services of Public Health
+5. Stakeholder Roles in Public Health
+6. Determining and Influencing the Public s Health
+
+Learning Objectives
+After this course, you will be able to
+describe the purpose of public health
+
+define key terms used in public health
+
+identify prominent events in the history of public health
+
+recognize the core public health functions and services
+
+describe the role of different stakeholders in the field of
+
+public health
+list some determinants of health
+
+recognize how individual determinants of health affect
+
+population health
+
+Topic 1
+Public Health Definition
+and Key Terms
+
+Public Health Defined
+ The science and art of preventing
+disease, prolonging life, and promoting
+health through the organized efforts
+and informed choices of society,
+organizations, public and private
+communities, and individuals. 
+ CEA Winslow
+Photo: IF Fisher and EL Fisk
+Winslow CEA. The untilled field of public health. Mod Med 1920;2:183 91. 5
+The Mission of Public Health
+ Fulfilling society s interest
+in assuring conditions in
+which people can be
+healthy. 
+ Institute of Medicine
+ Public health aims to
+provide maximum benefit for
+the largest number of
+people. 
+ World Health Organization
+
+Public Health Key Terms
+clinical care: prevention, treatment, and management of illness and
+the preservation of mental and physical well-being through the services
+offered by medical and allied health professions; also known as health
+care.
+determinant: factor that contributes to the generation of a trait.
+epidemic or outbreak: occurrence in a community or region of cases
+of an illness, specific health-related behavior, or other health-related
+event clearly in excess of normal expectancy. Both terms are used
+interchangeably; however, epidemic usually refers to a larger
+geographic distribution of illness or health-related events.
+health outcome: result of a medical condition that directly
+affects the length or quality of a person s life.
+Stedman TL, ed. Stedman s medical dictionary. 28th ed. Baltimore, MD: Lippincott, Williams, and Wilkins; 2006.
+Farlex, Inc. The free dictionary. Huntingdon Valley, PA: Farlex, Inc.; 2014. Available at: http://www.thefreedictionary.com/. 7
+Knowledge Check
+Fill in the blank with the correct answer
+A. groups of people B. individuals
+groups of people
+Public health aims to provide ___________________
+with the right to be healthy and live in conditions
+that support health.
+
+Knowledge Check
+Fill in the blank with the correct answer
+A. pandemic B. intervention
+C. epidemic or outbreak
+D. prevention
+A(n) __ e_p__id__e_m__ic_ _o_r_ o__u_t_b_r_e_a_k_ _ is a disease
+occurrence among a population that is in
+excess of what is expected for a given time
+and place.
+
+Topic 2
+The History of Public Health
+
+Sanitation and Environmental Health
+500 BCE 1840s 1970
+Greeks and Romans The Public Health The Environmental
+practice community Act of 1848 was Protection Agency
+sanitation measures established in the was founded
+United Kingdom
+
+Pandemics
+Influenza Polio HIV
+500 million infected Vaccine introduced
+34 million living with
+worldwide in 1918 in 1955; eradication
+HIV worldwide; 20%
+initiative launched in
+decline in new
+
+infections since 2001
+
+Preparedness for Disaster Response
+Biologic September Hurricane
+Warfare 2001 Katrina
+Plague used as a Public health Emergency services,
+weapon of war during surveillance public health
+the Siege of Kaffa conducted after surveillance, and
+the 9/11 attacks disease treatment
+provided
+
+Prevention Through Policy
+Book Tobacco
+Obesity
+of Leviticus Laws
+The world s Laws banning smoking Food labeling and
+first written in public places promotion of physical
+health code activity
+
+Knowledge Check
+Which of the following events in public health history
+have been pandemics? (Select all that apply)
+A. Siege of Kaffa
+B. Influenza
+C. Polio
+D. Hurricane Katrina
+
+Topic 3
+A Public Health Approach
+
+A Public Health Approach
+Risk Factor Intervention
+Surveillance Implementation
+Identification Evaluation
+
+Public Health Core Sciences
+
+Cholera   A Public Health Approach
+Cholera, a fatal intestinal
+disease, was rampant during
+the early 1800s in London,
+causing death to tens of
+thousands of people in the
+area. Cholera was
+commonly thought to be
+caused by bad air from
+rotting organic matter.
+Photo: TJ Kirn, MJ Lafferty, CMP Sandoe, and R Taylor,
+Dartmouth Medical School
+
+John Snow, Physician
+John Snow is best known for
+his work tracing the source of
+the cholera outbreak and is
+considered the father of
+modern epidemiology.
+Photo: London School of Hygiene
+and Tropical Medicine
+
+Epidemiology   What is the Problem?
+Cluster of Cholera Cases, London   1854
+Image: The Geographical Journal
+
+Risk Factor Identification   What Is the Cause?
+Cluster of Cholera Cases and Pump Site Locations
+Image: The Geographical Journal
+
+Intervention Evaluation   What Works?
+Through continuous research, Snow understood what
+interventions were required to
+stop exposure to the contaminated water
+
+supply on a larger scale, and
+stop exposure to the entire supply of
+
+contaminated water in the area
+
+Implementation   How Do You Do It?
+John Snow s research convinced
+the British government that the
+source of cholera was water
+contaminated with sewage
+Photo: Justin Cormack
+
+Knowledge Check
+Fill in the blanks with the correct answers.
+Each public health core science helps us to
+__p__ro__te__c_t_ _ and _p_r_o_m__o__te_ t he public s health by
+providing public health practitioners with the
+answers they need.
+
+Knowledge Check
+Match each component of the public health approach
+with the questions they answer.
+A. Risk Factor Identification B. Surveillance
+C. Implementation D. Intervention Evaluation
+B. Surveillance
+1. What is the problem?
+A. Risk Factor Identification
+2. What is the cause?
+D. Intervention Evaluation
+3. What works?
+C. Implementation
+4. How do you do it?
+
+Topic 4
+Core Functions
+and Essential Services
+of Public Health
+
+Three Core Functions of Public Health
+Systematically collect, analyze,
+Assessment
+and make available information
+on healthy communities
+Policy Promote the use of a scientific
+knowledge base in policy and
+Development
+decision making
+Assurance Ensure provision of services to
+those in need
+Institute of Medicine. The future of public health. Washington, DC: National Academies Press; 1988. 28
+Ten Essential Public Health Services
+1. Monitor Health
+2. Diagnose and Investigate
+3. Inform, Educate, Empower
+4. Mobilize Community Partnership
+5. Develop Policies
+6. Enforce Laws
+7. Link to/Provide Care
+8. Assure a Competent Workforce
+9. Evaluate
+10. Research
+
+Core Functions at Government Levels
+Policy
+Assessment Development Assurance
+Federal National tobacco Smoking ban Federal grants
+public health on commercial for antismoking
+surveillance flights research
+State Funding
+Monitor state Increase
+for campaign
+tobacco use tobacco tax
+through
+Proposition 99
+Resources to help
+Local Report on local County laws
+smokers quit
+tobacco use prohibiting
+in multiple
+smoking in bars
+languages
+
+Knowledge Check
+Which of the following is NOT a core function of public
+health?
+A. Assurance
+B. Assessment
+C. Authority
+D. Policy development
+
+Knowledge Check
+The essential health services of monitoring health and
+diagnosing and investigating disease relate to which
+core public health function?
+A. Assurance
+B. Assessment
+C. Policy Development
+
+Topic 5
+Stakeholder Roles
+in Public Health
+
+Partners in the Public Health System
+Clinical Care
+Community
+Delivery System
+Government
+Ensuring the Conditions
+Employers
+Public Health
+for Population Health
+and Businesses
+Infrastructure
+Academia The Media
+Institute of Medicine. The future of the public's health in the 21st century. Washington, DC: The National Academies Press; 2002. 34
+Nongovernmental Organization Examples
+Organization Type Example
+Professional membership American Public Health
+organizations Association
+Associations related to a American Cancer Society
+specific health concern
+Organizations of citizens Americans for Nonsmokers
+focused on health concerns Rights
+Foundations that support Bill and Melinda Gates
+health projects and influence Foundation
+public policy development
+Institute of Medicine. Who will keep the public healthy? Workshop summary. Washington, DC: The National Academies Press; 2003. 35
+Health Care as a Partner in Public Health
+Public Health Health Care
+Population focus Individual patient focus
+Public health ethic Personal service ethic
+Prevention or public Diagnosis and treatment
+health emphasis emphasis
+Joint laboratory Joint laboratory
+and field involvement and patient involvement
+Clinical sciences peripheral Clinical sciences essential to
+to professional training professional training
+Public sector basis Private sector basis
+
+Other Partners in Public Health
+  Vehicle for public discourse
+Media   Health education and promotion
+  Health communication
+  Social media as catalyst
+  Employer-sponsored health insurance
+Employers
+programs
+and Businesses
+  Wellness initiatives and benefits
+  Healthy workplaces and communities
+  City planning
+Government
+  Education
+Agencies
+  Health in all policies
+  Education
+  Training
+Academia
+  Research
+  Public Service
+
+Knowledge Check
+Match each stakeholder to its role in public health.
+A. Academia B. Employers and businesses
+C. Government D. Media
+D. Media
+1. Vehicle for public discourse
+C. Government
+2. Health in all policies
+A. Academia
+3. Education and training
+B. Employers and businesses
+4. Wellness initiatives and benefits
+
+Topic 6
+Determining and Influencing
+the Public s Health
+
+Health Determinants
+Genes and biology
+
+Health behaviors
+
+Social or societal
+
+characteristics
+Health services or medical
+
+care
+Centers for Disease Control and Prevention. Social determinants of health. http://www.cdc.gov/socialdeterminants/FAQ.html. 40
+What Determines the Health of a Population?
+Genes and Biology
+Social/Societal
+Characteristics;
+Health Behaviors
+Total Ecology
+Medical Care
+Centers for Disease Control and Prevention. Social determinants of health. http://www.cdc.gov/socialdeterminants/FAQ.html. 41
+Health Impact Pyramid
+Frieden TR. Framework for public health action: the health impact pyramid. Am J Public Health 2010;100:590 5. 42
+Health Impact Pyramid
+Frieden TR. Framework for public health action: the health impact pyramid. Am J Public Health 2010;100:590 5. 43
+Knowledge Check
+List the four determinants of health.
+Genes and biology
+Health behaviors
+Social/societal characteristics
+Health services or medical care
+
+Knowledge Check
+Fill in the blanks using the following
+choices.
+A. down B. up
+down
+As we move the health impact
+pyramid, the public health impact grows
+greater.
+2. As we move u p the health impact
+pyramid, the amount of individual effort
+increases.
+
+Public Health Core Sciences
+
+Course Summary
+During this course, you learned to
+describe the purpose of public health
+
+define key terms used in public health
+
+identify prominent events in the history of public health
+
+recognize the core public health functions and services
+
+describe the role of different stakeholders in the field of
+
+public health
+list some determinants of health
+
+recognize how individual determinants of health affect
+
+population health
+
+QUESTIONS?
+
+Resources and Additional Reading
+  American public health Association (APHA). The Prevention and public health Fund: a critical
+investment in our nation s physical and fiscal health. APHA Center for Health Policy Issue Brief.
+Washington, DC: APHA; 2012. http://www.apha.org/NR/rdonlyres/8FA13774-AA47-43F2-838B-
+1B0757D111C6/0/APHA_PrevFundBrief_June2012.pdf.
+  California Department of public health. TabaccoFreeCA. http://www.Tobaccofreeca.org.
+  Centers for Disease Control and Prevention. Key facts about seasonal flu vaccine.
+http://www.cdc.gov/flu/protect/keyfacts.htm.
+  Centers for Disease Control and Prevention. Overweight and obesity.
+http://www.cdc.gov/obesity/index.html.
+  Centers for Disease Control and Prevention. Social determinants of health.
+http://www.cdc.gov/socialdeterminants/FAQ.html.
+  Centers for Medicare and Medicaid Services. National health expenditure projections: 2008 
+2018. http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-
+Reports/NationalHealthExpendData/downloads/proj2008.pdf.
+  Dean H. Introduction to public health, epidemiology, and surveillance. Presented at the CDC
+Science Ambassador Program, July 16, 2012.
+  Frieden, TR. Framework for public health action: the health impact pyramid. Am J public health
+  Kindig D, Stoddart G. What is population health? Am J public health. 2003;93:380 3.
+  Institute of Medicine. For the public s health: investing in a healthier future. Washington, DC:
+National Academies Press; 2012.
+  Institute of Medicine. Primary care and public health: exploring integration to improve
+population health. Washington, DC: The National Academies Press; 2012.
+
+Resources and Additional Reading
+  Institute of Medicine. The future of public health. Washington, DC: The National Academies
+Press; 1988.
+  Institute of Medicine. The future of the public's health in the 21st century. Washington, DC: The
+National Academies Press; 2002.
+  Institute of Medicine. Who will keep the public healthy? Workshop summary. Washington, DC:
+The National Academies Press; 2003.
+  Pearl R. Tobacco smoking and longevity. Science 1938;87:216 7.
+  Preamble to the Constitution of the World Health Organization as adopted by the International
+Health Conference, New York, June19 July 22, 1946.
+  Federal Communications Commission. Texting while driving. http://www.fcc.gov/guides/texting-
+while-driving.
+  UNAIDS. UNAIDS World AIDS Day Report, 2012.
+http://www.unaids.org/en/media/unaids/contentassets/
+documents/epidemiology/2012/gr2012/JC2434_WorldAIDSday_results_en.pdf.
+  Skelton A. Introduction to public health science and practice.  Presented at the CDC Steven M.
+Teutsch Prevention Effectiveness Fellowship Orientation, August 15, 2012.
+  US Department of Health, Education, and Welfare. Smoking and health. Washington, DC: public
+health Service; 1964. http://profiles.nlm.nih.gov/ps/access/NNBBMQ.pdf.
+  Winslow CEA. The untilled field of public health. Mod Med 1920;2:183 91.
+  World Health Organization (WHO). World report on violence and health. Geneva: WHO; 2002.
+http://www.who.int/violence_injury_prevention/violence/world_report/en/.
+
+Disclaimers
+Links provided in this course to nonfederal organizations are provided solely as a
+service to our users. These links do not constitute an endorsement of these
+organizations nor their programs by the Centers for Disease Control and
+Prevention (CDC) or the federal government, and none should be inferred. CDC
+is not responsible for the content contained at these sites.
+Use of trade names and commercial sources is for identification only and does
+not imply endorsement by the Division of Scientific Education and Professional
+Development, Center for Surveillance, Epidemiology, and Laboratory Services,
+Centers for Disease Control and Prevention, the Public Health Service, or the U.S.
+Department of Health and Human Services.
+The findings and conclusions in this course are those of the authors and do not
+necessarily represent the official position of the Centers for Disease Control and
+Prevention.
+
+For more information, please contact the Centers for Disease Control and Prevention
+Telephone: 1CDC-INFO (232-4636)/TTY: 1232-6348
+Visit: http://www.cdc.gov | Contact CDC at: 1CDC-INFO or http://www.cdc.gov/info
+The findings and conclusions in this course are those of the authors and do not necessarily represent the official position of the
+Centers for Disease Control and Prevention.
+Center for Surveillance, Epidemiology, and Laboratory Services
+Division of Scientific Education and Professional Development

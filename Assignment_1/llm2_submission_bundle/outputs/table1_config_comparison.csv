@@ -1,0 +1,9 @@
+config_name,retrieval_time,generation_time,total_time,avg_retrieval_score,max_retrieval_score,answer_length
+Config_A_baseline_health,0.0304,25.291,25.3214,0.5105,0.5842,540.9062
+Config_B_improved_health,0.1534,23.7757,23.9291,0.6775,0.7166,593.9697
+Config_C_second_llm_only,0.0304,19.5005,19.5309,0.5108,0.587,498.1875
+bge_256_chroma,0.1435,14.1141,14.2578,0.7048,0.7384,564.6667
+bge_512_chroma,0.1433,26.8604,27.0035,0.6721,0.7084,507.0
+minilm_1024_faiss,0.033,44.3511,44.3842,0.4626,0.562,715.1786
+minilm_256_faiss,0.0288,12.7749,12.8038,0.5671,0.6271,593.7333
+minilm_512_faiss,0.032,25.6065,25.6384,0.5153,0.5885,558.0312

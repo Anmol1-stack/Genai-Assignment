@@ -1,0 +1,242 @@
+[
+  {
+    "document": "introduction-to-nutrition",
+    "chunk_size": 256,
+    "label": "small",
+    "num_chunks": 36,
+    "avg_chars": 1005,
+    "output_file": "introduction-to-nutrition_chunks_256.json"
+  },
+  {
+    "document": "introduction-to-nutrition",
+    "chunk_size": 512,
+    "label": "medium",
+    "num_chunks": 16,
+    "avg_chars": 2011,
+    "output_file": "introduction-to-nutrition_chunks_512.json"
+  },
+  {
+    "document": "introduction-to-nutrition",
+    "chunk_size": 1024,
+    "label": "large",
+    "num_chunks": 8,
+    "avg_chars": 3823,
+    "output_file": "introduction-to-nutrition_chunks_1024.json"
+  },
+  {
+    "document": "what-is-cancer",
+    "chunk_size": 256,
+    "label": "small",
+    "num_chunks": 7,
+    "avg_chars": 964,
+    "output_file": "what-is-cancer_chunks_256.json"
+  },
+  {
+    "document": "what-is-cancer",
+    "chunk_size": 512,
+    "label": "medium",
+    "num_chunks": 3,
+    "avg_chars": 1983,
+    "output_file": "what-is-cancer_chunks_512.json"
+  },
+  {
+    "document": "what-is-cancer",
+    "chunk_size": 1024,
+    "label": "large",
+    "num_chunks": 2,
+    "avg_chars": 2875,
+    "output_file": "what-is-cancer_chunks_1024.json"
+  },
+  {
+    "document": "Immunization",
+    "chunk_size": 256,
+    "label": "small",
+    "num_chunks": 38,
+    "avg_chars": 1021,
+    "output_file": "Immunization_chunks_256.json"
+  },
+  {
+    "document": "Immunization",
+    "chunk_size": 512,
+    "label": "medium",
+    "num_chunks": 17,
+    "avg_chars": 2036,
+    "output_file": "Immunization_chunks_512.json"
+  },
+  {
+    "document": "Immunization",
+    "chunk_size": 1024,
+    "label": "large",
+    "num_chunks": 9,
+    "avg_chars": 3668,
+    "output_file": "Immunization_chunks_1024.json"
+  },
+  {
+    "document": "3-MEDICAL-IMAGING-TECHNIQUES",
+    "chunk_size": 256,
+    "label": "small",
+    "num_chunks": 28,
+    "avg_chars": 1013,
+    "output_file": "3-MEDICAL-IMAGING-TECHNIQUES_chunks_256.json"
+  },
+  {
+    "document": "3-MEDICAL-IMAGING-TECHNIQUES",
+    "chunk_size": 512,
+    "label": "medium",
+    "num_chunks": 13,
+    "avg_chars": 1952,
+    "output_file": "3-MEDICAL-IMAGING-TECHNIQUES_chunks_512.json"
+  },
+  {
+    "document": "3-MEDICAL-IMAGING-TECHNIQUES",
+    "chunk_size": 1024,
+    "label": "large",
+    "num_chunks": 6,
+    "avg_chars": 3997,
+    "output_file": "3-MEDICAL-IMAGING-TECHNIQUES_chunks_1024.json"
+  },
+  {
+    "document": "diabetes",
+    "chunk_size": 256,
+    "label": "small",
+    "num_chunks": 77,
+    "avg_chars": 1013,
+    "output_file": "diabetes_chunks_256.json"
+  },
+  {
+    "document": "diabetes",
+    "chunk_size": 512,
+    "label": "medium",
+    "num_chunks": 34,
+    "avg_chars": 2042,
+    "output_file": "diabetes_chunks_512.json"
+  },
+  {
+    "document": "diabetes",
+    "chunk_size": 1024,
+    "label": "large",
+    "num_chunks": 17,
+    "avg_chars": 3883,
+    "output_file": "diabetes_chunks_1024.json"
+  },
+  {
+    "document": "RAND_WR467",
+    "chunk_size": 256,
+    "label": "small",
+    "num_chunks": 77,
+    "avg_chars": 1015,
+    "output_file": "RAND_WR467_chunks_256.json"
+  },
+  {
+    "document": "RAND_WR467",
+    "chunk_size": 512,
+    "label": "medium",
+    "num_chunks": 34,
+    "avg_chars": 2046,
+    "output_file": "RAND_WR467_chunks_512.json"
+  },
+  {
+    "document": "RAND_WR467",
+    "chunk_size": 1024,
+    "label": "large",
+    "num_chunks": 17,
+    "avg_chars": 3893,
+    "output_file": "RAND_WR467_chunks_1024.json"
+  },
+  {
+    "document": "CBSE_MH_Manual",
+    "chunk_size": 256,
+    "label": "small",
+    "num_chunks": 166,
+    "avg_chars": 1019,
+    "output_file": "CBSE_MH_Manual_chunks_256.json"
+  },
+  {
+    "document": "CBSE_MH_Manual",
+    "chunk_size": 512,
+    "label": "medium",
+    "num_chunks": 74,
+    "avg_chars": 2037,
+    "output_file": "CBSE_MH_Manual_chunks_512.json"
+  },
+  {
+    "document": "CBSE_MH_Manual",
+    "chunk_size": 1024,
+    "label": "large",
+    "num_chunks": 35,
+    "avg_chars": 4085,
+    "output_file": "CBSE_MH_Manual_chunks_1024.json"
+  },
+  {
+    "document": "introduction-to-public-health",
+    "chunk_size": 256,
+    "label": "small",
+    "num_chunks": 20,
+    "avg_chars": 1002,
+    "output_file": "introduction-to-public-health_chunks_256.json"
+  },
+  {
+    "document": "introduction-to-public-health",
+    "chunk_size": 512,
+    "label": "medium",
+    "num_chunks": 9,
+    "avg_chars": 1981,
+    "output_file": "introduction-to-public-health_chunks_512.json"
+  },
+  {
+    "document": "introduction-to-public-health",
+    "chunk_size": 1024,
+    "label": "large",
+    "num_chunks": 5,
+    "avg_chars": 3407,
+    "output_file": "introduction-to-public-health_chunks_1024.json"
+  },
+  {
+    "document": "infectious-diseases-2022-virtual-abstract-book",
+    "chunk_size": 256,
+    "label": "small",
+    "num_chunks": 150,
+    "avg_chars": 1022,
+    "output_file": "infectious-diseases-2022-virtual-abstract-book_chunks_256.json"
+  },
+  {
+    "document": "infectious-diseases-2022-virtual-abstract-book",
+    "chunk_size": 512,
+    "label": "medium",
+    "num_chunks": 67,
+    "avg_chars": 2041,
+    "output_file": "infectious-diseases-2022-virtual-abstract-book_chunks_512.json"
+  },
+  {
+    "document": "infectious-diseases-2022-virtual-abstract-book",
+    "chunk_size": 1024,
+    "label": "large",
+    "num_chunks": 32,
+    "avg_chars": 4055,
+    "output_file": "infectious-diseases-2022-virtual-abstract-book_chunks_1024.json"
+  },
+  {
+    "document": "2_2021_11_16!06_21_15_AM",
+    "chunk_size": 256,
+    "label": "small",
+    "num_chunks": 20,
+    "avg_chars": 998,
+    "output_file": "2_2021_11_16!06_21_15_AM_chunks_256.json"
+  },
+  {
+    "document": "2_2021_11_16!06_21_15_AM",
+    "chunk_size": 512,
+    "label": "medium",
+    "num_chunks": 9,
+    "avg_chars": 1974,
+    "output_file": "2_2021_11_16!06_21_15_AM_chunks_512.json"
+  },
+  {
+    "document": "2_2021_11_16!06_21_15_AM",
+    "chunk_size": 1024,
+    "label": "large",
+    "num_chunks": 5,
+    "avg_chars": 3394,
+    "output_file": "2_2021_11_16!06_21_15_AM_chunks_1024.json"
+  }
+]

@@ -1,0 +1,252 @@
+Genetic diseases Lec. 1: Dr. Hussein Hadi Khairi Pathology
+Genetic diseases
+  The human genome contains about 3.2 billion DNA base pairs.
+  It established that humans have only about 25,000 protein-coding genes, comprising just
+1.5% of the genome.
+  It is helpful to clarify three commonly used terms: hereditary, familial, and congenital.
+  Hereditary disorders: are derived from one s parents, transmitted in the gametes through
+the generations, and therefore are familial.
+  Congenital diseases: simply  present at birth .
+  Note: some congenital diseases are not genetic (e.g., congenital syphilis). On the other hand,
+not all genetic diseases are congenital; the expression of Huntington disease, for example,
+begins only after the third or fourth decade of life.
+Nature of Genetic Abnormalities Contributing to Human Disease
+There are several types of genetic abnormalities that affect the structure and function of
+proteins, disrupting cellular homeostasis and contributing to disease.
+a. Mutations in Protein-Coding Genes
+  Mutations: permanent changes in the DNA. Those that affect germ cells are transmitted to
+the progeny and may give rise to inherited diseases. Mutations in somatic cells are not
+transmitted to the progeny but are important in the causation of cancers and some congenital
+malformations.
+Here are some common examples of gene mutations and their effects:
+1) Point mutations: result from the substitution of a single nucleotide base by a different base,
+resulting in the replacement of one amino acid by another in the protein product e.g the
+mutation in the  -globin chain of hemoglobin giving rise to sickle cell anemia. Such
+mutations are sometimes called missense mutations. By contrast, certain point mutations may
+change an amino acid codon to a chain termination codon, or a stop codon (UAG, UAA, and
+UGA). Such  nonsense  mutations interrupt translation, and in most cases RNAs are rapidly
+degraded, a phenomenon called nonsense mediated decay, such that little or no protein is
+formed.
+2) Frameshift mutation: occur when the insertion or deletion in the genome are not in
+multiples of three nucleotides, and they can alter the reading frame (grouping of the codons)
+of the DNA strand.
+
+Genetic diseases Lec. 1: Dr. Hussein Hadi Khairi Pathology
+3) Trinucleotide repeat mutations: are characterized by amplification of a sequence of three
+nucleotides. Although the specific nucleotide sequence that undergoes amplification varies
+with different disorders, all affected sequences share the nucleotides guanine (G) and cytosine
+(C). For example, in fragile X syndrome, there are 200 to 4000 tandem repeats of the
+sequence CGG within a gene called FMR1. In normal populations, the number of repeats is
+small, averaging 29. The expansions of the trinucleotide sequences prevent normal expression
+of the FMR1 gene, thus giving rise to mental retardation. Another distinguishing feature of
+trinucleotide repeat mutations is that they are dynamic (i.e., the degree of amplification
+increases during gametogenesis).
+b. Alterations in Protein-Coding Genes other than mutations
+Coding genes also can undergo structural variations, such as copy number changes 
+amplifications or deletions or translocations that result in aberrant gain or loss of protein
+function. As with mutations, structural changes may occur in the germline, or be acquired in
+somatic tissues. Pathogenic germline alterations involve a contiguous portion of a
+chromosome rather than a single gene, such as in the 22q microdeletion syndrome. Cancers
+often contain somatically acquired structural alterations, e.g.  Philadelphia chromosome 
+translocation t(9;22) between the BCR and ABL genes in chronic myeloid leukemia
+c. Alterations in Non-Coding RNAs
+Recent studies indicate that a very large number of genes do not encode proteins. Instead, the
+nonencoded products of these genes so-called  non-coding RNAs (ncRNAs) play
+important regulatory functions. Although many distinct families of ncRNAs exist, the two most
+important examples, are small RNA molecules called microRNAs (miRNAs) and long non-
+coding RNAs (lncRNAs).
+These can turn our attention to the following major categories of genetic disorders:
+1. Mendelian disorders resulting from mutations in single genes. The genetic abnormalities
+show high penetrance, meaning that most individuals who inherit the anomaly show
+phenotypic effects. These diseases are hereditary and familial. They include many uncommon
+conditions, such as storage diseases and inborn errors of metabolism.
+2. Complex disorders involving multiple genes as well as environmental influences (sometimes
+called multifactorial diseases) e.g. hypertension, diabetes, allergic and autoimmune diseases.
+
+Genetic diseases Lec. 1: Dr. Hussein Hadi Khairi Pathology
+3. Diseases arising from chromosomal abnormalities, including changes in the number or
+structure of chromosomes.
+4. Other genetic diseases, which involve single gene mutations but do not follow simple
+mendelian rules of inheritance. They include those resulting from triplet repeat mutations or
+from mutations in mitochondrial DNA, and those in which the transmission is influenced by
+an epigenetic phenomenon called genomic imprinting.
+Mendelian Disorders: Diseases Caused by Single-Gene Defects
+They account for approximately 1% of all adult admissions to hospitals and about 6-8% of all
+pediatric hospital admissions.
+There are a few important tenets and caveats when considering mendelian disorders:
+  Mutations involving single genes follow one of three patterns of inheritance: autosomal
+dominant, autosomal recessive, X-linked disease.
+  A single-gene mutation may have many phenotypic effects (pleiotropy) and, conversely,
+mutations at several genetic loci may produce the same trait (genetic heterogeneity). For
+example, Marfan syndrome, which results from a basic defect in connective tissue, is
+associated with widespread effects involving the skeleton, eyes, and cardiovascular system, all
+of which stem from a mutation in the gene encoding fibrillin. On the other hand, several
+different types of mutations can cause retinitis pigmentosa that associated with abnormal
+retinal pigmentation and consequent visual impairment.
+  The phenotypic manifestations of mutations affecting a known single gene are influenced by
+other genetic loci (modifier genes). e.g. in cystic fibrosis, these modifier loci can affect the
+severity or extent of the disease.
+  The use of proactive prenatal genetic screening in high-risk populations has significantly
+reduced the incidence of certain genetic disorders.
+
+Genetic diseases Lec. 1: Dr. Hussein Hadi Khairi Pathology
+Table: Estimated Prevalence of Selected Mendelian Disorders Among Live-Born Infants.
+
+Genetic diseases Lec. 1: Dr. Hussein Hadi Khairi Pathology
+Table: Biochemical Basis and Inheritance Pattern for Selected Mendelian Disorders.
+
+Genetic diseases Lec. 1: Dr. Hussein Hadi Khairi Pathology
+Transmission Patterns of Single-Gene Disorders
+Disorders of Autosomal Dominant Inheritance
+1. They are manifested in the heterozygous state, so at least one parent in an index case
+usually is affected. Both males and females can be affected,
+2. Both sexes can transmit the condition and are affected.
+3. When an affected person marries an unaffected one, each child has 50% chance of having
+the disease.
+N*N--------NN
+N*N N*N NN NN
+25% affected 25% affected normal normal
+4. With any autosomal dominant disorder, some patients do not have affected parents. Such
+patients owe their disorder to new mutations involving either the egg or the sperm from which
+they were derived. Their siblings are neither affected nor at increased risk for development of
+the disease.
+5. Clinical features can be modified by reduced penetrance and variable expressivity.
+  Reduced penetrance: Some persons inherit the mutant gene but are phenotypically normal.
+  The phenomenon is called variable expressivity, if a trait is consistently associated with a
+mutant gene but is expressed differently among persons carrying the gene. e.g. manifestations
+of neurofibromatosis 1 range from brownish spots on the skin to multiple tumors and skeletal
+deformities.
+6. In many conditions, the age at onset is delayed, and symptoms and signs do not appear until
+adulthood (as in Huntington disease).
+7. A 50% reduction in the normal gene product is associated with clinical signs and symptoms.
+8. Because a 50% loss of enzyme activity can be compensated for, involved genes in
+autosomal dominant disorders usually do not encode enzyme proteins, but instead fall into two
+other categories of proteins:
+a. Those involved in regulation of complex metabolic pathways, (e.g. familial
+hypercholesterolemia, results from mutation in the (LDL) receptor gene).
+
+Genetic diseases Lec. 1: Dr. Hussein Hadi Khairi Pathology
+b. Key structural proteins, such as collagen and components of the red cell membrane skeleton
+(e.g., spectrin, abnormalities of which result in hereditary spherocytosis).
+Examples of autosomal dominant disorders:
+Marfan syndrome
+Hypercholesterolemia
+Polycystic kidney disease
+Hereditary spherocytosis
+Familial polyposis coli
+Disorders of Autosomal Recessive Inheritance
+They are manifested in the homozygous state. They occur when both of the alleles at a given
+gene locus are mutants. Therefore, such disorders are characterized by the following features:
+1. The trait does not usually affect the parents, who are carriers of one diseased allele, but
+multiple siblings may show the disease.
+2. Siblings have 25% chance are being affected (i.e., the recurrence risk is 25% for each birth).
+N*N N*N
+N*N* N*N N*N NN
+affected carrier carrier normal
+3. if the mutant gene occurs with a low frequency in the population, there is a strong likelihood
+that the affected patient (the proband) is the product of a consanguineous marriage.
+4. The expression of the defect tends to be more uniform than in autosomal dominant
+disorders.
+5. Complete penetrance is common.
+6. Onset is frequently early in life.
+7. Although new mutations for recessive disorders do occur, they are rarely detected clinically.
+Because the affected person is an asymptomatic heterozygote, several generations may pass
+before the descendants of such a person mate with other heterozygotes and produce affected
+offspring.
+
+Genetic diseases Lec. 1: Dr. Hussein Hadi Khairi Pathology
+8. In many cases, enzymes are affected by the mutation. In heterozygotes, equal amounts of
+normal and defective enzyme are synthesized. Usually the natural  margin of safety  ensures
+that cells with half of their complement of the enzyme function normally.
+Examples of autosomal recessive disorders:
+Sickle cell anemia
+Thalassemia
+Cystic fibrosis
+Phenylketonuria
+Wilson disease
+Glycogen storage diseases
+Albinism
+X-Linked Disorders (most are X-linked recessive)
+For the most part, sex-linked disorders are X-linked recessive, and are characterized by:
+1. Heterozygous female carriers transmit them only to sons, who are hemizygous for the X
+chromosome.
+2. Heterozygous females rarely express the full phenotypic change, because they have the
+paired normal allele. Although one of the X chromosomes in females is inactivated, this
+process of inactivation is random, which typically allows sufficient numbers of cells with the
+normal expressed allele to emerge.
+3. An affected male does not transmit the disorder to sons, but all daughters are carriers.
+XX X*Y
+X*X XY X*X XY
+All daughters are carrier, sons not affected
+4. Sons of heterozygous women have 50% chance of receiving the mutant gene (being
+affected).
+X*X XY
+X*X X*Y XX XY
+Sons are 50% affected
+
+Genetic diseases Lec. 1: Dr. Hussein Hadi Khairi Pathology
+5. There are few X-linked dominant (e.g. Vitamin D-resistant rickets) and their inherited
+pattern characterized by transmission of the dis. to 50% of sons and daughters of an affected
+heterozygous female.
+6. In X-linked dominant, an affected male cannot transmit the dis. to his sons but all daughters
+are affected.
+Examples of X-linked disorders:
+Hemophilia A and B
+Glucosephosphate dehydrogenase deficiency (G6PD deficiency)
+Agammaglobulinemia
+Duchenne muscular dystrophy
+Diseases Caused by Mutations in Genes Encoding Structural Proteins
+Marfan Syndrome
+Is an autosomal dominant disorder of connective tissues (inherited defect in an extracellular
+glycoprotein called fibrillin-1), both quantitative & qualitative defects have been noted.
+  This glycoprotein, secreted by fibroblasts, is the major component of microfibrils found in
+the extracellular matrix. Microfibrils serve as scaffolding for the deposition of tropoelastin, an
+integral component of elastic fibers. They are particularly abundant in the aorta, ligaments, and
+the ciliary zonules that support the ocular lens, precisely the tissues that are prominently
+affected in Marfan syndrome.
+  Morphology: 3 systems are mainly affected:
+*Skeletal abnormalities: Slender patient with abnormally long legs, arms & fingers
+(arachnodactyly); high arched palate, hyperextensibility of joints. Also, a variety of spinal
+deformities (kyphoscoliosis) & the chest shows pectus excavatum or a pigeon-breast deformity.
+* Eyes: bilateral dislocation or subluxation of the lens due to weakness of suspensory ligament
+(ectopia lentis).
+* Cardiovascular system: Fragmentation of the elastic fibers in the tunica media of the aorta  
+aneurysmal dilatation & aortic dissection. Loss of medial support causes dilatation of aortic
+valve ring   aortic incompetence. The cardiac valves, especially the mitral valve, may be
+excessively distensible and regurgitant (floppy valve syndrome),   mitral valve prolapse and
+congestive heart failure.
+Aortic rupture is the most common cause of death and may occur at any age.
+*Variable expression of the features above between different patients.
+
+Genetic diseases Lec. 1: Dr. Hussein Hadi Khairi Pathology
+Diseases Caused by Mutations in Genes Encoding Receptor Proteins or Channels
+Familial Hypercholesterolemia
+1. Autosomal dominant disease. Heterozygotes have 2-3 folds elevation of plasma cholesterol
+levels. Although their cholesterol levels are elevated from birth, heterozygotes remain
+asymptomatic until adulthood when they develop xanthoma along tendon sheaths & premature
+atherosclerosis resulting in coronary artery disease.
+2. While homozygotes are much more severely affected, developing cutaneous xanthoma in
+childhood & dying from myocardial infarction before the age of 20 years.
+3. It is caused by mutation in the gene that specifies the receptor for low density lipoproteins
+LDL.
+4. Cholesterol may be derived from diet or from endogenous synthesis;
+Normally, the endogenous synthesis of cholesterol and LDL begins in the liver. The first step
+in the synthesis is the secretion of triglyceride-rich very-low-density lipoprotein (VLDL) by the
+liver into the blood. In the capillaries of adipose tissue and muscle, the VLDL particle
+undergoes lipolysis and is converted to intermediate-density lipoprotein (IDL). In comparison
+with VLDL, the content of triglyceride is reduced and that of cholesteryl esters is enriched in
+IDL, but IDL retains on its surface the VLDL-associated apolipoproteins B-100 and E. Further
+metabolism of IDL occurs along two pathways: Most of the IDL particles are directly taken up
+by the liver through the LDL receptor; others are converted to cholesterol-rich LDL by a
+further loss of triglycerides and the loss of apolipoprotein E. In the liver cells, IDL is recycled
+to generate VLDL.
+Mutation in LDL receptor gene---accumulation of LDL cholesterol in the plasma, in addition
+the absence of LDL receptors on the liver impair the transport of IDL to the liver---
+accumulation of IDL that converted to LDL.
+
+Genetic diseases Lec. 1: Dr. Hussein Hadi Khairi Pathology
+Fig Low-density lipoprotein (LDL) metabolism and the role of the liver in its synthesis
+and clearance. Lipolysis of very-low-density lipoprotein (VLDL) by lipoprotein lipase in
+the capillaries releases triglycerides, which are then stored in fat cells and used as a
+source of energy in skeletal muscles. IDL (intermediate-density lipoprotein) remains in
+the blood and is taken up by the liver.

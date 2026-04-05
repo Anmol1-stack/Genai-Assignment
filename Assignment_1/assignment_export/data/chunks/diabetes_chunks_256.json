@@ -1,0 +1,772 @@
+[
+  {
+    "chunk_id": "diabetes_chunk_0",
+    "source": "diabetes",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 1024,
+    "chunk_size": 256,
+    "text": "(cid:137)(cid:137)(cid:137) Diabetes\nINDEX\nCCCCCHHHHHAAAAAPPPPPTTTTTEEEEERRRRR PPPPPAAAAAGGGGGEEEEE NNNNNOOOOO.....\nIntroduction ... ... 2\nWhat is diabetes? ... ... 3\nWho should test themselves for diabetes? ... 7\nControlling diabetes ... ... 9\nMyths about diabetes ... ... 11\nDiabetes care ... ... 14\nDiet in diabetes ... ... 15\nExercise is medicine and fun too! ... 20\nMedication ... ... 22\nInsulin injection ... ... 24\nInjection ... ... 26\nHypoglycemia ... ... 29\nSick day plan ... ... 31\nPregnancy and diabetes ... ... 32\nDiabetes and youth ... ... 34\nSelf monitoring ... ... 35\nLong term complications of diabetes and management 36\nPsychological factors and diabetes ... 40\nCan diabetes be prevented? ... ... 41\nEpilogue ... ... 43\nIdentity Card for a diabetes patients ... 44\n(cid:137)(cid:137)(cid:137) Diabetes\nINTRODUCTION\nMankind knows DDDDDiiiiiaaaaabbbbbeeeeettttteeeeesssss MMMMMeeeeelllllllllliiiiitttttuuuuusssss since ages. Indian medical\nhistory mentions mmmmmaaaaadddddhhhhhuuuuummmmmeeeeehhhhhaaaaa in CCC",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_1",
+    "source": "diabetes",
+    "chunk_index": 1,
+    "start_char": 824,
+    "end_char": 1848,
+    "chunk_size": 256,
+    "text": "DUCTION\nMankind knows DDDDDiiiiiaaaaabbbbbeeeeettttteeeeesssss MMMMMeeeeelllllllllliiiiitttttuuuuusssss since ages. Indian medical\nhistory mentions mmmmmaaaaadddddhhhhhuuuuummmmmeeeeehhhhhaaaaa in CCCCChhhhhaaaaarrrrraaaaakkkkk SSSSSaaaaammmmmhhhhhiiiiitttttaaaaa (500-700 BC) and\nhas given description of this disorder in detail. The following shlok\ndescribes symptoms of diabetes. Charak mentions a madhumehi person\npasses large amount of sweet urine.\nIn spite of knowing the disease for so long the reaction of the\npatient at the time of diagnosis remains almost the same. The moment\nof diagnosis brings a lot of unnecessary despair. It is frightening to the\npatient. But most of the times this reaction is due to misconception\nabout the disease. India is going to be a country with largest diabetes\npopulation by year 2025. This would be apparent from following figure.\nRRRRRiiiiisssssiiiiinnnnnggggg ppppprrrrreeeeevvvvvaaaaallllleeeeennnnnccccceeeee ooooofffff dddddiiiiiaaaaabbbbbeeeeettttteeeeesssss iiiiinnnnn IIIII",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_2",
+    "source": "diabetes",
+    "chunk_index": 2,
+    "start_char": 1648,
+    "end_char": 2672,
+    "chunk_size": 256,
+    "text": "25. This would be apparent from following figure.\nRRRRRiiiiisssssiiiiinnnnnggggg ppppprrrrreeeeevvvvvaaaaallllleeeeennnnnccccceeeee ooooofffff dddddiiiiiaaaaabbbbbeeeeettttteeeeesssss iiiiinnnnn IIIIInnnnndddddiiiiiaaaaa\nYYYYYeeeeeaaaaarrrrr PPPPPrrrrreeeeevvvvvaaaaallllleeeeennnnnccccceeeee %%%%% PPPPPlllllaaaaaccccceeeee\n1971 1.2 Cuttak\n1972 2.3 New Delhi\n1979 3.0 Multicentric\n1984 4.7 Tenali\n1988 5.0 Kudremath\n1992 8.5 Madras\n1999 10 to 12 Multicentric\n(cid:137)(cid:137)(cid:137) Diabetes 2\nWHAT IS DIABETES?\nMillions of people have diabetes. Even children suffer from this\ndisease. That is why I feel that you are fortunate that your disease has\nbeen diagnosed at right time. This is one of the most widely studied,\nresearched and advance areas in the medical field. At present there is\nno cure in any of the PATHIES for this disease. But with modern medical\nadvancement you can definitely live near normal healthy life. We are\nhere to add life to your life. We care for you and for your diabetes. Your\ncooperation",
+    "char_length": 1023
+  },
+  {
+    "chunk_id": "diabetes_chunk_3",
+    "source": "diabetes",
+    "chunk_index": 3,
+    "start_char": 2472,
+    "end_char": 3496,
+    "chunk_size": 256,
+    "text": "S for this disease. But with modern medical\nadvancement you can definitely live near normal healthy life. We are\nhere to add life to your life. We care for you and for your diabetes. Your\ncooperation is mandatory because A DIABETIC WHO KNOWS THE MOST\nABOUT HIS DISEASE FACES LEAST PROBLEMS. In any disease it is said\nthat half the battle is won by confidence and I intend to give you\nconfidence in this booklet, confidence to live with the disease gracefully\nand confidence to tackle your problems intelligently.\nLet us start with the basic question i.e. WHAT IS DIABETES?\nGlucose is essential for providing energy for normal body\nfunctions. In diabetes the blood glucose levels are increased due to\nrelative or absolute deficiency of insulin. Insulin is a hormone. A Hormone\nis a chemical secreted by one of the glands in our body. This gland is\nsituated in abdomen and is known as pancreas. Insulin acts as a\ngatekeeper that allows entry of glucose into the cell.\nIf the amount of insulin is abnormal or the function of in",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_4",
+    "source": "diabetes",
+    "chunk_index": 4,
+    "start_char": 3296,
+    "end_char": 4320,
+    "chunk_size": 256,
+    "text": "ur body. This gland is\nsituated in abdomen and is known as pancreas. Insulin acts as a\ngatekeeper that allows entry of glucose into the cell.\nIf the amount of insulin is abnormal or the function of insulin\nis at fault excess of glucose accumulates in the body with harmful\neffects on the cells of various organs. Diabetes is a metabolic disorder\nin which body is unable to handle glucose for its energy requirements.\nAs we have already discussed, insulin is essential for entry of glucose in\nto the cell that is why\n1) Cells can not adequately utilise glucose, so\n2) Body tries to produce more glucose (gluconeogenisis).\n(cid:137)(cid:137)(cid:137) Diabetes 3\nThis is how blood glucose keeps on rising even if there is no\nfood intake. There are two major types of diabetes. The first type i.e.\ninsulin dependent diabetes. It can be treated only with insulin as the\nmain drug. This is common in younger age group of patients. The\nsecond type is non-insulin dependent diabetes (Type II). This is more\ncommon in India. This usu",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_5",
+    "source": "diabetes",
+    "chunk_index": 5,
+    "start_char": 4120,
+    "end_char": 5144,
+    "chunk_size": 256,
+    "text": "can be treated only with insulin as the\nmain drug. This is common in younger age group of patients. The\nsecond type is non-insulin dependent diabetes (Type II). This is more\ncommon in India. This usually affects people above 40 years of age. This\ngroup can be managed with diet, exercises and oral medications. Some\npatients in this group may require insulin sometime later in life.\nThe comparison of two types of diabetes is shown in following\ntable.\nFFFFFEEEEEAAAAATTTTTUUUUURRRRREEEEE TTTTTYYYYYPPPPPEEEEE IIIII (((((IIIIIDDDDDDDDDDMMMMM))))) TTTTTYYYYYPPPPPEEEEE IIIIIIIIII (((((NNNNNIIIIIDDDDDDDDDDMMMMM)))))\nAge of Onset Younger age group Above 30-35 years\nInsulin level in Negligible Decreased or High\nblood\nBodyweight Underweight or Overweight or\nNormal Normal\nUsual Treatment Insulin Oral and Insulin\nInheritance Less Significant More Significant\n(cid:137)(cid:137)(cid:137) Diabetes 4\nUncontrolled diabetes can lead to deleterious effects on\nevery part of the body if not looked after well at the right time. Even",
+    "char_length": 1023
+  },
+  {
+    "chunk_id": "diabetes_chunk_6",
+    "source": "diabetes",
+    "chunk_index": 6,
+    "start_char": 4944,
+    "end_char": 5968,
+    "chunk_size": 256,
+    "text": "ess Significant More Significant\n(cid:137)(cid:137)(cid:137) Diabetes 4\nUncontrolled diabetes can lead to deleterious effects on\nevery part of the body if not looked after well at the right time. Even\nif one may not, in actual sense suffer the consequences of the disease\ntoday, it needs to be adequately treated. Complacency and neglect is\nalways dangerous.\nRemember that the disease has to be well controlled as it is\ncritical in leading a normal life.\nPoorly controlled diabetes can be a major aggravating\nfactor for later diabetes complications. Following chart shows some\nof these complication risks. This is only to make you aware how\nimportant it is to control diabetes and not to scare you about\nthis disease.\nCCCCCooooommmmmpppppllllliiiiicccccaaaaatttttiiiiiooooonnnnn FFFFFrrrrreeeeeqqqqquuuuueeeeennnnncccccyyyyy,,,,, iiiiinnnnn cccccooooommmmmpppppaaaaarrrrriiiiisssssooooonnnnn\ntttttooooo nnnnnooooonnnnn-----dddddiiiiiaaaaabbbbbeeeeetttttiiiiicccccsssss\nRetinopathy leading to blindness 25 times higher\nKidney",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_7",
+    "source": "diabetes",
+    "chunk_index": 7,
+    "start_char": 5768,
+    "end_char": 6792,
+    "chunk_size": 256,
+    "text": ",,,,, iiiiinnnnn cccccooooommmmmpppppaaaaarrrrriiiiisssssooooonnnnn\ntttttooooo nnnnnooooonnnnn-----dddddiiiiiaaaaabbbbbeeeeetttttiiiiicccccsssss\nRetinopathy leading to blindness 25 times higher\nKidney disease 15-20 times higher\nFoot problems 20-30 times higher\nParalysis 2 times higher\nHHHHHeeeeeaaaaarrrrrttttt dddddiiiiissssseeeeeaaaaassssseeeee 2-4 times higher\nLet us understand how this disease starts making its impression\non your life. Usually, disease creeps in silently. One comes to know of\nit generally during routine blood sugar test for getting licenses, insurance\netc. Sometimes it is detected only during treatment of other concomitant\nillness or before surgery.\n(cid:137)(cid:137)(cid:137) Diabetes 5\nFollowing are the common manifestations of diabetes.\nREPORT AS A SURPRISE INCREASED APPETITE AND THIRST\nSIGNIFICANT WEIGHTLOSS INFECTIONS IN FOLDS\nINCREASED URINATION EXHAUSTION\n(cid:137)(cid:137)(cid:137) Diabetes 6\nWho should test themselves for diabetes?\n11111..... EEEEEvvvvveeeeerrrrryyyyybbbbboooooddd",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_8",
+    "source": "diabetes",
+    "chunk_index": 8,
+    "start_char": 6592,
+    "end_char": 7616,
+    "chunk_size": 256,
+    "text": "NIFICANT WEIGHTLOSS INFECTIONS IN FOLDS\nINCREASED URINATION EXHAUSTION\n(cid:137)(cid:137)(cid:137) Diabetes 6\nWho should test themselves for diabetes?\n11111..... EEEEEvvvvveeeeerrrrryyyyybbbbbooooodddddyyyyy wwwwwiiiiittttthhhhh aaaaabbbbbooooovvvvveeeee mmmmmeeeeennnnntttttiiiiiooooonnnnneeeeeddddd sssssyyyyymmmmmppppptttttooooommmmmsssss.....\n22222..... CCCCClllllooooossssseeeee rrrrreeeeelllllaaaaatttttiiiiivvvvveeeeesssss ooooofffff DDDDDiiiiiaaaaabbbbbeeeeettttteeeeesssss PPPPPaaaaatttttiiiiieeeeennnnntttttsssss.....\nFor Type 1 diabetes hereditary factor is less prominent.\nIf a father is diabetic then the risk to the child is 5-10%. If a mother\nis diabetic then the risk is 5%.\nType 2 or NIDDM has significant genetic predisposition. If one parent\nhas diabetes the risk is 40%. If both parents are diabetic the risk is\n33333..... PPPPPrrrrreeeeegggggnnnnnaaaaannnnnttttt wwwwwooooommmmmeeeeennnnn Diabetes is not uncommon due to various\nhormonal and metabolic changes during pregnancy.\n44444..... TTTTThhhhhoooo",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_9",
+    "source": "diabetes",
+    "chunk_index": 9,
+    "start_char": 7416,
+    "end_char": 8440,
+    "chunk_size": 256,
+    "text": "risk is\n33333..... PPPPPrrrrreeeeegggggnnnnnaaaaannnnnttttt wwwwwooooommmmmeeeeennnnn Diabetes is not uncommon due to various\nhormonal and metabolic changes during pregnancy.\n44444..... TTTTThhhhhooooossssseeeee hhhhhaaaaavvvvviiiiinnnnnggggg hhhhhiiiiiggggghhhhh bbbbblllllooooooooooddddd ppppprrrrreeeeessssssssssuuuuurrrrreeeee,,,,, ooooobbbbbeeeeesssssiiiiitttttyyyyy,,,,, hhhhheeeeeaaaaarrrrrttttt dddddiiiiissssseeeeeaaaaassssseeeee aaaaannnnnddddd\npppppaaaaarrrrraaaaalllllyyyyysssssiiiiisssss eeeeetttttccccc.....\n55555..... AAAAA lllllaaaaadddddyyyyy wwwwwhhhhhooooo dddddeeeeellllliiiiivvvvveeeeerrrrreeeeeddddd aaaaa bbbbbaaaaabbbbbyyyyy wwwwweeeeeiiiiiggggghhhhhiiiiinnnnnggggg mmmmmooooorrrrreeeee ttttthhhhhaaaaannnnn 44444.....55555 kkkkkggggg\n66666..... AAAAAllllllllll aaaaabbbbbooooovvvvveeeee 4444455555 yyyyyeeeeeaaaaarrrrrsssss ooooofffff aaaaagggggeeeee ssssshhhhhooooouuuuulllllddddd ccccchhhhheeeeeccccckkkkk ttttthhhhheeeeeiiiiirrrrr sssssuuuuugggggaaaaarrrrr llllleeeeevvvvveeeeelllll ooooonnnnnccc",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_10",
+    "source": "diabetes",
+    "chunk_index": 10,
+    "start_char": 8240,
+    "end_char": 9264,
+    "chunk_size": 256,
+    "text": "yyyyeeeeeaaaaarrrrrsssss ooooofffff aaaaagggggeeeee ssssshhhhhooooouuuuulllllddddd ccccchhhhheeeeeccccckkkkk ttttthhhhheeeeeiiiiirrrrr sssssuuuuugggggaaaaarrrrr llllleeeeevvvvveeeeelllll ooooonnnnnccccceeeee iiiiinnnnn aaaaa\nyyyyyeeeeeaaaaarrrrr.....\nHHHHHooooowwwww iiiiisssss dddddiiiiiaaaaabbbbbeeeeettttteeeeesssss dddddeeeeettttteeeeecccccttttteeeeeddddd?????\nEstimation and interpretation of blood glucose is the only test\nfor diagnosis of diabetes. World Health Organization (WHO) has laid\ndown guidelines for diagnosis.\nCriteria for diagnosis of diabetes\nFasting Venous plasma glucose > 140 mg/100ml\nTwo hours after 75 gm ingestion of glucose > 200 mg /100ml\nRecently, American Diabetes Association has accepted the fasting\nplasma glucose values as >126mg/100ml for diagnosis of diabetes.\nHHHHHooooowwwww tttttooooo ppppprrrrreeeeepppppaaaaarrrrreeeee fffffooooorrrrr bbbbblllllooooooooooddddd ttttteeeeesssssttttt?????\nHow one should prepare for the blood test is also very important.\nThe person should have normal",
+    "char_length": 1023
+  },
+  {
+    "chunk_id": "diabetes_chunk_11",
+    "source": "diabetes",
+    "chunk_index": 11,
+    "start_char": 9064,
+    "end_char": 10088,
+    "chunk_size": 256,
+    "text": "ppppprrrrreeeeepppppaaaaarrrrreeeee fffffooooorrrrr bbbbblllllooooooooooddddd ttttteeeeesssssttttt?????\nHow one should prepare for the blood test is also very important.\nThe person should have normal diet 3-4 days prior to the test.\n(cid:137)(cid:137)(cid:137) Diabetes 7\nPPPPPllllleeeeeaaaaassssseeeee dddddooooo nnnnnooooottttt tttttrrrrryyyyy tttttooooo rrrrreeeeeddddduuuuuccccceeeee sssssuuuuugggggaaaaarrrrr iiiiinnnnntttttaaaaakkkkkeeeee pppppuuuuurrrrrpppppooooossssseeeeelllllyyyyy jjjjjuuuuusssssttttt tttttooooo ssssshhhhhooooowwwww llllleeeeessssssssss\nbbbbblllllooooooooooddddd sssssuuuuugggggaaaaarrrrr vvvvvaaaaallllluuuuueeeeesssss..... By this, one is not only fooling the doctor but\noneself also. Actually you are delaying the diagnosis which may prove\nvery costly later. We want to diagnose the disease so as to take correct\nmeasures to control it at the earliest time. You should remember that by\nchecking sugar levels doctors are not making you a patient but trying\nto avoid serious complications relate",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_12",
+    "source": "diabetes",
+    "chunk_index": 12,
+    "start_char": 9888,
+    "end_char": 10912,
+    "chunk_size": 256,
+    "text": "as to take correct\nmeasures to control it at the earliest time. You should remember that by\nchecking sugar levels doctors are not making you a patient but trying\nto avoid serious complications related to high sugars.\nAAAAA))))) At the time of blood test the person should be fasting overnight.\nHe can have water.\nBBBBB))))) The next morning fasting blood glucose sample is collected.\nCCCCC))))) Two hours after 75g of glucose load or lunch second blood glucose\nsample is collected.\nAAAAAnnnnnooooottttthhhhheeeeerrrrr wwwwwaaaaayyyyy iiiiisssss ,,,,,tttttooooo gggggiiiiivvvvveeeee pppppooooosssssttttt llllluuuuunnnnnccccchhhhh ppppplllllaaaaasssssmmmmmaaaaa sssssaaaaammmmmpppppllllleeeee ooooonnnnn ooooonnnnneeeee\ndddddaaaaayyyyy aaaaannnnnddddd tttttooooo gggggiiiiivvvvveeeee fffffaaaaassssstttttiiiiinnnnnggggg gggggllllluuuuucccccooooossssseeeee sssssaaaaammmmmpppppllllleeeee nnnnneeeeexxxxxttttt mmmmmooooorrrrrnnnnniiiiinnnnnggggg.....\nAAAAA kkkkknnnnnooooowwwwwnnnnn dddddiiiiiaaaaabbbbbeeeeetttttiiiiiccccc ppp",
+    "char_length": 1023
+  },
+  {
+    "chunk_id": "diabetes_chunk_13",
+    "source": "diabetes",
+    "chunk_index": 13,
+    "start_char": 10712,
+    "end_char": 11736,
+    "chunk_size": 256,
+    "text": "llllluuuuucccccooooossssseeeee sssssaaaaammmmmpppppllllleeeee nnnnneeeeexxxxxttttt mmmmmooooorrrrrnnnnniiiiinnnnnggggg.....\nAAAAA kkkkknnnnnooooowwwwwnnnnn dddddiiiiiaaaaabbbbbeeeeetttttiiiiiccccc pppppaaaaatttttiiiiieeeeennnnnttttt iiiiisssss sssssuuuuuppppppppppooooossssseeeeeddddd tttttooooo fffffooooollllllllllooooowwwww ttttthhhhheeeee nnnnnooooorrrrrmmmmmaaaaalllll\ndddddaaaaaiiiiilllllyyyyy rrrrrooooouuuuutttttiiiiinnnnneeeee ooooonnnnn ttttthhhhheeeee dddddaaaaayyyyy ooooofffff bbbbblllllooooooooooddddd ttttteeeeesssssttttt aaaaalllllsssssooooo..... TTTTThhhhhaaaaattttt mmmmmeeeeeaaaaannnnnsssss ttttthhhhheeeee tttttiiiiimmmmmiiiiinnnnngggggsssss\nooooofffff bbbbbrrrrreeeeeaaaaakkkkkfffffaaaaasssssttttt,,,,, mmmmmeeeeedddddiiiiiccccciiiiinnnnneeeeesssss aaaaannnnnddddd ttttthhhhheeeee llllluuuuunnnnnccccchhhhh ssssshhhhhooooouuuuulllllddddd bbbbbeeeee fffffooooollllllllllooooowwwwweeeeeddddd ooooonnnnn ttttthhhhhiiiiisssss\ndddddaaaaayyyyy aaaaasssss uuuuusssssuuuuuaaaaalllll..... The doctor can do any m",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_14",
+    "source": "diabetes",
+    "chunk_index": 14,
+    "start_char": 11536,
+    "end_char": 12560,
+    "chunk_size": 256,
+    "text": "hhh ssssshhhhhooooouuuuulllllddddd bbbbbeeeee fffffooooollllllllllooooowwwwweeeeeddddd ooooonnnnn ttttthhhhhiiiiisssss\ndddddaaaaayyyyy aaaaasssss uuuuusssssuuuuuaaaaalllll..... The doctor can do any modification in the drug and the\ndoses if the patient follows a regular schedule on the blood test day.\nDiabetes management for each person is different. Do not\ncompare your doses and drugs with other patients. Management of\nDiabetes is not only sugar control but much more beyond that. Your\ndoctor knows your system very well. He will decide what is best for you.\nFeel free to ask all your queries to your doctor.\n(cid:137)(cid:137)(cid:137) Diabetes 8\nCONTROLLING DIABETES\nWWWWWhhhhhaaaaattttt iiiiisssss ttttthhhhheeeee iiiiidddddeeeeeaaaaa ooooofffff cccccooooonnnnntttttrrrrrooooolllll iiiiinnnnn DDDDDiiiiiaaaaabbbbbeeeeettttteeeeesssss?????\nBasic idea of control is that the person should get relief from\nthe symptoms also, blood biochemistry must be in an acceptable range\nso as to avoid acute and long-term complicat",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_15",
+    "source": "diabetes",
+    "chunk_index": 15,
+    "start_char": 12360,
+    "end_char": 13384,
+    "chunk_size": 256,
+    "text": "eettttteeeeesssss?????\nBasic idea of control is that the person should get relief from\nthe symptoms also, blood biochemistry must be in an acceptable range\nso as to avoid acute and long-term complications due to UUUUUNNNNNCCCCCOOOOONNNNNTTTTTRRRRROOOOOLLLLLLLLLLEEEEEDDDDD\nDDDDDIIIIISSSSSEEEEEAAAAASSSSSEEEEE. It is important to know the fact that though the blood\nbiochemistry prescribes normal range of values, they may be little more\nor less without causing any alarm signals. Hence one should be aware\nof the concept of AAAAACCCCCCCCCCEEEEEPPPPPTTTTTAAAAABBBBBLLLLLEEEEE CCCCCOOOOONNNNNTTTTTRRRRROOOOOLLLLLSSSSS.....\nParameter Good control Acceptable control\nFasting plasma glucose 80-120 mg/dl   140 mg/dl\nPost prandial plasma glucose 140-160 mg/dl   180 mg/dl\nGlycated haemoglobin <7 % 7 to 8 %\nTotal cholesterol   180 mg/dl   200 mg/dl\nHDL cholesterol   40 mg/dl   35 mg/dl\nTriglycerides   150 mg/dl < 180 mg/dl\nAll these values have to be correlated with other factors like\nassociated disease, patient s age etc. The",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_16",
+    "source": "diabetes",
+    "chunk_index": 16,
+    "start_char": 13184,
+    "end_char": 14208,
+    "chunk_size": 256,
+    "text": "mg/dl   200 mg/dl\nHDL cholesterol   40 mg/dl   35 mg/dl\nTriglycerides   150 mg/dl < 180 mg/dl\nAll these values have to be correlated with other factors like\nassociated disease, patient s age etc. The management will depend upon\noverall health of the patient and certainly not on blood reports! Regular\nmedical examination includes\n  Monthly weight record\n  Blood pressure check up\n  Blood glucose testing\n  Complete lipid profile\n  Urine and blood tests for assessing kidney functions\n  Tests for evaluation of heart disease\n  Examination of eyes\n  Evaluation of diabetic foot changes\n  Any sexual problems\n(cid:137)(cid:137)(cid:137) Diabetes 9\nOther specialized tests can be suggested depending upon results\nof tests mentioned above and the clinical examination by the specialist.\nDDDDDIIIIIAAAAABBBBBEEEEETTTTTEEEEESSSSS CCCCCAAAAARRRRREEEEE SSSSSCCCCCHHHHHEEEEEDDDDDUUUUULLLLLEEEEE\nEEEEEvvvvveeeeerrrrryyyyy 33333-----66666 MMMMMooooonnnnnttttthhhhhsssss :::::\nRegular visits to your doctor, it includes\n  Test for plas",
+    "char_length": 1023
+  },
+  {
+    "chunk_id": "diabetes_chunk_17",
+    "source": "diabetes",
+    "chunk_index": 17,
+    "start_char": 14008,
+    "end_char": 15032,
+    "chunk_size": 256,
+    "text": "CCCCCAAAAARRRRREEEEE SSSSSCCCCCHHHHHEEEEEDDDDDUUUUULLLLLEEEEE\nEEEEEvvvvveeeeerrrrryyyyy 33333-----66666 MMMMMooooonnnnnttttthhhhhsssss :::::\nRegular visits to your doctor, it includes\n  Test for plasma glucose levels\n  Glycated hemoglobin test (such as HbA1c)\n  Examination of injection site.\n  Feet: examined without shoes and socks\nEEEEEvvvvveeeeerrrrryyyyy YYYYYeeeeeaaaaarrrrr :::::\n  Cholesterol: fasting profile including HDL & LDL cholesterol and\ntriglycerides.\n  Kidneys: microalbumin measured\n  Eyes: examined through dilated pupils\nEEEEEvvvvveeeeerrrrryyyyy 22222-----33333 YYYYYeeeeeaaaaarrrrrsssss :::::\n  HDL/cholesterol: if the last reading was normal\n  Number of visits to the doctor depend on the control of blood\nsugar.\n(cid:137)(cid:137)(cid:137) Diabetes 10\nMYTHS ABOUT DIABETES\nTo help separate fact from fiction, here are some of the myths\nand the actual truth about diabetes.\n11111..... AAAAAllllllllll dddddiiiiiaaaaabbbbbeeeeettttteeeeesssss iiiiisssss iiiiinnnnnhhhhheeeeerrrrriiiiittttteeeeeddddd.",
+    "char_length": 1023
+  },
+  {
+    "chunk_id": "diabetes_chunk_18",
+    "source": "diabetes",
+    "chunk_index": 18,
+    "start_char": 14832,
+    "end_char": 15856,
+    "chunk_size": 256,
+    "text": "m fiction, here are some of the myths\nand the actual truth about diabetes.\n11111..... AAAAAllllllllll dddddiiiiiaaaaabbbbbeeeeettttteeeeesssss iiiiisssss iiiiinnnnnhhhhheeeeerrrrriiiiittttteeeeeddddd.\nNot everyone who gets diabetes inherits it. People tend to inherit\nthe risk of NIDDM diabetes more than IDDM. You are considered\nat risk for developing NIDDM if any first-degree relatives have\ndiabetes.\n22222..... PPPPPeeeeeooooopppppllllleeeee wwwwwiiiiittttthhhhh dddddiiiiiaaaaabbbbbeeeeettttteeeeesssss ssssshhhhhooooouuuuulllllddddd nnnnneeeeevvvvveeeeerrrrr eeeeeaaaaattttt sssssuuuuugggggaaaaarrrrr aaaaannnnnddddd ssssswwwwweeeeeeeeeetttttsssss.\nSugar and sweets do raise your blood glucose, but people with\ndiabetes can safely eat sugar as part of their meal plan in their\nrecommended quota of calories occasionally. And just to clear up\nanother myth, you can t get diabetes from eating too much sugar\nif you don t carry any other risk factor for its development.\n33333..... YYYYYooooouuuuu cccccaaaaannnnn hhhhhaa",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_19",
+    "source": "diabetes",
+    "chunk_index": 19,
+    "start_char": 15656,
+    "end_char": 16680,
+    "chunk_size": 256,
+    "text": "y. And just to clear up\nanother myth, you can t get diabetes from eating too much sugar\nif you don t carry any other risk factor for its development.\n33333..... YYYYYooooouuuuu cccccaaaaannnnn hhhhhaaaaavvvvveeeee bbbbbooooorrrrrdddddeeeeerrrrrllllliiiiinnnnneeeee dddddiiiiiaaaaabbbbbeeeeettttteeeeesssss fffffooooorrrrr mmmmmaaaaannnnnyyyyy yyyyyeeeeeaaaaarrrrrsssss.\nThere is no such thing as borderline diabetes. You either have it,\nor you don t. You have diabetes if,\na) your fasting blood glucose levels are greater than 126 mg/dl,\nb) The random blood glucose is above 200 mg/dl on at least two\noccasions.\n44444..... OOOOOnnnnnccccceeeee yyyyyooooouuuuu ssssstttttaaaaarrrrrttttt tttttaaaaakkkkkiiiiinnnnnggggg pppppiiiiillllllllllsssss ooooorrrrr iiiiinnnnnsssssuuuuullllliiiiinnnnn,,,,, yyyyyooooouuuuu cccccaaaaannnnn eeeeeaaaaattttt aaaaannnnnyyyyyttttthhhhhiiiiinnnnnggggg ttttthhhhhaaaaattttt\nyyyyyooooouuuuu wwwwwaaaaannnnnttttt.....\nThe pills or insulin that you take for diabetes are more effective\nwhen they",
+    "char_length": 1023
+  },
+  {
+    "chunk_id": "diabetes_chunk_20",
+    "source": "diabetes",
+    "chunk_index": 20,
+    "start_char": 16480,
+    "end_char": 17504,
+    "chunk_size": 256,
+    "text": "nn eeeeeaaaaattttt aaaaannnnnyyyyyttttthhhhhiiiiinnnnnggggg ttttthhhhhaaaaattttt\nyyyyyooooouuuuu wwwwwaaaaannnnnttttt.....\nThe pills or insulin that you take for diabetes are more effective\nwhen they don t have to work as hard to lower your blood glucose.\nCombining your medicines with a healthy meal plan and physical\nactivity is the best method of control of diabetes.\n55555..... IIIIInnnnnsssssuuuuullllliiiiinnnnn cccccaaaaauuuuussssseeeeesssss iiiiimmmmmpppppooooottttteeeeennnnnccccceeeee.\nSome men who have diabetes may become impotent, but not\nbecause they take insulin. Impotence or erectile dysfunction is\n(cid:137)(cid:137)(cid:137) Diabetes 11\ncaused by damage to nerves caused by lllllooooonnnnngggggssssstttttaaaaannnnndddddiiiiinnnnnggggg hhhhhiiiiiggggghhhhh bbbbblllllooooooooooddddd\ngggggllllluuuuucccccooooossssseeeee..... DDDDDiiiiiaaaaabbbbbeeeeettttteeeeesssss iiiiisssss ooooonnnnneeeee ooooofffff ttttthhhhheeeee mmmmmaaaaannnnnyyyyy rrrrreeeeeaaaaasssssooooonnnnnsssss fffffooooorrrrr gggggeeeeetttt",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_21",
+    "source": "diabetes",
+    "chunk_index": 21,
+    "start_char": 17304,
+    "end_char": 18328,
+    "chunk_size": 256,
+    "text": "oossssseeeee..... DDDDDiiiiiaaaaabbbbbeeeeettttteeeeesssss iiiiisssss ooooonnnnneeeee ooooofffff ttttthhhhheeeee mmmmmaaaaannnnnyyyyy rrrrreeeeeaaaaasssssooooonnnnnsssss fffffooooorrrrr gggggeeeeettttttttttiiiiinnnnnggggg\niiiiimmmmmpppppooooottttteeeeennnnnccccceeeee.....\n66666..... TTTTThhhhheeeee bbbbbeeeeesssssttttt wwwwwaaaaayyyyy tttttooooo jjjjjuuuuudddddgggggeeeee yyyyyooooouuuuurrrrr bbbbblllllooooooooooddddd sssssuuuuugggggaaaaarrrrr llllleeeeevvvvveeeeelllll iiiiisssss bbbbbyyyyy ttttthhhhheeeee wwwwwaaaaayyyyy ttttthhhhhaaaaattttt\nyyyyyooooouuuuu fffffeeeeeeeeeelllll.\nSome people have symptoms when their blood glucose is too\nhigh or low, others do not. Because some of the symptoms of\nhigh and low blood glucose are similar, it can be hard to know\nwhat your symptoms mean. The only way to be sure is to check\nyour blood glucose.\n77777..... IIIIIfffff mmmmmyyyyy bbbbblllllooooooooooddddd sssssuuuuugggggaaaaarrrrr iiiiisssss uuuuusssssuuuuuaaaaallllllllllyyyyy ooooovvvvveeeeerrrrr 111118888800000 mmmmmgg",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_22",
+    "source": "diabetes",
+    "chunk_index": 22,
+    "start_char": 18128,
+    "end_char": 19152,
+    "chunk_size": 256,
+    "text": "eck\nyour blood glucose.\n77777..... IIIIIfffff mmmmmyyyyy bbbbblllllooooooooooddddd sssssuuuuugggggaaaaarrrrr iiiiisssss uuuuusssssuuuuuaaaaallllllllllyyyyy ooooovvvvveeeeerrrrr 111118888800000 mmmmmggggg/////dddddlllll ttttthhhhhaaaaattttt mmmmmuuuuusssssttttt bbbbbeeeee\nnnnnnooooorrrrrmmmmmaaaaalllll fffffooooorrrrr mmmmmeeeee.....\nNo. Your usual blood glucose isn t the same as normal blood\nglucose. Just because your blood glucose is usually high, does not\nmean that this is an acceptable blood glucose level. High blood\nglucose levels that are above those recommended goals do damage\nto many organs and systems in your body.\n88888.....  TTTTThhhhheeeee dddddoooooccccctttttooooorrrrr hhhhhaaaaasssss ppppprrrrreeeeessssscccccrrrrriiiiibbbbbeeeeeddddd mmmmmeeeee iiiiinnnnnsssssuuuuullllliiiiinnnnn..... HHHHHooooowwwwweeeeevvvvveeeeerrrrr IIIII dddddooooo nnnnnooooottttt fffffeeeeeeeeeelllll\nsssssiiiiiccccckkkkk aaaaattttt aaaaallllllllll..... SSSSSooooo IIIII wwwwwooooouuuuulllllddddd bbbbbeeeeetttttttttteeeeerrrr",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_23",
+    "source": "diabetes",
+    "chunk_index": 23,
+    "start_char": 18952,
+    "end_char": 19976,
+    "chunk_size": 256,
+    "text": "eeeeevvvvveeeeerrrrr IIIII dddddooooo nnnnnooooottttt fffffeeeeeeeeeelllll\nsssssiiiiiccccckkkkk aaaaattttt aaaaallllllllll..... SSSSSooooo IIIII wwwwwooooouuuuulllllddddd bbbbbeeeeetttttttttteeeeerrrrr pppppooooossssstttttpppppooooonnnnneeeee tttttaaaaakkkkkiiiiinnnnnggggg iiiiinnnnnsssssuuuuullllliiiiinnnnn aaaaattttt aaaaa lllllaaaaattttteeeeerrrrr\ndddddaaaaattttteeeee \nFor some people with type 2 diabetes, especially those who are\nobese, moderate weight loss and increased physical activity can\nlower blood glucose levels so significantly, that insulin injections\nare not necessary. But bargaining like this is bad for your health!\nWhen you put off insulin even for a few months, high blood\nglucose levels can be doing a lot of damage. Instead, start insulin\nas soon as it is recommended so that you can keep your blood\nglucose in control. At the same time you can focus on losing\nweight and exercising more, with the hope that this will help to\nreduce your body s need for insulin injections in the future.\n(cid:137)",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_24",
+    "source": "diabetes",
+    "chunk_index": 24,
+    "start_char": 19776,
+    "end_char": 20800,
+    "chunk_size": 256,
+    "text": "od\nglucose in control. At the same time you can focus on losing\nweight and exercising more, with the hope that this will help to\nreduce your body s need for insulin injections in the future.\n(cid:137)(cid:137)(cid:137) Diabetes 12\n99999.....  MMMMMyyyyy dddddiiiiiaaaaabbbbbeeeeettttteeeeesssss iiiiisssss mmmmmuuuuuccccchhhhh mmmmmooooorrrrreeeee ssssseeeeerrrrriiiiiooooouuuuusssss ttttthhhhhaaaaannnnn sssssooooommmmmeeeee pppppeeeeeooooopppppllllleeeee bbbbbeeeeecccccaaaaauuuuussssseeeee\nIIIII hhhhhaaaaavvvvveeeee tttttooooo tttttaaaaakkkkkeeeee iiiiinnnnnsssssuuuuullllliiiiinnnnn iiiiinnnnnjjjjjeeeeeccccctttttiiiiiooooonnnnn wwwwwhhhhhiiiiillllleeeee ooooottttthhhhheeeeerrrrrsssss dddddooooo nnnnnooooottttt tttttaaaaakkkkkeeeee iiiiittttt \nMany people avoid insulin because they believe it is a good way\nto keep their diabetes from becoming too  serious.  When you\nreally think about it, that seems silly, doesn t it? If your blood\nglucose levels are high, whether you are taking insulin or not, the\nproblem is se",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_25",
+    "source": "diabetes",
+    "chunk_index": 25,
+    "start_char": 20600,
+    "end_char": 21624,
+    "chunk_size": 256,
+    "text": "heir diabetes from becoming too  serious.  When you\nreally think about it, that seems silly, doesn t it? If your blood\nglucose levels are high, whether you are taking insulin or not, the\nproblem is serious and needs to be addressed. If you avoid insulin\nit doesn t make the high blood glucose less serious, it just makes\nit easier for you to ignore the problem. Certainly when you begin\ntaking insulin, your diabetes does not suddenly become more\nserious. Rather, you are now using a new and powerful tool to\naddress a problem that has been serious all along. It would be a\nbeginning towards a better life.\n1111100000..... TTTTTyyyyypppppeeeee 22222 ooooorrrrr NNNNNIIIIIDDDDDDDDDDMMMMM dddddiiiiiaaaaabbbbbeeeeettttteeeeesssss iiiiisssss nnnnnooooottttt ssssseeeeerrrrriiiiiooooouuuuusssss.....\nThis is never true. All types of diabetes are serious, and need to\nbe taken seriously by people who have it and their families.\n1111111111.....  TTTTThhhhheeeee fffffiiiiirrrrrsssssttttt ppppprrrrreeeeessssscccccrrrrriiiiipppppt",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_26",
+    "source": "diabetes",
+    "chunk_index": 26,
+    "start_char": 21424,
+    "end_char": 22448,
+    "chunk_size": 256,
+    "text": "s of diabetes are serious, and need to\nbe taken seriously by people who have it and their families.\n1111111111.....  TTTTThhhhheeeee fffffiiiiirrrrrsssssttttt ppppprrrrreeeeessssscccccrrrrriiiiippppptttttiiiiiooooonnnnn ooooofffff iiiiinnnnnsssssuuuuullllliiiiinnnnn iiiiisssss ttttthhhhheeeee ppppprrrrreeeeessssscccccrrrrriiiiippppptttttiiiiiooooonnnnn fffffooooorrrrr rrrrreeeeesssssttttt ooooofffff\nyyyyyooooouuuuurrrrr llllliiiiifffffeeeee .....\nIt is true that most people who take insulin continue to do so for\nthe rest of their lives. But does it really matter? Taking insulin\ninjection is certainly not like an addiction to drugs or narcotics.\nYou are always in control of what you are doing and it is for\nrunning your body system correctly. Some people do manage to\nmake the necessary lifestyle changes so that insulin can be safely\ndiscontinued without a rise in blood glucose levels. TTTTThhhhheeeeerrrrreeeee iiiiisssss\ndddddeeeeefffffiiiiinnnnniiiiittttteeeeelllllyyyyy nnnnnooooo pppppoooooiiiiinnnnnttttt iii",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_27",
+    "source": "diabetes",
+    "chunk_index": 27,
+    "start_char": 22248,
+    "end_char": 23272,
+    "chunk_size": 256,
+    "text": "ulin can be safely\ndiscontinued without a rise in blood glucose levels. TTTTThhhhheeeeerrrrreeeee iiiiisssss\ndddddeeeeefffffiiiiinnnnniiiiittttteeeeelllllyyyyy nnnnnooooo pppppoooooiiiiinnnnnttttt iiiiinnnnn aaaaavvvvvoooooiiiiidddddiiiiinnnnnggggg ooooonnnnneeeee ooooorrrrr tttttwwwwwooooo ppppprrrrriiiiiccccckkkkksssss ooooofffff iiiiinnnnnjjjjjeeeeeccccctttttiiiiiooooonnnnn\naaaaattttt ttttthhhhheeeee cccccooooosssssttttt ooooofffff yyyyyooooouuuuurrrrr llllliiiiifffffeeeee!!!!!\n(cid:137)(cid:137)(cid:137) Diabetes 13\nDIABETES CARE\nNNNNNOOOOOWWWWW YYYYYOOOOOUUUUU HHHHHAAAAAVVVVVEEEEE SSSSSOOOOOMMMMMEEEEE IIIIIDDDDDEEEEEAAAAA AAAAABBBBBOOOOOUUUUUTTTTT YYYYYOOOOOUUUUURRRRR DDDDDIIIIISSSSSEEEEEAAAAASSSSSEEEEE.....\nThe golden rule of diabetes care is that   You are the most\nimportant person even more that the doctor in management of\ndiabetes . Management of diabetes can best be described under following\nsteps.\n  Diet\n  Exercise\n  Oral Medication\n  Insulin Injection\nLet us get more familiarized with these steps",
+    "char_length": 1023
+  },
+  {
+    "chunk_id": "diabetes_chunk_28",
+    "source": "diabetes",
+    "chunk_index": 28,
+    "start_char": 23072,
+    "end_char": 24096,
+    "chunk_size": 256,
+    "text": "r in management of\ndiabetes . Management of diabetes can best be described under following\nsteps.\n  Diet\n  Exercise\n  Oral Medication\n  Insulin Injection\nLet us get more familiarized with these steps as they are going\nto play an important role in your goal i.e.   living a healthy life with the\ndisease .\n(cid:137)(cid:137)(cid:137) Diabetes 14\nDIET IN DIABETES\nThis means that many diseases and symptoms are managed by\nproper diet. Even hundreds of medicines may not work or show effect\nunless certain rules regarding diet are adhered to.\nThis is the most important area in the management of the\ndisease. You have lots of people other than the doctor in your periphery\nto prescribe your diet. But remember that you are going to decide your\ndiet in consultation with your dddddoooooccccctttttooooorrrrr aaaaannnnnddddd ttttthhhhheeeee dddddiiiiieeeeetttttiiiiiccccciiiiiaaaaannnnn..... You may be\nbothered with lots of  Don ts . But you will realize that you can eat\npractically everything provided you know what you are eat",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_29",
+    "source": "diabetes",
+    "chunk_index": 29,
+    "start_char": 23896,
+    "end_char": 24920,
+    "chunk_size": 256,
+    "text": "hhhhheeeee dddddiiiiieeeeetttttiiiiiccccciiiiiaaaaannnnn..... You may be\nbothered with lots of  Don ts . But you will realize that you can eat\npractically everything provided you know what you are eating and how\nmuch you are eating. TTTTTrrrrraaaaadddddiiiiitttttiiiiiooooonnnnnaaaaalllll IIIIInnnnndddddiiiiiaaaaannnnn dddddiiiiieeeeettttt wwwwwiiiiittttthhhhh llllliiiiittttttttttllllleeeee mmmmmooooodddddiiiiifffffiiiiicccccaaaaatttttiiiiiooooonnnnn iiiiisssss\n IIIIIDDDDDEEEEEAAAAALLLLL DDDDDIIIIIAAAAABBBBBEEEEETTTTTIIIIICCCCC DDDDDIIIIIEEEEETTTTT ..... Diabetic diet does not deprive you of many\nfoodstuffs. You do not have to make major changes in your food habits\nin particular and life style in general other than avoid sugars (mainly\nSWEETS) and quantity of FAT in your daily diet. YYYYYooooouuuuu nnnnneeeeeeeeeeddddd tttttooooo bbbbbeeeee jjjjjuuuuusssssttttt\nllllliiiiittttttttttllllleeeee mmmmmooooorrrrreeeee dddddiiiiisssssccccciiiiipppppllllliiiiinnnnneeeeeddddd iiiiinnnnn llllliiiiimmmmmiiiiitttttiiiiinn",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_30",
+    "source": "diabetes",
+    "chunk_index": 30,
+    "start_char": 24720,
+    "end_char": 25744,
+    "chunk_size": 256,
+    "text": "ddddd tttttooooo bbbbbeeeee jjjjjuuuuusssssttttt\nllllliiiiittttttttttllllleeeee mmmmmooooorrrrreeeee dddddiiiiisssssccccciiiiipppppllllliiiiinnnnneeeeeddddd iiiiinnnnn llllliiiiimmmmmiiiiitttttiiiiinnnnnggggg yyyyyooooouuuuurrrrr fffffooooooooooddddd iiiiinnnnntttttaaaaakkkkkeeeeesssss..... You can eat\neverything in your allotted quota of calories in consultation with your\ndoctor and dietician. You can eat rice, potatoes, fruits etc. as other\npeople. One fruit per day can be eaten without any problems. You just\nneed to get carbohydrates, proteins, fats and vitamins in right proportion.....\nRRRRReeeeemmmmmeeeeemmmmmbbbbbeeeeerrrrr ttttthhhhhaaaaattttt ssssstttttrrrrriiiiicccccttttt bbbbbuuuuuttttt uuuuunnnnnsssssuuuuupppppeeeeerrrrrvvvvviiiiissssseeeeeddddd dddddiiiiieeeeettttt cccccooooonnnnntttttrrrrrooooolllll cccccaaaaannnnn aaaaalllllsssssooooo bbbbbeeeee mmmmmooooorrrrreeeee\nhhhhhaaaaarrrrrmmmmmfffffuuuuulllll.....\n(cid:137)(cid:137)(cid:137) Diabetes 15\nDepending on your ideal body weight and calorie re",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_31",
+    "source": "diabetes",
+    "chunk_index": 31,
+    "start_char": 25544,
+    "end_char": 26568,
+    "chunk_size": 256,
+    "text": "cccccaaaaannnnn aaaaalllllsssssooooo bbbbbeeeee mmmmmooooorrrrreeeee\nhhhhhaaaaarrrrrmmmmmfffffuuuuulllll.....\n(cid:137)(cid:137)(cid:137) Diabetes 15\nDepending on your ideal body weight and calorie requirement\ndiet can be tailor-made for you. The design of the plan can easily be\nmade by keeping in mind your likes and dislikes. You can have variety\nof food in  Exchange Food Plan . Your doctor and dietician can be\nconsulted for this innovation. Diet control does not mean weight\nreduction. Some diabetics need to gain weight. This can be done under\nyour doctor s guidance.\nRRRRReeeeemmmmmeeeeemmmmmbbbbbeeeeerrrrr\nDo not add too much oil as cooking medium.\nDo not add sugar or jaggery in vegetable preparations.\nHHHHHaaaaavvvvveeeee iiiiinnnnn AAAAAMMMMMPPPPPLLLLLEEEEE AAAAAMMMMMOOOOOUUUUUNNNNNTTTTT wwwwwhhhhheeeeennnnneeeeevvvvveeeeerrrrr yyyyyooooouuuuu fffffeeeeeeeeeelllll hhhhhuuuuunnnnngggggrrrrryyyyy.....\n(cid:57)(cid:57)(cid:57)(cid:57)(cid:57) Salads: cucumber, cabbage, lettuce, onion, tomato, capsicum, and\nr",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_32",
+    "source": "diabetes",
+    "chunk_index": 32,
+    "start_char": 26368,
+    "end_char": 27392,
+    "chunk_size": 256,
+    "text": "eeeevvvvveeeeerrrrr yyyyyooooouuuuu fffffeeeeeeeeeelllll hhhhhuuuuunnnnngggggrrrrryyyyy.....\n(cid:57)(cid:57)(cid:57)(cid:57)(cid:57) Salads: cucumber, cabbage, lettuce, onion, tomato, capsicum, and\nradish.\n(cid:57)(cid:57)(cid:57)(cid:57)(cid:57) Plain lemon juice with water.\n(cid:57)(cid:57)(cid:57)(cid:57)(cid:57) Clear soups (without additives like starch or bread pieces).\n(cid:57)(cid:57)(cid:57)(cid:57)(cid:57) Thin buttermilk without cream or sugar.\n(cid:57)(cid:57)(cid:57)(cid:57)(cid:57) Sprouted cereals.\nWWWWWHHHHHAAAAATTTTT YYYYYOOOOOUUUUU SSSSSHHHHHOOOOOUUUUULLLLLDDDDD AAAAAVVVVVOOOOOIIIIIDDDDD?????\nX Jams, jellies, soft drinks.\nX Sugar, jaggery, honey\nX Oily foodstuff\nX Fried food\nX Alcohol and other beverages\nX Concentrated sweets\nX Fasting for any reason\nX Yellow part of egg\nX Liver, kidney and brain parts in non-vegetarian food\nX Prawns\n(cid:137)(cid:137)(cid:137) Diabetes 16\nWWWWWHHHHHAAAAATTTTT YYYYYOOOOOUUUUU SSSSSHHHHHOOOOOUUUUULLLLLDDDDD RRRRREEEEESSSSSTTTTTRRRRRIIIIICCCCCTTTTT?????\n  Oil",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_33",
+    "source": "diabetes",
+    "chunk_index": 33,
+    "start_char": 27192,
+    "end_char": 28216,
+    "chunk_size": 256,
+    "text": "in parts in non-vegetarian food\nX Prawns\n(cid:137)(cid:137)(cid:137) Diabetes 16\nWWWWWHHHHHAAAAATTTTT YYYYYOOOOOUUUUU SSSSSHHHHHOOOOOUUUUULLLLLDDDDD RRRRREEEEESSSSSTTTTTRRRRRIIIIICCCCCTTTTT?????\n  Oil consumption\n  Salt\nWWWWWHHHHHYYYYY SSSSSAAAAALLLLLTTTTT SSSSSHHHHHOOOOOUUUUULLLLLDDDDD BBBBBEEEEE RRRRREEEEESSSSSTTTTTRRRRRIIIIICCCCCTTTTTEEEEEDDDDD?????\nDiabetics are more prone to get high blood pressure and heart\ndiseases. Since these disorders are also related to the dietary conditions,\nyou will have to strike a correct balance of different components of\nfood. You can make food palatable with reduced salt by adding tamarind,\ngarlic, fresh lime, onion, dry mango powder (aamchur) etc.\nFFFFFOOOOOOOOOODDDDD EEEEEXXXXXCCCCCHHHHHAAAAANNNNNGGGGGEEEEE\nThis means you can choose what you can eat from a group so\nthat diet does not become monotonous and you can enjoy all varieties\nof food listed below.\nCCCCCEEEEERRRRREEEEEAAAAALLLLL EEEEEXXXXXCCCCCHHHHHAAAAANNNNNGGGGGEEEEE\n(70 calories at each serving)\n  Rice - 1 vati*",
+    "char_length": 1023
+  },
+  {
+    "chunk_id": "diabetes_chunk_34",
+    "source": "diabetes",
+    "chunk_index": 34,
+    "start_char": 28016,
+    "end_char": 29040,
+    "chunk_size": 256,
+    "text": "does not become monotonous and you can enjoy all varieties\nof food listed below.\nCCCCCEEEEERRRRREEEEEAAAAALLLLL EEEEEXXXXXCCCCCHHHHHAAAAANNNNNGGGGGEEEEE\n(70 calories at each serving)\n  Rice - 1 vati*\n  Bread 2 pieces\n  Khichadi - 3/4 vati (Rice +mung dal)\n  Idli - 2 (medium size)\n  Chapati - 2 (small size or fulka)\n  Bhakri - one (small size) from bajra or jowar\n  Thalipeeth from any atta (2 table spoon flat)\n  Dal preparation (cooked) - 3/4 vati\n  Chana preparation (cooked) - 3/4 vati\n(* - Vati is a common unit in Indian kitchen equal to 125 ml volume)\n(cid:137)(cid:137)(cid:137) Diabetes 17\nVVVVVEEEEEGGGGGEEEEETTTTTAAAAABBBBBLLLLLEEEEE EEEEEXXXXXCCCCCHHHHHAAAAANNNNNGGGGGEEEEE\n(40 calories)\nA) Cabbage, cucumber, cauliflower, brinjol, tomato, lady s finger, beans,\npadwal, drumsticks, pumpkin, methi, radish\nB) (1/2 - 3/4 vati cooked) Carrot, beet root, green peas, suran, potato\nNNNNNOOOOONNNNN VVVVVEEEEEGGGGGEEEEETTTTTEEEEERRRRRIIIIIAAAAANNNNN FFFFFOOOOOOOOOODDDDD\n(70 calories of 30 gms of each of the followin",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_35",
+    "source": "diabetes",
+    "chunk_index": 35,
+    "start_char": 28840,
+    "end_char": 29864,
+    "chunk_size": 256,
+    "text": "2 - 3/4 vati cooked) Carrot, beet root, green peas, suran, potato\nNNNNNOOOOONNNNN VVVVVEEEEEGGGGGEEEEETTTTTEEEEERRRRRIIIIIAAAAANNNNN FFFFFOOOOOOOOOODDDDD\n(70 calories of 30 gms of each of the followings)\n  Beef\n  Lamb\n  Pork\n  Fish\n  Chicken\n(Avoid yellow part of egg, liver, kidney and brain parts, and prawns).\nDDDDDAAAAAIIIIIRRRRRYYYYY PPPPPRRRRROOOOODDDDDUUUUUCCCCCTTTTTSSSSS (((((4444400000 cccccaaaaalllll)))))\n  Milk (from cow) - 50ml\n  Skimmed milk - 1 cup\n  Curd - 1/2 vati\n  Cheese - one cube small sized\n  Paneer - 1 piece\nFFFFFRRRRRUUUUUIIIIITTTTTSSSSS (((((5555500000 cccccaaaaalllll)))))\nBanana 1/2 Anjir (Fig) 2 Papaya 1/2 vati\n(medium)\nPeru (Guava) 1 Orange 1 Pineapple 1/2 vati\nCustard apple 1/2 Dates 2-3 Grapes 10-12\n(sitafal) (Khajur)\nApple 1/2 Peach 1 Coconut 1/2 cup\nwater\nMango pieces 2 Water 3/2cup\n(small) melon\n(cid:137)(cid:137)(cid:137) Diabetes 18\nIt is obvious from these lists that you can enjoy wide variety of\nfoods. Your diet should not be monotonous. You are also entitled to\ndelicious and",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_36",
+    "source": "diabetes",
+    "chunk_index": 36,
+    "start_char": 29664,
+    "end_char": 30688,
+    "chunk_size": 256,
+    "text": "small) melon\n(cid:137)(cid:137)(cid:137) Diabetes 18\nIt is obvious from these lists that you can enjoy wide variety of\nfoods. Your diet should not be monotonous. You are also entitled to\ndelicious and varied food as other Healthy individuals.\nAAAAARRRRRTTTTTIIIIIFFFFFIIIIICCCCCIIIIIAAAAALLLLL SSSSSWWWWWEEEEEEEEEETTTTTNNNNNEEEEERRRRR\nThese are synthetically prepared agents. They are 200 to 300\ntimes sweeter than sugar. These can be safely used in tea, coffee and\neven in preparing sweets.\nFollowing table would help you in choosing the various items\nas per their nutritional value.\nCCCCCOOOOOMMMMMMMMMMOOOOONNNNN FFFFFOOOOOOOOOODDDDD IIIIITTTTTEEEEEMMMMMSSSSS IIIIINNNNN IIIIINNNNNDDDDDIIIIIAAAAANNNNN KKKKKIIIIITTTTTCCCCCHHHHHEEEEENNNNN AAAAANNNNNDDDDD TTTTTHHHHHEEEEEIIIIIRRRRR\nNNNNNUUUUUTTTTTRRRRRIIIIITTTTTIIIIIOOOOONNNNNAAAAALLLLL VVVVVAAAAALLLLLUUUUUEEEEE\nIIIIITTTTTEEEEEMMMMM WWWWWEEEEEIIIIIGGGGGHHHHHTTTTT (((((gggggmmmmm))))) CCCCCAAAAALLLLLOOOOORRRRRIIIIIEEEEESSSSS\nPOHA 100 180\nDHOKLA 100 120\nIDLI 100 130\nUPMA",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_37",
+    "source": "diabetes",
+    "chunk_index": 37,
+    "start_char": 30488,
+    "end_char": 31512,
+    "chunk_size": 256,
+    "text": "NNNNAAAAALLLLL VVVVVAAAAALLLLLUUUUUEEEEE\nIIIIITTTTTEEEEEMMMMM WWWWWEEEEEIIIIIGGGGGHHHHHTTTTT (((((gggggmmmmm))))) CCCCCAAAAALLLLLOOOOORRRRRIIIIIEEEEESSSSS\nPOHA 100 180\nDHOKLA 100 120\nIDLI 100 130\nUPMA 100 200\nPIZZA 60 140\nUTTAPA 100 350\nSAMOSA 100 250\nCHIVDA 100 420\n(cid:137)(cid:137)(cid:137) Diabetes 19\nEXERCISE IS A MEDICINE AND FUN TOO!\nImportance of EXERCISE in the management of diabetes is\ngiven prominence in CHARAK SAMHITA in following shlok.\nThis means that a lazy, obese person and a person who eats\nlots of fat is attacked by death very easily.\nExercise is an important aspect of diabetes management. How\nexactly does exercise help in diabetes control?\n  It improves glucose control by peripheral utilization of glucose by\ntissues\n  It improves blood circulation\n  Tones up your heart, lungs and other muscles\n  It helps you to keep healthy\n  It is fun and enjoyable\n  It helps to reduce weight\n  It increases physical stamina\n(cid:137)(cid:137)(cid:137) Diabetes 20\n1. A diabetic person without any associated",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_38",
+    "source": "diabetes",
+    "chunk_index": 38,
+    "start_char": 31312,
+    "end_char": 32336,
+    "chunk_size": 256,
+    "text": "It helps you to keep healthy\n  It is fun and enjoyable\n  It helps to reduce weight\n  It increases physical stamina\n(cid:137)(cid:137)(cid:137) Diabetes 20\n1. A diabetic person without any associated complication can do any\ntype of exercise.\n2. Start the exercise programme with minimum time and intensity.\nThen try to achieve the maximum within your limits.\n3. Exercise should be done regularly for at least for 30-35 minutes\nper day & atleast 5 days a week.\n4. Try to do the same exercise every day. No frequent EXCHANGE\nprogramme should be tried here.\n5. The exercise should not be changed in its intensity either as that\nwill create problems.\nKKKKKeeeeeeeeeeppppp sssssooooommmmmeeeee sssssuuuuugggggaaaaarrrrr hhhhhaaaaannnnndddddyyyyy,,,,, tttttooooo tttttaaaaakkkkkeeeee cccccaaaaarrrrreeeee ooooofffff hhhhhyyyyypppppoooooggggglllllyyyyyccccceeeeemmmmmiiiiiaaaaa iiiiifffff iiiiittttt\noooooccccccccccuuuuurrrrrsssss..... Wear loose cotton clothes. Do not exercise bare-footed.\nBrisk walk, jogging, cycling are good",
+    "char_length": 1021
+  },
+  {
+    "chunk_id": "diabetes_chunk_39",
+    "source": "diabetes",
+    "chunk_index": 39,
+    "start_char": 32136,
+    "end_char": 33160,
+    "chunk_size": 256,
+    "text": "ppoooooggggglllllyyyyyccccceeeeemmmmmiiiiiaaaaa iiiiifffff iiiiittttt\noooooccccccccccuuuuurrrrrsssss..... Wear loose cotton clothes. Do not exercise bare-footed.\nBrisk walk, jogging, cycling are good exercises. Before starting\nthe exercise programme discuss with your doctor for any special\ninstructions. For many diabetics who have associated problems of foot\nor osteoarthritis walking may be difficult. They can consult the doctor\nfor upper limb exercises or exercises in lying down position where weight\nbearing can be avoided.\nYogic exercises are also helpful.\nTTTTTaaaaabbbbbllllleeeee ssssshhhhhooooowwwwwiiiiinnnnnggggg cccccaaaaalllllooooorrrrriiiiieeeeesssss bbbbbuuuuurrrrrnnnnnttttt bbbbbyyyyy eeeeexxxxxeeeeerrrrrccccciiiiissssseeeeesssss pppppeeeeerrrrr hhhhhooooouuuuurrrrr\nSSSSSllllleeeeeeeeeepppppiiiiinnnnnggggg aaaaannnnnddddd lllllyyyyyiiiiinnnnnggggg dddddooooowwwwwnnnnn 6666655555-----7777700000\nStanding quietly 100-120\nTyping or deskwork 100-120\nLevel walking 120-240\nWashing utensils and clothes 150",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_40",
+    "source": "diabetes",
+    "chunk_index": 40,
+    "start_char": 32960,
+    "end_char": 33984,
+    "chunk_size": 256,
+    "text": "gggg aaaaannnnnddddd lllllyyyyyiiiiinnnnnggggg dddddooooowwwwwnnnnn 6666655555-----7777700000\nStanding quietly 100-120\nTyping or deskwork 100-120\nLevel walking 120-240\nWashing utensils and clothes 150-200\nSweeping and swabbing 150-200\nCycling 6km/hour 250-300\nBrisk walk 300-500\nSwimming 500-600\n(cid:137)(cid:137)(cid:137) Diabetes 21\nMEDICATION\nIn some patients diet control and exercises are not adequate\nfor achieving acceptable blood glucose levels. These patients\nrequire medication either in the form of oral drugs or\ninsulin injections.\nDiet and exercise need to be continued as a part of treatment\nof diabetes. Basically, oral medication is of following major types:\nsulfonylurea (available commercially as daonil, Glynase, euglucon and\ndimicron) and biguinides (marketed as Glyciphase, Walaphase). These\nhave different modes of action. The doctor will decide the suitable type\nand dose of medicine. You may need one or more tablets if the control\nof your blood glucose is not possible by following a healthy eating",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_41",
+    "source": "diabetes",
+    "chunk_index": 41,
+    "start_char": 33784,
+    "end_char": 34808,
+    "chunk_size": 256,
+    "text": "rent modes of action. The doctor will decide the suitable type\nand dose of medicine. You may need one or more tablets if the control\nof your blood glucose is not possible by following a healthy eating plan\nor by being active. These tablets lower blood glucose, in different ways.\nFor example, sulfonylurea lowers blood glucose by helping the pancreas\nmake more insulin. Sulfonylureas have to be taken half an hour before\nfood. Whereas, biguanides reduce blood glucose by decreasing the liver s\nproduction of glucose. It also causes the muscle to use glucose more\nefficiently. The two other new types of medicines like Acarbose and\ninsulin sensitizers work in other ways. Acarbose reduces absorption of\nglucose from intestine. It has to be taken just before first bite of lunch\nand dinner. These medicines have specific indications. It is again important\nto remind you at this stage that nnnnnooooo tttttwwwwwooooo pppppaaaaatttttiiiiieeeeennnnntttttsssss aaaaarrrrreeeee sssssiiiiimmmmmiiiiilllllaaaaarrrrr..... HHHHHeeeeenn",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_42",
+    "source": "diabetes",
+    "chunk_index": 42,
+    "start_char": 34608,
+    "end_char": 35632,
+    "chunk_size": 256,
+    "text": "ations. It is again important\nto remind you at this stage that nnnnnooooo tttttwwwwwooooo pppppaaaaatttttiiiiieeeeennnnntttttsssss aaaaarrrrreeeee sssssiiiiimmmmmiiiiilllllaaaaarrrrr..... HHHHHeeeeennnnnccccceeeee dddddooooo\nnnnnnooooottttt cccccooooommmmmpppppaaaaarrrrreeeee yyyyyooooouuuuurrrrr dddddooooossssseeeeesssss ooooorrrrr tttttyyyyypppppeeeee ooooofffff tttttaaaaabbbbbllllleeeeettttt wwwwwiiiiittttthhhhh ooooottttthhhhheeeeerrrrr pppppaaaaatttttiiiiieeeeennnnntttttsssss..... Do not\ntake tablets prescribed to some other patient when you run out of stock\nor while away from home. Always carry sufficient quantity of your\nmedicine with you.\nThese tablets should be avoided in pregnancy, diabetes\nassociated with severe heart diseases, kidney and liver diseases or young\ndiabetics. After years of use sometimes oral medicine may not show\nrequired effects on blood sugar. This is called primary or secondary drug\n(cid:137)(cid:137)(cid:137) Diabetes 22\nfailure. The patient may not respond to tablets then. This",
+    "char_length": 1023
+  },
+  {
+    "chunk_id": "diabetes_chunk_43",
+    "source": "diabetes",
+    "chunk_index": 43,
+    "start_char": 35432,
+    "end_char": 36456,
+    "chunk_size": 256,
+    "text": "oral medicine may not show\nrequired effects on blood sugar. This is called primary or secondary drug\n(cid:137)(cid:137)(cid:137) Diabetes 22\nfailure. The patient may not respond to tablets then. This is because the\noral drugs can work if the pancreas make enough to let the pills work.\nThe pills do not stop working, the pancreas does. If the pancreas no\nlonger make insulin then one must take insulin injection. RRRRReeeeemmmmmeeeeemmmmmbbbbbeeeeerrrrr\nwwwwwhhhhhaaaaattttt iiiiisssss mmmmmooooosssssttttt iiiiimmmmmpppppooooorrrrrtttttaaaaannnnnttttt iiiiisssss tttttooooo cccccooooonnnnntttttrrrrrooooolllll ooooofffff bbbbblllllooooooooooddddd sssssuuuuugggggaaaaarrrrr llllleeeeevvvvveeeeelllllsssss..... Eating\nhealthy and staying active is still a must even if you are taking medicine.\nConsider your oral drugs as  extra help  to control your blood\nglucose. More than likely you need to shed a few kilograms, improve\nyour blood fats and blood pressure. Healthy eating and exercise helps\nyou achieve these goals as wel",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_44",
+    "source": "diabetes",
+    "chunk_index": 44,
+    "start_char": 36256,
+    "end_char": 37280,
+    "chunk_size": 256,
+    "text": "tra help  to control your blood\nglucose. More than likely you need to shed a few kilograms, improve\nyour blood fats and blood pressure. Healthy eating and exercise helps\nyou achieve these goals as well. And if you lose enough weight you\nmaybe able to take less tablets or no tablets at all. RRRRReeeeemmmmmeeeeemmmmmbbbbbeeeeerrrrr ttttthhhhhaaaaattttt iiiiittttt\nmmmmmaaaaayyyyy ooooonnnnnlllllyyyyy tttttaaaaakkkkkeeeee aaaaa fffffeeeeewwwww kkkkkiiiiilllllooooosssss oooooffffffffff yyyyyooooouuuuurrrrr bbbbbooooodddddyyyyy tttttooooo gggggeeeeettttt rrrrriiiiiddddd ooooofffff dddddiiiiiaaaaabbbbbeeeeettttteeeeesssss!!!!!\n(cid:137)(cid:137)(cid:137) Diabetes 23\nINSULIN-INJECTION\nIIIIINNNNNSSSSSUUUUULLLLLIIIIINNNNN TTTTTHHHHHEEEEERRRRRAAAAAPPPPPYYYYY\nThere are misconceptions and phobia in minds of patients and\nsometimes even doctors about insulin. PPPPPrrrrreeeeessssscccccrrrrriiiiippppptttttiiiiiooooonnnnn ooooofffff iiiiinnnnnsssssuuuuullllliiiiinnnnn dddddoooooeeeeesssss nnnnnooooottttt\nmmmmmeeeeeaaaaannnnn t",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_45",
+    "source": "diabetes",
+    "chunk_index": 45,
+    "start_char": 37080,
+    "end_char": 38104,
+    "chunk_size": 256,
+    "text": "imes even doctors about insulin. PPPPPrrrrreeeeessssscccccrrrrriiiiippppptttttiiiiiooooonnnnn ooooofffff iiiiinnnnnsssssuuuuullllliiiiinnnnn dddddoooooeeeeesssss nnnnnooooottttt\nmmmmmeeeeeaaaaannnnn ttttthhhhhaaaaattttt yyyyyooooouuuuurrrrr dddddiiiiissssseeeeeaaaaassssseeeee iiiiisssss ssssseeeeevvvvveeeeerrrrreeeee. Any type of Diabetes Mellitus is a\nmajor illness. It needs to be treated with whatever possible means. The\nfear of insulin is due to its mode of delivery which is through injection.\nBut with newer types of injection syringes and with right technique one\ncan have minimum pain while taking the injection.\nIIIIInnnnnsssssuuuuullllliiiiinnnnn iiiiisssss nnnnneeeeeeeeeedddddeeeeeddddd bbbbbyyyyy\n1. Young diabetics\n2. Very high blood sugar levels\n3. Pregnant diabetic women\n4. Diabetics who have to undergo operative procedures and/or other\nserious illness.\n5. Diabetics with associated complications like heart or kidney disease\nmay require insulin in addition to oral tablets.\n6. Infections like tuberculo",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_46",
+    "source": "diabetes",
+    "chunk_index": 46,
+    "start_char": 37904,
+    "end_char": 38928,
+    "chunk_size": 256,
+    "text": "operative procedures and/or other\nserious illness.\n5. Diabetics with associated complications like heart or kidney disease\nmay require insulin in addition to oral tablets.\n6. Infections like tuberculosis or hepatitis in presence of diabetes.\nNever refuse to take insulin if your doctor advises. There are\ndefinitely more advantages of being on insulin therapy in certain\nsituations. You have to take insulin in the form of an injection not\nbecause of the seriousness of the problem, but because it is the only\nmode by which insulin can be administered at the moment.\nTTTTTYYYYYPPPPPEEEEESSSSS OOOOOFFFFF IIIIINNNNNSSSSSUUUUULLLLLIIIIINNNNN\nTwo main types of insulin are available. The first type is fast\nacting. The action starts within 1/2 to 1 hour after taking it. Hence itis\ntaken 1/2 to 1 hour before consuming food. The second type is cloudy\ntype of insulin. It is an intermediate acting insulin. The action starts\n3-4 hours after injection and lasts for 18-20 hours. Peak effect is\n(cid:137)(cid:137)(cid:137) Diabete",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_47",
+    "source": "diabetes",
+    "chunk_index": 47,
+    "start_char": 38728,
+    "end_char": 39752,
+    "chunk_size": 256,
+    "text": "e second type is cloudy\ntype of insulin. It is an intermediate acting insulin. The action starts\n3-4 hours after injection and lasts for 18-20 hours. Peak effect is\n(cid:137)(cid:137)(cid:137) Diabetes 24\nseenafter 10-12 hours. Both these insulins are available in premixed\nforms as well in different ratios to make it most convenient for the\npatient.\nTTTTTyyyyypppppeeeeesssss aaaaannnnnddddd DDDDDuuuuurrrrraaaaatttttiiiiiooooonnnnn ooooofffff AAAAAccccctttttiiiiiooooonnnnn ooooofffff IIIIInnnnnsssssuuuuullllliiiiinnnnnsssss\nTTTTTyyyyypppppeeeee ooooofffff IIIIInnnnnsssssuuuuullllliiiiinnnnn AAAAAppppppppppeeeeeaaaaarrrrraaaaannnnnccccceeeee BBBBBeeeeegggggiiiiinnnnnsssss PPPPPeeeeeaaaaakkkkk AAAAAccccctttttiiiiivvvvviiiiitttttyyyyy AAAAAllllllllll GGGGGooooonnnnneeeee\nAnalogue Clear 10-15 30-60 4 hours\ninsulin minutes minutes\nRegular Clear 30 minutes 2 - 4 hours 4 - 8 hours\nNPH Cloudy 2 - 4 hours 6 - 8 hours 12 - 15 hours\nNPH/Regular Cloudy 30 minutes Varies 18 - 24 hours\n70/30 or 50/50\nare common\nmixes\nIIIIIN",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_48",
+    "source": "diabetes",
+    "chunk_index": 48,
+    "start_char": 39552,
+    "end_char": 40576,
+    "chunk_size": 256,
+    "text": "utes minutes\nRegular Clear 30 minutes 2 - 4 hours 4 - 8 hours\nNPH Cloudy 2 - 4 hours 6 - 8 hours 12 - 15 hours\nNPH/Regular Cloudy 30 minutes Varies 18 - 24 hours\n70/30 or 50/50\nare common\nmixes\nIIIIINNNNNSSSSSUUUUULLLLLIIIIINNNNN PPPPPRRRRREEEEESSSSSEEEEERRRRRVVVVVAAAAATTTTTIIIIIOOOOONNNNN\nStorage of insulin is very important for its optimum action.\nInsulin should be stored preferably in fridge (on the door at the bottom\nlevel). It should not be frozen. It should not be exposed to extreme\ntemperatures like shelf near the cooking stove in the kitchen or geyser\nin the bathroom. Constant sunlight at the windows can cause problem\nif the bottle of insulin has been left there. Insulin can be kept safety for\n15 - 30 days at room temperature in relatively cooler place also.\n(cid:137)(cid:137)(cid:137) Diabetes 25\nINJECTION\nHHHHHooooowwwww tttttooooo ppppprrrrreeeeepppppaaaaarrrrreeeee iiiiinnnnnsssssuuuuullllliiiiinnnnn ssssshhhhhooooottttt ?????\nWash your hands thoroughly. Roll the insulin vial in both hands.\nDo not",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_49",
+    "source": "diabetes",
+    "chunk_index": 49,
+    "start_char": 40376,
+    "end_char": 41400,
+    "chunk_size": 256,
+    "text": "ON\nHHHHHooooowwwww tttttooooo ppppprrrrreeeeepppppaaaaarrrrreeeee iiiiinnnnnsssssuuuuullllliiiiinnnnn ssssshhhhhooooottttt ?????\nWash your hands thoroughly. Roll the insulin vial in both hands.\nDo not shake it.\nTake cloudy insulin or intermediate acting insulin vial. Clean the\ntop with a spirit swab.\nInsert the needle in the vial and push air inside the vial, in an\namount equal to units of insulin you are required to take. Take out\nEMPTY syringe without any insulin in it. Now take vial of clear or rapid\nacting insulin. Push air inside the vial, amount equal to units of your\ninsulin dose. Make vial-syringe unit upside down. Just pull back the\nplunger to withdraw clear insulin. Take out the needle.\n(cid:137)(cid:137)(cid:137) Diabetes 26\nNow insert needle in cloudy insulin vial. Pull the piston back so\nthat insulin flows inside the syringe without getting mixed inside the\nvial. Remove air bubbles by firmly flicking the syringe.\nYou are now ready with insulin shot.\nClean the area where you want to inject. Pinch",
+    "char_length": 1023
+  },
+  {
+    "chunk_id": "diabetes_chunk_50",
+    "source": "diabetes",
+    "chunk_index": 50,
+    "start_char": 41200,
+    "end_char": 42224,
+    "chunk_size": 256,
+    "text": "flows inside the syringe without getting mixed inside the\nvial. Remove air bubbles by firmly flicking the syringe.\nYou are now ready with insulin shot.\nClean the area where you want to inject. Pinch the skin fold.\nHold syringe like a pen with thumb and middle finger. Press the plunger\nwith index finger, straight in the skinfold. You have now injected\nsuccessfully.\nIIIIINNNNNJJJJJEEEEECCCCCTTTTTIIIIIOOOOONNNNN DDDDDEEEEEVVVVVIIIIICCCCCEEEEE\nInsulin syringes are available in markets that are disposable and\ncapable of offering near  painfree  injections. Insulin portable pens,\ninsulin jets and portable insulin pumps are also available. The pen like\ninstruments are available now in the market which allow you to dial\n(cid:137)(cid:137)(cid:137) Diabetes 27\nthe dose and inject. These pens have following advantages:\n  They assure a freedom from syringes.\n  They are very accurate.\n  They increase the self confidence of the patients and assure them a\nnear normal social life.\nSSSSSiiiiittttteeeeesssss fffffooooorrrrr",
+    "char_length": 1022
+  },
+  {
+    "chunk_id": "diabetes_chunk_51",
+    "source": "diabetes",
+    "chunk_index": 51,
+    "start_char": 42024,
+    "end_char": 43048,
+    "chunk_size": 256,
+    "text": "They assure a freedom from syringes.\n  They are very accurate.\n  They increase the self confidence of the patients and assure them a\nnear normal social life.\nSSSSSiiiiittttteeeeesssss fffffooooorrrrr iiiiinnnnnsssssuuuuullllliiiiinnnnn iiiiinnnnnjjjjjeeeeeccccctttttiiiiiooooonnnnn Insulin injection is easy to take. Following\npicture depicts various sites where injection can be taken.\nTTTTThhhhheeeee aaaaarrrrreeeeeaaaaasssss mmmmmaaaaarrrrrkkkkkeeeeeddddd rrrrreeeeeddddd cccccaaaaannnnn bbbbbeeeee uuuuussssseeeeeddddd fffffooooorrrrr iiiiinnnnnsssssuuuuullllliiiiinnnnn iiiiinnnnnjjjjjeeeeeccccctttttiiiiiooooonnnnn\n(cid:137)(cid:137)(cid:137) Diabetes 28\nHYPOGLYCEMIA\nHypoglycemia means sudden lowering of blood sugar. When\nyou are on medication for diabetes, lowering of the blood sugar level\nis the normal expected response of the drug. This is not a side effect\nof the medicine but sometimes, for the reasons given below, this level\nof blood glucose is lowered significantly.\nHHHHHooooowwwww tttttooooo rrrrreeeeec",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_52",
+    "source": "diabetes",
+    "chunk_index": 52,
+    "start_char": 42848,
+    "end_char": 43872,
+    "chunk_size": 256,
+    "text": "response of the drug. This is not a side effect\nof the medicine but sometimes, for the reasons given below, this level\nof blood glucose is lowered significantly.\nHHHHHooooowwwww tttttooooo rrrrreeeeecccccooooogggggnnnnniiiiissssseeeee hhhhhyyyyypppppoooooggggglllllyyyyyccccceeeeemmmmmiiiiiaaaaa?????\nFollowing symptoms can be correlated with hypoglycemia.\n  Sudden feeling of hunger and cramps in stomach\n  Unexplained uneasiness\n  Sweating\n  Headache\n  Blurring of vision\n  Tremulousness\n  Palpitation\n  Abnormal behaviour\n  Sudden mood changes\nIf it is not treated at proper time it may progress to deterioration\nin consciousness, convulsions, paralysis and coma. All these symptoms\nof hypoglycemia are avoidable if it is treated immediately.\nCCCCCAAAAAUUUUUSSSSSEEEEESSSSS OOOOOFFFFF HHHHHYYYYYPPPPPOOOOOGGGGGLLLLLYYYYYCCCCCEEEEEMMMMMIIIIIAAAAA\n  Missed food\n  Excess of diabetes medicine dose\n  Sudden unaccustomed exercise\n  Alcohol consumption\n(cid:137)(cid:137)(cid:137) Diabetes 29\nTTTTTRRRRREEEEEAAAAATTTTTMMMMMEEE",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_53",
+    "source": "diabetes",
+    "chunk_index": 53,
+    "start_char": 43672,
+    "end_char": 44696,
+    "chunk_size": 256,
+    "text": "CCCCEEEEEMMMMMIIIIIAAAAA\n  Missed food\n  Excess of diabetes medicine dose\n  Sudden unaccustomed exercise\n  Alcohol consumption\n(cid:137)(cid:137)(cid:137) Diabetes 29\nTTTTTRRRRREEEEEAAAAATTTTTMMMMMEEEEENNNNNTTTTT OOOOOFFFFF HHHHHYYYYYPPPPPOOOOOGGGGGLLLLLYYYYYCCCCCEEEEEMMMMMIIIIIAAAAA\nAs soon as you get warning symptoms take sugar, fruit juice,\nchocolates or some sweets immediately. If it is left untreated patient\nmay require injection of glucose or glucagon. Report this event to the\ndoctor so as to adjust doses of medicine.\nA glucometer is very handy to keep a record of glucose levels.\nIt would help to monitor the hypoglycemic conditions as well.\n(cid:137)(cid:137)(cid:137) Diabetes 30\nSICK DAY PLAN\nSimple illnesses like viral fever, diarrhea, flu etc are as common\nin diabetics as in non-diabetic persons. When you are sick body releases\nhormones that help to fight against disease. But these hormones may\nraise blood glucose levels. If you are not having enough insulin to take\ncare of this situation, body will",
+    "char_length": 1023
+  },
+  {
+    "chunk_id": "diabetes_chunk_54",
+    "source": "diabetes",
+    "chunk_index": 54,
+    "start_char": 44496,
+    "end_char": 45520,
+    "chunk_size": 256,
+    "text": "u are sick body releases\nhormones that help to fight against disease. But these hormones may\nraise blood glucose levels. If you are not having enough insulin to take\ncare of this situation, body will release lot of ketone bodies. This can be\nvery harmful.\n  Check your blood glucose and urine ketose more often when you\nare sick\n  Do not skip total insulin dose or medicine even if you are not\neating properly\n  Do not exercise on a sick day\n  If the urine sugars are absent and ketone bodies are present, it\nindicates starvation ketoses. You need to eat more and take more\nfluids in this situation.\nSSSSSiiiiiccccckkkkk-----DDDDDaaaaayyyyy FFFFFooooooooooddddd &&&&& FFFFFllllluuuuuiiiiidddddsssss WWWWWiiiiittttthhhhh AAAAAbbbbbooooouuuuuttttt 1111155555 GGGGGrrrrraaaaammmmmsssss ooooofffff CCCCCaaaaarrrrrbbbbbooooohhhhhyyyyydddddrrrrraaaaattttteeeee\n1 Fruit Juice glass 1/2 Cup Ice Cream\n1 Slice Toast or Bread 1/2 Cup Cooked Cereal\n1 Cup Soup 1/2 Cup Mashed Potatoes\n1 Cup Sports Drink 1/3 Can Regular Soft Drink\n1/2 C",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_55",
+    "source": "diabetes",
+    "chunk_index": 55,
+    "start_char": 45320,
+    "end_char": 46344,
+    "chunk_size": 256,
+    "text": "yyyyydddddrrrrraaaaattttteeeee\n1 Fruit Juice glass 1/2 Cup Ice Cream\n1 Slice Toast or Bread 1/2 Cup Cooked Cereal\n1 Cup Soup 1/2 Cup Mashed Potatoes\n1 Cup Sports Drink 1/3 Can Regular Soft Drink\n1/2 Cup Fruit Juice 1/3 Cup Rice\n1/4 Cup Sherbet 1/3 Cup curds\n1/4 Cup Pudding 1/4 Cup Applesauce\n(cid:137)(cid:137)(cid:137) Diabetes 31\nPREGNANCY AND DIABETES\nAll those related to the field of diabetology, as patient or as a\nhealth care professional should thank Best and Banting (1921) for their\ndiscovery of insulin. It was next to impossible for a pregnant diabetic\nwoman to survive before availability of insulin. But now the scenario has\ntotally changed. With medical advancement a diabetic lady can have a\nnormal pregnancy and expect a normal child. Its also possible for a\nnondiabetic pregnant woman to get diabetes during the course of her\npregnancy. This entity is called as gggggeeeeessssstttttaaaaatttttiiiiiooooonnnnnaaaaalllll dddddiiiiiaaaaabbbbbeeeeettttteeeeesssss and is not an\nuncommon occurrence.\nWWWWWhhhhha",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_56",
+    "source": "diabetes",
+    "chunk_index": 56,
+    "start_char": 46144,
+    "end_char": 47168,
+    "chunk_size": 256,
+    "text": "ng the course of her\npregnancy. This entity is called as gggggeeeeessssstttttaaaaatttttiiiiiooooonnnnnaaaaalllll dddddiiiiiaaaaabbbbbeeeeettttteeeeesssss and is not an\nuncommon occurrence.\nWWWWWhhhhhaaaaattttt iiiiisssss gggggeeeeessssstttttaaaaatttttiiiiiooooonnnnnaaaaalllll dddddiiiiiaaaaabbbbbeeeeettttteeeeesssss mmmmmeeeeelllllllllliiiiitttttuuuuusssss (((((GGGGGDDDDDMMMMM)))))?????\nAppearance of diabetes during the course of pregnancy is called\nas GDM. This condition is generally asymptotic. But it is a very serious\ncondition if left untreated. Uncontrolled diabetes is a major health hazard\nfor both the mother and the baby in the womb. The good news is that\nif it is well managed, than the course of pregnancy and outcome is\nalmost same as non-diabetic pregnancies.\nCCCCCUUUUURRRRRRRRRREEEEENNNNNTTTTT RRRRREEEEECCCCCOOOOOMMMMMMMMMMEEEEENNNNNDDDDDAAAAATTTTTIIIIIOOOOONNNNNSSSSS AAAAARRRRREEEEE TTTTTHHHHHAAAAATTTTT AAAAALLLLLLLLLL PPPPPRRRRREEEEEGGGGGNNNNNAAAAANNNNNTTTTT WWWWWOOOOOMMMMMEEEEENNNNN\nMMMMMUUUUUSSS",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_57",
+    "source": "diabetes",
+    "chunk_index": 57,
+    "start_char": 46968,
+    "end_char": 47992,
+    "chunk_size": 256,
+    "text": "ECCCCCOOOOOMMMMMMMMMMEEEEENNNNNDDDDDAAAAATTTTTIIIIIOOOOONNNNNSSSSS AAAAARRRRREEEEE TTTTTHHHHHAAAAATTTTT AAAAALLLLLLLLLL PPPPPRRRRREEEEEGGGGGNNNNNAAAAANNNNNTTTTT WWWWWOOOOOMMMMMEEEEENNNNN\nMMMMMUUUUUSSSSSTTTTT BBBBBEEEEE SSSSSCCCCCRRRRREEEEEEEEEENNNNNEEEEEDDDDD FFFFFOOOOORRRRR GGGGGEEEEESSSSSTTTTTAAAAATTTTTIIIIIOOOOONNNNNAAAAALLLLL DDDDDIIIIIAAAAABBBBBEEEEETTTTTEEEEESSSSS BBBBBEEEEETTTTTWWWWWEEEEEEEEEENNNNN TTTTTHHHHHEEEEE 2222244444ttttthhhhh\naaaaannnnnddddd 2222288888ttttthhhhh WWWWWEEEEEEEEEEKKKKKSSSSS OOOOOFFFFF PPPPPRRRRREEEEEGGGGGNNNNNAAAAANNNNNCCCCCYYYYY.....\nSome important tips:\n  If your diabetes is detected during pregnancy report to a\ndiabetologist or an obstetrician immediately.\n  Diet control and exercises are initial steps in the management like\nother diabetic patients, but oral hypoglycemic tablets are not\nrecommended during pregnancy.\n  The oral drugs should be immediately stopped as soon as pregnancy\nis confirmed and patient should be switched over to insulin.\n(cid:137)(cid:137)(cid:137) Diabet",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_58",
+    "source": "diabetes",
+    "chunk_index": 58,
+    "start_char": 47792,
+    "end_char": 48816,
+    "chunk_size": 256,
+    "text": "re not\nrecommended during pregnancy.\n  The oral drugs should be immediately stopped as soon as pregnancy\nis confirmed and patient should be switched over to insulin.\n(cid:137)(cid:137)(cid:137) Diabetes 32\ntemperatures like shelf near the cooking stove in the kitchen or\ngeyser in the bathroom. Constant sunlight at the windows can cause\nproblem if the bottle of insulin has been left there. Insulin can be kept\nsafety for 15 - 30 days at room temperature in relatively cooler place\nalso.\n  If you are a known diabetic and planning to conceive keep your\nblood glucose as tightly controlled as possible.\n  The diabetic woman in child bearing age group must plan family\nwith doctor s consultation with excellent blood glucose control\nthroughout.\nSome problems in the foetus and mothers are more common\nin diabetic pregnancies but if the sugar control is well, a normal pregnancy\nand delivery is possible.\n  Diabetes per se does not pose contraindication for child bearing.\n  Insulin and only insulin remains as a major treatme",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_59",
+    "source": "diabetes",
+    "chunk_index": 59,
+    "start_char": 48616,
+    "end_char": 49640,
+    "chunk_size": 256,
+    "text": "but if the sugar control is well, a normal pregnancy\nand delivery is possible.\n  Diabetes per se does not pose contraindication for child bearing.\n  Insulin and only insulin remains as a major treatment till delivery.\nThe best insulin is human insulin.\n  Try to maintain fasting blood glucose levels between 70 to 90 mg/\ndl and post prandial 100-135 mg/dl. through out preconception\nperiod and during pregnancy.\n  You may have to do some special blood tests and frequent\nsonographic examinations during pregnancy for evaluation of\nnormal foetal growth.\n  Diabetic ladies should avoid oral contraceptive tablets and use\nother barrier methods for contraception.\n(cid:137)(cid:137)(cid:137) Diabetes 33\nDIABETES AND YOUTH\nNo age is barred from getting attacked by diabetes, but diabetes\nat young age is a special condition. There are many physical, endocrinal\nand psychological changes taking place in young diabetic patients. Their\nactivities and food requirements are higher than adult patients. This type\nof diabetes needs o",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_60",
+    "source": "diabetes",
+    "chunk_index": 60,
+    "start_char": 49440,
+    "end_char": 50464,
+    "chunk_size": 256,
+    "text": "re are many physical, endocrinal\nand psychological changes taking place in young diabetic patients. Their\nactivities and food requirements are higher than adult patients. This type\nof diabetes needs only insulin for managemnet. The adolescent changes\nin the minds need to be understood by the parents and other family\nmembers. The managemnet becomes easier if the parents and the child\nhave good rapport. Counseling and psychiatric help is sometimes essential\nat this stage for better compliance. Children should be given enough\nfreedom regarding diet and activities but still be supervised. Occupation,\njob, marriage and post-marriage events do not pose any problem in a\nwell-controlled young diabetic patient. Horizon is as open for these\nyoung people as it is for non-diabetic ones.\n(cid:137)(cid:137)(cid:137) Diabetes 34\nSELF MONITORING\nSelf-monitoring means that the patient can monitor and maintain\ntest results of urine and blood sugar examinations at home. It s a novel\nconcept so that you have maximum information",
+    "char_length": 1023
+  },
+  {
+    "chunk_id": "diabetes_chunk_61",
+    "source": "diabetes",
+    "chunk_index": 61,
+    "start_char": 50264,
+    "end_char": 51288,
+    "chunk_size": 256,
+    "text": "4\nSELF MONITORING\nSelf-monitoring means that the patient can monitor and maintain\ntest results of urine and blood sugar examinations at home. It s a novel\nconcept so that you have maximum information about your health situation.\nUrine can be examined for presence of sugars, proteins and ketones. Sugar\nin urine does not carry much significance and blood sugar examination is\nthe only confirmatory test. But it is better than doing nothing. Commercially\navailable urine strips are quite reliable and give useful information to the\ndoctor. Ketone body testing is most important in urine test. They are present\nin urine when DM control is very poor and body is under severe metabolic\nstress. It is an emergency situation.\nHome blood glucose monitoring is an important examination\nthat can be carried out by patient himself. Small pocket size glucometers\nare available commercially. They give instant blood glucose results. A\nPerson can check blood glucose at different times in a day and as and\nwhen required in the case of hy",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_62",
+    "source": "diabetes",
+    "chunk_index": 62,
+    "start_char": 51088,
+    "end_char": 52112,
+    "chunk_size": 256,
+    "text": "all pocket size glucometers\nare available commercially. They give instant blood glucose results. A\nPerson can check blood glucose at different times in a day and as and\nwhen required in the case of hypoglycemia. Your visits to pathology\nlaboratory are reduced. You know your blood glucose levels over a long\nperiod that helps in maintaining normoglycemia. Blood test done in\nlaboratory by venous route have slightly different values than those\nchecked by glucometer. HHHHHaaaaavvvvviiiiinnnnnggggg gggggllllluuuuucccccooooommmmmeeeeettttteeeeerrrrr fffffooooorrrrr iiiiinnnnnsssssuuuuullllliiiiinnnnn rrrrreeeeeqqqqquuuuuiiiiirrrrriiiiinnnnnggggg pppppaaaaatttttiiiiieeeeennnnnttttt\niiiiisssss ttttthhhhheeeee tttttoooooppppp ppppprrrrriiiiiooooorrrrriiiiitttttyyyyy iiiiinnnnn ttttthhhhheeeee pppppuuuuurrrrrccccchhhhhaaaaassssseeeee llllliiiiisssssttttt ooooofffff yyyyyooooouuuuurrrrr hhhhhooooouuuuussssseeeeehhhhhooooolllllddddd gggggaaaaadddddgggggeeeeetttttsssss.....\nYou can make a practice to enter your glucometer",
+    "char_length": 1023
+  },
+  {
+    "chunk_id": "diabetes_chunk_63",
+    "source": "diabetes",
+    "chunk_index": 63,
+    "start_char": 51912,
+    "end_char": 52936,
+    "chunk_size": 256,
+    "text": "ssssseeeee llllliiiiisssssttttt ooooofffff yyyyyooooouuuuurrrrr hhhhhooooouuuuussssseeeeehhhhhooooolllllddddd gggggaaaaadddddgggggeeeeetttttsssss.....\nYou can make a practice to enter your glucometer readings in\nfollowing format of the table. This would definitely help your physician\nin assessing your condition.\nDate Pre Post Pre Post Pre Post 3 a.m. SOS\nbreakfast breakfast lunch lunch dinner dinner\n(cid:137)(cid:137)(cid:137) Diabetes 35\nLONG TERM COMPLICATIONS OF\nDIABETES AND MANAGEMENT\nDiabetic complications are medical problems that occur more\noften in people with diabetes than those without diabetes.\nUUUUUnnnnncccccooooonnnnntttttrrrrrooooolllllllllleeeeeddddd dddddiiiiiaaaaabbbbbeeeeettttteeeeesssss over a long period of time causes\nchanges in practically every organ in the body. If proper precaution is\ntaken at the right time, most of these complications are avoidable or\ncan at least be postponed. High blood sugar levels for long period cause\nchanges in the blood vessels and nerves. This leads to invol",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_64",
+    "source": "diabetes",
+    "chunk_index": 64,
+    "start_char": 52736,
+    "end_char": 53760,
+    "chunk_size": 256,
+    "text": "en at the right time, most of these complications are avoidable or\ncan at least be postponed. High blood sugar levels for long period cause\nchanges in the blood vessels and nerves. This leads to involvement of\ntarget organs. The lining of blood vessels gets thicker and the lumen is\nreduced. As a result blood flow to the affected organ is reduced.\nThus the heart, brain, kidney etc. can get affected if the related\nvessels are involved. Regular follow-up with the doctor, meticulous sugar\ncontrol and following the advice does help in the management of these\ncomplications. The major organs affected by diabetes are\n  Eyes\n  Heart\n  Kidney\n  Foot\n(cid:137)(cid:137)(cid:137) Diabetes 36\nEEEEEyyyyyeeeeesssss::::: Early Cataractus changes and changes in blood vessels\nof eyes are very common. It is a usual cause of blindness\nin diabetes and it is avoidable to some extent. Visit the\nspecialist once a year for eye examination even if you do\nnot have any eye problem (it your diabetes is more than five years old).\nRemember",
+    "char_length": 1023
+  },
+  {
+    "chunk_id": "diabetes_chunk_65",
+    "source": "diabetes",
+    "chunk_index": 65,
+    "start_char": 53560,
+    "end_char": 54584,
+    "chunk_size": 256,
+    "text": "s\nin diabetes and it is avoidable to some extent. Visit the\nspecialist once a year for eye examination even if you do\nnot have any eye problem (it your diabetes is more than five years old).\nRemember that correction for spectacle number by an optician is not\nenough.\nHHHHHeeeeeaaaaarrrrrttttt aaaaannnnnddddd bbbbbrrrrraaaaaiiiiinnnnn::::: If the disease is not controlled heart and\nbrain blood vessels of diabetics are affected at earlier stage\nthan non-diabetic people. Diabetics may not experience typical\n filmy type chest  pain of heart attack. Most of the times they\nmay only feel some discomfort. Silent infarct or painless heart\nattacks do occur in diabetic patients due to involvement of nerves and\nblood vessels.\nUnexplained sweating, discomfort in left arm and neck can be\nan indication of heart attack. Some important tips are\n  Strictly follow the advice of the doctor.\n  Do not postpone the specialized tests like the treadmill test,\nrecommended by the doctor just because you may not suffer at\nthat moment.\nMo",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_66",
+    "source": "diabetes",
+    "chunk_index": 66,
+    "start_char": 54384,
+    "end_char": 55408,
+    "chunk_size": 256,
+    "text": "rtant tips are\n  Strictly follow the advice of the doctor.\n  Do not postpone the specialized tests like the treadmill test,\nrecommended by the doctor just because you may not suffer at\nthat moment.\nMost of the heart attacks and paralysis can be averted or atleast\npostponed if medication is started in time. Be particular about your diet, fat\nintake and exercises. These have definitive roles in prevention of heart diseases.\nKKKKKiiiiidddddnnnnneeeeeyyyyy::::: Kidney failures and problems are very commonly\nseen in uncontrolled diabetes. High blood pressure is a\ncommon occurrence in diabetic patients. Regular\nexamination of blood pressure and urine should be done\nto avoid this complication.\nExamination of urinary proteins and microalbumin is essential\n(cid:137)(cid:137)(cid:137) Diabetes 37\nto initiate early treatment and retard kidney damage. Do not wait for\nwarning symptoms of high blood pressure to occur.\nFFFFFOOOOOOOOOOTTTTT\nFoot in diabetes is at risk. There are three major\nproblems.\n  Poor blood circulation",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_67",
+    "source": "diabetes",
+    "chunk_index": 67,
+    "start_char": 55208,
+    "end_char": 56232,
+    "chunk_size": 256,
+    "text": "t and retard kidney damage. Do not wait for\nwarning symptoms of high blood pressure to occur.\nFFFFFOOOOOOOOOOTTTTT\nFoot in diabetes is at risk. There are three major\nproblems.\n  Poor blood circulation\n  Reduced sensation due to involvement of nerves\n  Susceptibility to infections\nThe pain, which is a protective reflex, may be absent in some\npatients due to involvement of nerves. In such cases the injury may go\nunnoticed. This can lead to foot ulcer and infections.\nDue to poor blood circulation the healing process is very slow.\nEach year more than 50,000 people with diabetes lose a limb\nor a part of a limb due to diabetic complication. This can be upsetting\nnews to the patient but most of these problems are because of\nunawareness and negligence of both the patient and the doctor.\nSSSSSooooommmmmeeeee fffffoooooooooottttt cccccaaaaarrrrreeeee tttttiiiiipppppsssss\n  Wear proper sized footware.\n  Inspect your feet daily for blister, injury\n  Discoloration on foot\n  Wash and scrub the foot gently. Moisten\nwith cre",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_68",
+    "source": "diabetes",
+    "chunk_index": 68,
+    "start_char": 56032,
+    "end_char": 57056,
+    "chunk_size": 256,
+    "text": "oottttt cccccaaaaarrrrreeeee tttttiiiiipppppsssss\n  Wear proper sized footware.\n  Inspect your feet daily for blister, injury\n  Discoloration on foot\n  Wash and scrub the foot gently. Moisten\nwith cream after proper drying.\n  In-toe space for infection\n  Pressure points due to footwear\n  Cracks over heels\n  Never walk barefooted indoor or outdoor.\n  Wear cotton socks. Cut nails straight across.\n(cid:137)(cid:137)(cid:137) Diabetes 38\nRRRRReeeeemmmmmeeeeemmmmmbbbbbeeeeerrrrr\nFootwear shopping should be done preferably late in the\nafternoon when foot is slightly bigger in size than in the morning hours.\nInspect your shoes from inside before wearing and remove any foreign\nmaterials like small stones or sand.\nDo not buy footwear unless they are 100% comfortable.\nReport to the doctor about foot injury if it does not heal in\n2-3 days.\nNNNNNEEEEERRRRRVVVVVEEEEESSSSS\nLong years of uncontrolled diabetes in some\npatients can lead to involvement of nerves. Burning in\nfeet and cramps in legs are very common. They can\nhav",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_69",
+    "source": "diabetes",
+    "chunk_index": 69,
+    "start_char": 56856,
+    "end_char": 57880,
+    "chunk_size": 256,
+    "text": "eal in\n2-3 days.\nNNNNNEEEEERRRRRVVVVVEEEEESSSSS\nLong years of uncontrolled diabetes in some\npatients can lead to involvement of nerves. Burning in\nfeet and cramps in legs are very common. They can\nhave tingling sensation over feet, sole and fingers.\nThis is described as glove and stocking type of neuropathy.\nThis is very important as sensations at these points may be\ndecreased and injury may go unnoticed. These painless injuries may lead\nto diabetic foot complications.\nSSSSSeeeeexxxxxuuuuuaaaaalllll dddddyyyyysssssfffffuuuuunnnnnccccctttttiiiiiooooonnnnn\nLong standing uncontrolled\nDM is one of the reasons for impotence.\nComplete physical and psychological\nevaluation is necessary. Advanced\nmedical care offers good results in the\nmanagement of sexual dysfunction.\n(cid:137)(cid:137)(cid:137) Diabetes 39\nPSYCHOLOGICAL FACTORS AND DIABETES\nDiagnosis of diabetes in the very first stage can cause lot of\nstress to the patient. Some patients feel victimized. They may have  why\nme   feeling. There is no cure to this di",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_70",
+    "source": "diabetes",
+    "chunk_index": 70,
+    "start_char": 57680,
+    "end_char": 58704,
+    "chunk_size": 256,
+    "text": "L FACTORS AND DIABETES\nDiagnosis of diabetes in the very first stage can cause lot of\nstress to the patient. Some patients feel victimized. They may have  why\nme   feeling. There is no cure to this disease. Person has to live with it.\nBut most of these above-mentioned negative reactions are due to\nmisconceptions about diabetes. There is a lot of unawareness about it.\nCounseling to the patient at this stage helps to alter his attitude towards\nthe disease. This in turn results in better acceptance and compliance.\nInvolvement of family members in diabetes care is very important. Person\nmay feel deprived of food due to many restrictions on diet. Tailor-made\ndiet that will take into account person s likes and dislikes can be offered\nwith the help of a dietician. Sexual dysfunction can be a major factor\nof worry. Help of andrologists, gynaecologists and psychologists can\nreorient life in a proper direction.\nOther psychological stress factors like office work, household\nproblems, financial difficulties can ultimatel",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_71",
+    "source": "diabetes",
+    "chunk_index": 71,
+    "start_char": 58504,
+    "end_char": 59528,
+    "chunk_size": 256,
+    "text": "of andrologists, gynaecologists and psychologists can\nreorient life in a proper direction.\nOther psychological stress factors like office work, household\nproblems, financial difficulties can ultimately lead to a rise in the blood\nglucose level. The health care personnel should extend his support to\ncope up such situations. Regular aerobics, Yogic exercises and meditation\nplays an important role in stress management. Short vacation from\nroutine life can be of great help as a stress reliever\n(cid:137)(cid:137)(cid:137) Diabetes 40\nCAN DIABETES BE PREVENTED?\nIt is a million-dollar question. It is theoretically possible but\npractically very difficult. This is because it does not have one specific\nreason which one can take care of Preventive steps can be taken at\ndifferent stages.\nPPPPPrrrrriiiiimmmmmaaaaarrrrryyyyy ppppprrrrreeeeevvvvveeeeennnnntttttiiiiiooooonnnnn:::::\nThis means the prevention of Diabetes Mellitus to occur at first\nstep. Genetic counseling can help at this step. Marriage between two\ndiabetic pe",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_72",
+    "source": "diabetes",
+    "chunk_index": 72,
+    "start_char": 59328,
+    "end_char": 60352,
+    "chunk_size": 256,
+    "text": "pppprrrrreeeeevvvvveeeeennnnntttttiiiiiooooonnnnn:::::\nThis means the prevention of Diabetes Mellitus to occur at first\nstep. Genetic counseling can help at this step. Marriage between two\ndiabetic persons is not advisable as stronger family history makes offspring\nmore prone to get diabetes. Ideally, marriage between two genetic\nprediabetic should be avoided. Gene therapy and specific protection\nagainst the disease are the challenges of new millenium. Person having\nstrong family history of diabetes can definitely take some precautions.\nHealthy food habits and a physically active life can keep the disease\naway. Risk factors like obesity, smoking and tobacco chewing are definitely\nmodifiable. What you need is more of self-control and self-confidence.\nYou should always be telling yourself  It is not difficult, I can do it .\nSSSSSeeeeecccccooooonnnnndddddaaaaarrrrryyyyy ppppprrrrreeeeevvvvveeeeennnnntttttiiiiiooooonnnnn:::::\nEarliest diagnosis of the disease and proper management is\nrequired to avoid the long-te",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_73",
+    "source": "diabetes",
+    "chunk_index": 73,
+    "start_char": 60152,
+    "end_char": 61176,
+    "chunk_size": 256,
+    "text": "n do it .\nSSSSSeeeeecccccooooonnnnndddddaaaaarrrrryyyyy ppppprrrrreeeeevvvvveeeeennnnntttttiiiiiooooonnnnn:::::\nEarliest diagnosis of the disease and proper management is\nrequired to avoid the long-term complications. This can be achieved by\nmaintaining blood glucose levels as normal as possible. Various tests for\nscreening of target organs are easily available. Complete medical check\nup and tests like microalbumin excretion, treadmill test, and fundoscopy\nare helpful in detecting the earliest involvement of organs. Medical\nintervention at right time and initiation of medication definitely can\npostpone or retard the development of complications.\nTTTTTeeeeerrrrrtttttiiiiiaaaaarrrrryyyyy ppppprrrrreeeeevvvvveeeeennnnntttttiiiiiooooonnnnn:::::\nAt tertiary level of prevention, measures can be taken to retard\nthe progress of complications, which have already occurred. Target organ\n(cid:137)(cid:137)(cid:137) Diabetes 41\ninvolvement like heart disease, kidney problem is managed successfully.\nNewer techniques in car",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_74",
+    "source": "diabetes",
+    "chunk_index": 74,
+    "start_char": 60976,
+    "end_char": 62000,
+    "chunk_size": 256,
+    "text": "ress of complications, which have already occurred. Target organ\n(cid:137)(cid:137)(cid:137) Diabetes 41\ninvolvement like heart disease, kidney problem is managed successfully.\nNewer techniques in cardiology, advances in the field of dialysis and\nrenal replacement therapy have brightened the life of diabetics. Modern\nmedical practice has really offered not only longevity but also better\nquality of life to diabetic people.\nHEIGHT - WEIGHT TABLE OF AVERAGE VALUES\nHHHHHeeeeeiiiiiggggghhhhhttttt (((((MMMMMeeeeettttteeeeerrrrr)))))\nWWWWWeeeeeiiiiiggggghhhhhttttt 1.55 1.60 1.65 1.70 1.75 1.80 1.85 1.90 1.95\n(cid:137)(cid:137)(cid:137) Diabetes 42\nEPILOGUE\nNow you should be convinced that diabetes is not the dreaded\ndisease as it was thought to be decades before. Your positive attitude\ntowards the disease is very important. What we require is little\nmodification in your life style to make it more organized and disciplined!\nAvailability of artificial sweeteners allows you to enjoy delicious food\npreparations. Newer i",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_75",
+    "source": "diabetes",
+    "chunk_index": 75,
+    "start_char": 61800,
+    "end_char": 62824,
+    "chunk_size": 256,
+    "text": "ant. What we require is little\nmodification in your life style to make it more organized and disciplined!\nAvailability of artificial sweeteners allows you to enjoy delicious food\npreparations. Newer injection devices and purer forms of insulin have\nmade life of diabetics more comfortable. Advancement in pancreatic\ntransplants, gene therapy definitely offers brighter future to the diabetic\npopulation. Better understanding about the disease and its management\nwill help you to lead healthy, complication free life.\n(cid:137)(cid:137)(cid:137) Diabetes 43\nIDENTITY CARD FOR\nA DIABETES PATIENT\nThis card can give valuable information in case of\nemergency.\nIdentity Card\nName :\nAdress: Photo\nTel. No. (R) :\nTel. No. (O) :\nClose relative s Phone & Adress :\nCurrent Medicines :\nAAAAAppppppppppeeeeeaaaaalllll\nI am a diabetic patient. If I am found in\nunconscious or semiconscious state please given\nme sugar/sweet and please take me to a nearest\ndoctor.\n(cid:137)(cid:137)(cid:137) Diabetes 44\n(cid:137)(cid:137)(cid:137) Diabe",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "diabetes_chunk_76",
+    "source": "diabetes",
+    "chunk_index": 76,
+    "start_char": 62624,
+    "end_char": 62827,
+    "chunk_size": 256,
+    "text": "tient. If I am found in\nunconscious or semiconscious state please given\nme sugar/sweet and please take me to a nearest\ndoctor.\n(cid:137)(cid:137)(cid:137) Diabetes 44\n(cid:137)(cid:137)(cid:137) Diabetes",
+    "char_length": 203
+  }
+]

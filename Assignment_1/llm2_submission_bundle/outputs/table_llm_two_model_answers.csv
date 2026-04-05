@@ -1,0 +1,386 @@
+config_name,llm,question_id,question_type,question,answer,manual_score
+Config_A_baseline_health,groq/llama-3.1-8b-instant,1,in_domain,What is the difference between hereditary and congenital diseases?,"Hereditary disorders are derived from one's parents, transmitted in the gametes through the generations, and therefore are familial [Source 1: 2_2021_11_16!06_21_15_AM]. 
+
+On the other hand, congenital diseases simply present at birth [Source 1: 2_2021_11_16!06_21_15_AM].",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,2,in_domain,What are point mutations and how do they affect proteins?,"Point mutations result from the substitution of a single nucleotide base by a different base, resulting in the replacement of one amino acid by another in the protein product. They are sometimes called missense mutations. By contrast, certain point mutations may change an amino acid codon to a chain termination codon, or a stop codon (UAG, UAA, and UGA). Such nonsense mutations interrupt translation, and in most cases RNAs are rapidly degraded, a phenomenon called nonsense mediated decay, such that little or no protein is formed. [Source 1: 2_2021_11_16!06_21_15_AM]",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,3,in_domain,What is a frameshift mutation?,"A frameshift mutation occurs when the insertion or deletion in the genome are not in multiples of three nucleotides, and they can alter the reading frame (grouping of the codons) of the DNA strand. [Source 1: 2_2021_11_16!06_21_15_AM]",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,4,in_domain,How are X-ray images formed in diagnostic radiology?,"X-ray images are formed in diagnostic radiology by the interaction of the X-ray beam with the patient. As the X-ray beam passes through the patient, the photons interact with the body tissues and are absorbed/scattered by the patient. The degree of absorption is related to the density of the material that is in the beam's path. Dense objects (such as bone and metal) have a high degree of photon absorption, while less dense objects (such as fat and water) absorb less photons. The differential absorption of photons by different materials in the photons' path results in the beam exiting the patient with different intensities, known as transmitted beam. A detector is used to measure the intensity variation, thus providing information on the different densities in the beam's path.
+
+[Source 5: 3-MEDICAL-IMAGING-TECHNIQUES] lines used: 
+- ""In diagnostic X-ray imaging, images are formed by the interaction of the X-ray beam with the patient.""
+- ""As the X-ray beam passes through the patient, the photons interact with the body tissues and are absorbed/scattered by the patient.""
+- ""The differential absorption of photons by different materials in the photons' path results in the beam exiting the patient with different intensities.""
+- ""A detector is used to measure the intensity variation, thus providing information on the different densities in the beam's path.""",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,5,in_domain,What are different modalities of X-ray imaging mentioned in the document?,"The different modalities of X-ray imaging mentioned in the document are:
+
+1. Radiography
+2. Fluoroscopy
+3. Mammography
+4. Dental Radiography
+5. Bone Mineral Densitometry
+6. Computed Tomography
+
+[Source 1: 3-MEDICAL-IMAGING-TECHNIQUES]",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,6,in_domain,What is the difference between radiography and CT imaging?,"The difference between radiography and CT imaging is that radiography is a projection imaging modality that forms a two-dimensional image of the patient's three-dimensional anatomy, whereas CT imaging is a transmission technique that results in images of individual slices of tissue in the patient. 
+
+In radiography, the image is formed with a screen-film system, CR cassette, or digital detectors, and the degree of absorption is related to the density of the material in the beam's path. 
+
+In contrast, CT imaging uses a rotating X-ray tube, with the beam in the form of a thin slice, and the image is a simple array of X-ray intensity, which is synthesized by a computer into a tomographic image of the patient. 
+
+[Source 1: 3-MEDICAL-IMAGING-TECHNIQUES] 
+[Source 2: 3-MEDICAL-IMAGING-TECHNIQUES] 
+[Source 5: 3-MEDICAL-IMAGING-TECHNIQUES]",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,7,in_domain,What is nutrition and how is it related to health?,"Nutrition is the science of food and its relation to health. It deals with food and is a basic prerequisite to sustain life. The way our body makes use of these nutrients affects our health and well-being. [Source 3: introduction-to-nutrition, lines 1-3]",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,8,in_domain,What are the main functions of food in the human body?,"The main functions of food in the human body are:
+
+1. Physiological function: 
+   - Providing energy to carry out voluntary work.
+   - Growth or body building.
+   - Repair or maintenance of the body cells.
+   - Regulation of body processes.
+   - Protective function, increasing one's resistance to infection.
+
+[Source 1: introduction-to-nutrition, lines 1-5]
+
+2. Psychological function: 
+   - Food satisfies our emotional need for love, attention, and security.
+
+[Source 1: introduction-to-nutrition, lines 6-7]
+
+3. Social function: 
+   - Food is an important part of festivals and social functions.
+
+[Source 1: introduction-to-nutrition, lines 8-9]
+
+These functions are essential for maintaining overall health and well-being.",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,9,in_domain,Why is a balanced diet necessary?,"A balanced diet is necessary because it provides all essential nutrients in the required amounts, which varies with age, gender, physiological status, and physical activity. Eating too little or too much food can lead to harmful consequences, and an adequate diet is needed throughout our lives to enhance physical and mental potential. [Source 1: introduction-to-nutrition, lines 1-5]",-1.0
+Config_A_baseline_health,,10,in_domain,What is the definition of public health according to Winslow?,"ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 3203, Requested 2855. Please try again in 580ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+Config_A_baseline_health,groq/llama-3.1-8b-instant,11,in_domain,What are the core functions of public health?,"The core functions of public health are:
+
+1. Assessment: Systematically collect, analyze, and make available information on healthy communities.
+2. Policy Development: Promote the use of a scientific knowledge base in policy and decision making.
+3. Assurance: Ensure provision of services to those in need.
+
+[Source 1: introduction-to-public-health, Topic 4: Core Functions and Essential Services of Public Health]
+
+Institute of Medicine. The future of public health. Washington, DC: National Academies Press; 1988. 28",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,12,in_domain,What factors influence population health?,"The factors that influence population health are:
+
+1. Genes and biology
+2. Health behaviors
+3. Social/societal characteristics
+4. Health services or medical care
+
+[Source 1: introduction-to-public-health]
+[Source 4: introduction-to-public-health]
+[Source 6: Centers for Disease Control and Prevention. Social determinants of health. http://www.cdc.gov/socialdeterminants/FAQ.html. 40, 41]",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,13,in_domain,What is vaccination and how does it work?,"Vaccination is the process of introducing a vaccine into the body to stimulate the immune system to produce antibodies and memory cells that can recognize and fight specific germs. 
+
+When a vaccine is introduced into the body, the immune system interacts with the germs present in the vaccine and produces proteins known as antibodies, which act against the germs in the vaccine. Certain cells also get programmed to remember this exposure to the germs, known as memory cells. When the germ enters the body again, these memory cells get activated and produce very large quantities of antibodies, which surround the germs and kill them, thus preventing the germs from causing disease in the vaccinated person.
+
+[Source 1: Immunization] 
+[Source 4: Immunization]",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,14,in_domain,Why are vaccines important for children?,"Vaccines are important for children because they provide protection against harmful germs and diseases, which can be devastating to their health. The human immune system of a newborn is not fully developed, and they are susceptible to many dangerous infections. Vaccines train the immune system to fight off these germs, reducing the risk of becoming seriously ill or spreading a disease to others. [Source 1: Immunization, lines 1-5]
+
+In a country like India, where diseases occur very early in life, vaccines are essential to protect children from these infections. The National Immunization Schedule (NIP) by the Govt. of India and the Indian Academy of Pediatrics (IAP) schedule are in place to ensure that children receive the necessary vaccinations to protect them from various diseases. [Source 1: Immunization, lines 6-7]
+
+Vaccines also provide long-term protection against diseases, and they can prevent serious complications and even death. According to the data provided, vaccines have been highly effective in reducing the incidence of diseases such as smallpox, polio, tetanus, diphtheria, pertussis, and measles in India. [Source 1: Immunization, lines 8-14]
+
+Therefore, vaccines are crucial for children's health and well-being, and they should receive the recommended vaccinations as per the National Immunization Schedule and the Indian Academy of Pediatrics schedule. [Source 1: Immunization, lines 6-7]",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,15,in_domain,What diseases can be prevented through immunization?,"According to [Source 1], immunizations currently prevent 3.5-5 million deaths every year from diseases like diphtheria, tetanus, pertussis, influenza, and measles.
+
+Additionally, [Source 1] mentions that vaccines protect against more than 20 life-threatening diseases.
+
+[Source 2] lists the following diseases that can be prevented through immunization:
+
+1. Measles
+2. Rubella
+3. Polio
+4. Diphtheria
+5. Pertussis
+6. Influenza
+7. Chicken pox
+8. Mumps
+9. Typhoid
+10. Hepatitis A
+11. Chicken pox
+12. Influenza
+
+[Source 4] lists the following diseases that can be prevented through immunization:
+
+1. Diphtheria
+2. Tetanus
+3. Pertussis
+4. Measles
+5. Rubella
+6. Chicken pox
+7. Mumps
+8. Typhoid
+9. Hepatitis A
+10. Influenza
+
+[Source 5] lists the following diseases that can be prevented through immunization:
+
+1. Smallpox
+2. Polio
+3. Tetanus
+4. Diphtheria
+5. Pertussis
+6. Measles
+7. Rubella
+8. Chicken pox
+9. Mumps
+10. Typhoid
+11. Hepatitis A
+12. Influenza
+
+Therefore, the diseases that can be prevented through immunization include:
+
+1. Diphtheria
+2. Tetanus
+3. Pertussis
+4. Measles
+5. Rubella
+6. Polio
+7. Influenza
+8. Chicken pox
+9. Mumps
+10. Typhoid
+11. Hepatitis A
+12. Smallpox",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,16,in_domain,What are the key factors affecting mental health?,"The key factors affecting mental health include:
+
+1. Physical illnesses [Source 1: CBSE_MH_Manual]
+2. Limited basic resources [Source 1: CBSE_MH_Manual]
+3. Inability to provide for self and family [Source 1: CBSE_MH_Manual]
+4. Unfulfilled desires in life [Source 1: CBSE_MH_Manual]
+5. Biological factors such as faulty genes [Source 2: CBSE_MH_Manual]
+6. Environmental factors such as stress, trauma, or abuse [Source 2: CBSE_MH_Manual]
+7. Psychological factors such as traumatic events, loss of a loved one, divorce/separation of parents, dysfunctional family life, shift of residence, social and cultural expectations, and substance abuse [Source 2: CBSE_MH_Manual]
+8. Other factors such as poor nutrition, exposure to toxins, brain damage, and prenatal damage [Source 2: CBSE_MH_Manual]
+9. Physical conditions such as serious and prolonged medical conditions like HIV or cancer [Source 3: CBSE_MH_Manual]
+10. Insecure attachment between child and parent [Source 2: CBSE_MH_Manual]
+11. Brain defects or injury [Source 2: CBSE_MH_Manual]
+12. Prenatal damage [Source 2: CBSE_MH_Manual]
+13. Other mental health conditions such as anxiety disorders, eating disorders, and substance abuse [Source 3: CBSE_MH_Manual]",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,17,in_domain,What role do schools play in mental health wellbeing?,"Schools have the prime responsibility to promote and optimize the physical, social, and mental health of students. They must shift the focus to the psychosocial needs of students and take care of the overall wellbeing. Schools must provide easy access to mental health services and support in schools, which is the first step to ensure physical and psychological safety of children. Access to mental health services in schools is vital for improving the physical and psychological safety of students and schools. [Source 1: CBSE_MH_Manual] lines 5-8, [Source 2: CBSE_MH_Manual] lines 1.1.1-1.1.4, [Source 3: CBSE_MH_Manual] lines 1.1.1-1.1.4.",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,18,in_domain,What challenges are faced during adolescence?,"According to [Source 2: CBSE_MH_Manual] lines 38-39, the challenges faced during adolescence include:
+
+- Developing an identity & vocation for life
+- Managing Emotions
+- Building Relationships
+- Body Image and Related Concerns
+- Depression
+- Bullying
+- Substance Abuse
+- Cyber Issues
+- Obsessive Compulsive Behaviours
+- Abuse and Trauma
+
+These challenges can be further broken down into various aspects such as physical, emotional, social, and mental health issues.",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,19,in_domain,What is the purpose of the Infectious Diseases conference mentioned in the document?,"The purpose of the Infectious Diseases conference is to provide an opportunity for attendees to network with experts, present their research findings, and learn about the latest scientific developments in the field of infectious diseases, medicine, microbiology, epidemiology, and public health. [Source 1: infectious-diseases-2022-virtual-abstract-book, lines 1-5]",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,20,in_domain,What are the main themes discussed in Infection 2022?,"The main themes discussed in Infection 2022 include:
+
+1. Stepping Stones in Infectious Diseases Prevention, Control and Cure [Source 1: infectious-diseases-2022-virtual-abstract-book]
+2. Improved diagnosis and treatment of visceral leishmaniasis [Source 1: infectious-diseases-2022-virtual-abstract-book]
+3. Predictors of adherence to COVID-19 prevention measures among communities in North Shoa zone, Ethiopia [Source 4: infectious-diseases-2022-virtual-abstract-book]
+
+These themes are evident from the keynote presentations, oral presentations, and poster presentations listed in the conference program.",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,21,in_domain,What is cancer and how does it develop?,"Cancer is a disease that affects 1 in 3 people in the United States, where abnormal cells grow out of control and crowd out normal cells. It starts when there are changes in parts of a person's cells (genes) [Source 1: what-is-cancer].
+
+These changes can be caused by various factors, such as certain lifestyle habits, gene changes inherited from parents, exposure to cancer-causing substances, and more [Source 3: what-is-cancer]. 
+
+Cancer cells can sometimes spread to other parts of the body (metastasis), causing problems with how the body works [Source 1: what-is-cancer]. 
+
+The development of cancer involves several mechanisms, including:
+
+1. Changes in genes that might lead to cancer, which can be caused by various factors [Source 3: what-is-cancer].
+2. Decreased Dicer expression, which promotes inflammation, DNA damage, and carcinogenesis [Source 4: infectious-diseases-2022-virtual-abstract-book].
+3. Mutations in protein-coding genes, such as point mutations and frameshift mutations, which can disrupt cellular homeostasis and contribute to disease [Source 5: 2_2021_11_16!06_21_15_AM].
+
+Overall, cancer is a complex disease that involves multiple genetic and environmental factors.",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,22,in_domain,What is metastasis?,Metastasis is when cancer spreads from one part of the body to another. [Source 3: what-is-cancer],-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,23,in_domain,What is the difference between benign and malignant tumors?,"A benign tumor is not cancer, whereas a malignant tumor is cancer. 
+
+[Source 1: what-is-cancer] - ""Benign: Tumors that are not cancer"" 
+[Source 1: what-is-cancer] - ""Malignant: Tumors that are cancer""",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,24,in_domain,What is diabetes and what causes high blood glucose levels?,"Diabetes is a medical condition where the body either cannot produce enough insulin (Type 1 diabetes) or cannot effectively use the insulin it produces (Type 2 diabetes) [Source 1: diabetes, lines 1-2].
+
+High blood glucose levels are caused by the body's inability to adequately utilize glucose due to a lack of insulin, leading to an increase in glucose levels in the blood [Source 1: diabetes, lines 1-2].
+
+In Type 1 diabetes, the body's inability to produce enough insulin is due to the autoimmune destruction of the pancreatic beta cells, which produce insulin [Source 1: diabetes, lines 1-2].
+
+In Type 2 diabetes, the body's inability to effectively use insulin is due to insulin resistance, where the body's cells become less responsive to insulin, leading to high blood glucose levels [Source 2: RAND_WR467, lines 28-30].
+
+Additionally, high blood glucose levels can also be caused by other factors such as obesity, physical inactivity, and a diet high in sugar and refined carbohydrates [Source 3: diabetes, lines 888-999].",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,25,in_domain,What are the two major types of diabetes?,"The two major types of diabetes are:
+
+1. Insulin dependent diabetes (Type I)
+2. Non-insulin dependent diabetes (Type II)
+
+[Source 1: diabetes]",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,26,in_domain,How does insulin function in the body?,"Insulin is essential for the entry of glucose into the cell. Without adequate insulin, cells cannot utilize glucose, leading to a rise in blood glucose levels. Insulin helps to facilitate the uptake of glucose by cells, thereby regulating blood glucose levels. [Source 1: diabetes, lines 1-2]",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,27,in_domain,What are the different types of cardiovascular diseases?,"The different types of cardiovascular diseases include:
+
+1. Coronary heart disease (CHD), also called coronary artery disease (CAD) and atherosclerotic heart disease.
+2. Angina
+3. Stroke
+4. Rheumatic heart disease
+5. Congenital heart disease
+6. Peripheral arterial disease
+7. Aortic aneurysm and dissection
+8. Deep vein thrombosis
+
+[Source 1: RAND_WR467] lines 3-8",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,28,in_domain,What are the major risk factors of cardiovascular disease?,"The major risk factors of cardiovascular disease (CVD) include:
+
+1. Smoking [Source 3: RAND_WR467, lines 22-25]
+2. High blood pressure [Source 3: RAND_WR467, lines 33-34]
+3. High LDL cholesterol [Source 3: RAND_WR467, lines 35-36]
+4. Diabetes [Source 3: RAND_WR467, lines 28-32]
+5. Obesity [Source 5: RAND_WR467, lines 26-27]
+6. Physical inactivity [Source 1: RAND_WR467, lines 2-3]
+7. Poor diet [Source 1: RAND_WR467, lines 4-5]
+8. Alcohol intake [Source 1: RAND_WR467, lines 5-6]
+9. Socio-economic status [Source 1: RAND_WR467, lines 39-40]
+
+These risk factors interact with each other and can increase the risk of developing CVD.",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,29,in_domain,What is the global impact of cardiovascular disease?,"Cardiovascular disease (CVD) is the largest single contributor to the 57 million deaths registered by the WHO in 2002, causing more deaths globally than cancer and HIV combined [Source 3: RAND_WR467, Figure 1]. 
+
+In terms of global mortality, CVD is the single biggest cause of deaths, with nearly 100 times as many people a year being killed by CVD than by war [Source 3: RAND_WR467, Figure 1]. 
+
+The burden of CVD (% of DALYs lost worldwide) is expected to rise from 10.4% to 11.6% by 2030 [Source 1: RAND_WR467, line 12].",-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,30,trap,What are the latest AI techniques used in cancer diagnosis in 2024?,I cannot find this information in the provided documents.,-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,31,trap,What is the exact cure for diabetes mentioned in the document?,I cannot find this information in the provided documents.,-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,32,trap,What are WHO guidelines for COVID-19 vaccination in 2023?,I cannot find this information in the provided documents.,-1.0
+Config_A_baseline_health,groq/llama-3.1-8b-instant,33,trap,Which country has the highest cardiovascular disease rate according to the document?,"Mongolia has an exceptionally high impact of CVD on its population, with a high number of DALYs (Disability Adjusted Life Years) lost due to stroke, with over 20 DALYs lost per 1000 population. [Source 1: RAND_WR467]",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,1,in_domain,What is the difference between hereditary and congenital diseases?,"Hereditary disorders are those that are **inherited from a parent’s gametes and transmitted through the generations** (they are familial). Congenital diseases are **present at birth**; they may be genetic or non‑genetic (e.g., congenital syphilis), and not all genetic diseases are congenital. [Source 1] lines describing hereditary disorders as “derived from one’s parents, transmitted in the gametes… therefore are familial,” and congenital diseases as “simply present at birth.”",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,2,in_domain,What are point mutations and how do they affect proteins?,"Point mutations are changes that substitute a single nucleotide base with another. This single‑base substitution can:
+
+* **Replace one amino acid with another** (a missense mutation), altering the protein’s structure or function – e.g., the β‑globin substitution that causes sickle‑cell anemia.  
+* **Create a premature stop codon** (a nonsense mutation), which halts translation; the resulting mRNA is often degraded by nonsense‑mediated decay, so little or no functional protein is produced.  
+
+These effects arise because the altered codon changes the amino‑acid sequence or truncates the protein, disrupting its normal activity. 【Source 3】.",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,3,in_domain,What is a frameshift mutation?,"A frameshift mutation occurs when an insertion or deletion in the genome is not in multiples of three nucleotides, which shifts the grouping of codons and alters the reading frame of the DNA strand【Source 1】.",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,4,in_domain,How are X-ray images formed in diagnostic radiology?,"In diagnostic radiology an X‑ray tube emits a short pulse of X‑rays that passes through the patient. As the photons travel they are absorbed or scattered to different extents according to the density of the tissues they encounter (bone absorbs more, air absorbs less) 【Source 5†L9-L15】. The resulting **transmitted beam** therefore has spatial variations in intensity. A detector placed on the opposite side of the patient (film‑screen, photostimulable phosphor plate, or digital flat‑panel detector) measures these intensity differences. In screen‑film radiography, regions that receive more X‑rays (low‑attenuation tissue) produce greater blackening of the film, while highly attenuating structures produce less blackening (appear white) 【Source 3†L13-L20】. Thus the pattern of intensity recorded by the detector forms the diagnostic X‑ray image.",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,5,in_domain,What are different modalities of X-ray imaging mentioned in the document?,"The document lists the following X‑ray imaging modalities:
+
+- Radiography  
+- Fluoroscopy  
+- Mammography  
+- Dental radiography  
+- Bone mineral densitometry  
+- Computed tomography  
+
+These modalities are enumerated in the “Various Modalities of Radiology” section of the text【Source 4: lines describing “Various Modalities of Radiology are: Radiography, Fluoroscopy, Mammography, Dental Radiography, Bone Mineral Densitometry, Computed Tomography”】.",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,6,in_domain,What is the difference between radiography and CT imaging?,"Radiography creates a single‑direction, two‑dimensional “projection” image of the patient (a transmission imaging modality) [Source 2].  
+Computed Tomography (CT) acquires many x‑ray projections while the tube rotates around the body and the patient is moved through the beam; a computer reconstructs these data into cross‑sectional “slice” (tomographic) images, giving higher low‑contrast (soft‑tissue) resolution but at a higher radiation dose [Source 5].",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,7,in_domain,What is nutrition and how is it related to health?,"Nutrition is the science of food and its relation to health; it examines how the nutrients we obtain from food are used by the body, and those uses directly affect our health and well‑being【Source 3】.",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,8,in_domain,What are the main functions of food in the human body?,"Food serves three main functions in the human body:
+
+1. **Physiological function** – it provides energy for work, supports growth and body‑building, repairs and maintains cells, regulates body processes, and protects by increasing resistance to infection.  
+2. **Psychological function** – it satisfies emotional needs for love, attention and security.  
+3. **Social function** – it plays an important role in festivals and other social occasions.  
+
+[Source 1] lines describing “Food performs the following functions: 1. Physiological function … 2. Psychological function … 3. Social function.”",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,9,in_domain,Why is a balanced diet necessary?,"A balanced diet supplies all of the essential nutrients in the amounts your body needs, which is required for:
+
+* Physical growth and development, repair and maintenance of body cells, and regulation of body processes.  
+* Protection against infections and overall physical‑ and mental‑potential.  
+* Preventing the harmful consequences that result from eating too little or too much of any nutrient.  
+
+Thus, an adequate, nutritionally‑balanced diet is needed throughout life to sustain health and activity【Source 1†L4-L11】【Source 5†L9-L14】.",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,10,in_domain,What is the definition of public health according to Winslow?,"Public health is defined as “the science and art of preventing disease, prolonging life, and promoting health through the organized efforts and informed choices of society, organizations, public and private communities, and individuals.” [Source 1]",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,11,in_domain,What are the core functions of public health?,"The three core functions of public health are **Assessment, Policy Development, and Assurance**【Source 1】.",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,12,in_domain,What factors influence population health?,"Population health is shaped by four main determinants:
+
+- **Genes and biology**  
+- **Health behaviors**  
+- **Social or societal characteristics**  
+- **Health services or medical care**  
+
+These factors together determine the health of a population【Source 4】.",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,13,in_domain,What is vaccination and how does it work?,"Vaccination is the deliberate introduction of a vaccine—a preparation that may contain live‑attenuated or killed germs, inactivated toxins, protein/sugar fragments, or genetic material—into the body (e.g., by injection, liquid or nasal spray) so that the immune system can learn to recognise and fight the corresponding disease‑causing germ【Source 3】.  
+
+When the vaccine is given, the immune system encounters the antigens in the vaccine and responds by producing specific antibodies and by programming specialised memory cells. These memory cells remain in the body and, if the real germ later enters, they are quickly re‑activated and generate large quantities of antibodies that surround and destroy the germ, preventing illness【Source 1】【Source 4】.",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,14,in_domain,Why are vaccines important for children?,"Vaccines protect children by giving them a strong, early defence against the many germs they encounter right after birth.  Natural immunity from the mother only lasts a few months, so infants are vulnerable to serious infections that can be prevented with vaccination [Source 1].  By “training” the immune system, vaccines create an almost impenetrable wall of protection, greatly reducing the risk of severe illness, complications, and the spread of disease [Source 2][Source 4].  Because infections in young children can be especially dangerous, vaccinating early and against multiple germs provides a safe, cost‑effective way to ensure a long, healthy life [Source 5].",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,15,in_domain,What diseases can be prevented through immunization?,"Immunization can protect against a wide range of infectious diseases, including :
+
+- Smallpox, polio, measles, rubella, diphtheria, pertussis, tetanus and influenza 【Source 1†L1-L4】【Source 1†L5-L7】  
+- Chicken‑pox, mumps and hepatitis A (recommended by the Indian Academy of Pediatrics) 【Source 1†L13-L15】  
+- Typhoid (conjugate typhoid vaccine) 【Source 2†L9-L11】  
+- Haemophilus influenzae type b (Hib) and pneumococcal disease (conjugate vaccines) 【Source 2†L13-L15】  
+- COVID‑19 (mRNA and DNA vaccines) 【Source 2†L17-L19】  
+- Future vaccines in the pipeline such as HPV 【Source 1†L12-L13】
+
+These diseases are among the more than 20 life‑threatening infections that can be prevented through vaccination.",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,16,in_domain,What are the key factors affecting mental health?,"Key factors that influence mental health, as described in the documents, include:
+
+- **Physical and socioeconomic conditions** – physical illness, limited basic resources, inability to provide for oneself or family, and unfulfilled life desires [Source 1].  
+- **Biological factors** – infections that damage the brain, brain defects or injury, prenatal damage, poor nutrition and exposure to toxins such as lead [Source 2].  
+- **Psychological stressors** – traumatic events, loss of a loved one, divorce or separation of parents, dysfunctional family life, relocation, social‑cultural expectations, media pressure, and substance abuse [Source 2].  
+- **Environmental and social factors** – bullying, stigma associated with mental illness, and other adverse life circumstances [Source 1, Source 3].  
+- **Emotional/individual factors** – low self‑esteem, pessimistic outlook, and feelings of rejection or social isolation [Source 3].  
+
+These combined biological, psychological, social, and environmental elements are identified as the major contributors to mental health and wellbeing.",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,17,in_domain,What role do schools play in mental health wellbeing?,"Schools have the primary responsibility for promoting and optimizing students’ mental health, creating safe‑learning ecosystems, and ensuring easy access to mental‑health services.  They do this by:
+
+* Providing a supportive environment that addresses physical, social and emotional wellbeing and by identifying and preventing problems early [Source 1].  
+* Offering trained school counselors who handle behavioural and emotional challenges, provide non‑judgemental listening, and work with students to build coping skills [Source 2][Source 5].  
+* Ensuring that mental‑health services are readily available within the school, fostering a culture where students can report safety concerns and receive timely support [Source 3].  
+
+Thus, schools act as the first line of defence and a central hub for mental‑health promotion, prevention, and intervention for children and adolescents.",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,18,in_domain,What challenges are faced during adolescence?,"Adolescence brings a range of challenges, including:
+
+* **Peer pressure** – teens are tempted to try aggressive misconduct, irresponsible sexual behaviours and substance abuse [Source 1].
+* **Emotional volatility** – frequent mood changes with feelings of anger, happiness, sadness, fear, guilt, shame and love, often hard to understand [Source 1].
+* **Relationship changes** – redefining ties with peers, parents and the opposite sex and needing new social skills [Source 1].
+* **Body‑image and self‑esteem concerns** – influenced by media and environmental factors, leading to both positive and negative thoughts [Source 1].
+* **Bullying and anger** – schools address bullying prevention and anger‑management workshops [Source 4].
+* **Substance abuse** – linked to poor academic performance, weight changes, mood swings, violent outbursts, irritability and withdrawal from friends and family [Source 4].
+* **Cyber issues** – internet addiction and related problems such as depression, anger and low self‑esteem [Source 4].
+* **Other mental‑health problems** – depression, obsessive‑compulsive behaviours, abuse and trauma are also highlighted as key concerns [Source 2].",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,19,in_domain,What is the purpose of the Infectious Diseases conference mentioned in the document?,"The conference is intended to give attendees the chance to network with experts, present their research to an international audience, learn the latest scientific developments from eminent speakers, and take part in discussions that will shape future health policies and improve patient care worldwide 【Source 1】.",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,20,in_domain,What are the main themes discussed in Infection 2022?,"The conference is centered on the theme **“Stepping Stones in Infectious Diseases Prevention, Control and Cure.”** The program focuses on topics that benefit clinicians and academicians in **infectious diseases, medicine, microbiology, epidemiology and public health** 【Source 1†L7-L13】【Source 1†L15-L18】.",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,21,in_domain,What is cancer and how does it develop?,"Cancer is a disease that begins when changes (mutations) occur in a person’s cells — specifically in the genes that control how cells grow, divide, and function. These genetic alterations cause cells to become abnormal, grow out of control, and form a mass of cells (a tumor). When the tumor is malignant, the cancer cells can invade nearby tissue and spread through the lymph nodes or bloodstream to other parts of the body (metastasis) [Source 1].",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,22,in_domain,What is metastasis?,Metastasis is the process by which cancer spreads from the part of the body where it first started to other parts of the body. [Source 1] lines describing “Cancer cells can sometimes spread to other parts of the body (metastasis).” [Source 3] lines defining “Metastasis: When cancer spreads from one part of the … body to another.”,-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,23,in_domain,What is the difference between benign and malignant tumors?,"Benign tumors are non‑cancerous growths that do not invade other tissues or spread to distant parts of the body, whereas malignant tumors are cancerous growths that can invade surrounding tissue and metastasize to other organs. [Source 1 lines “Benign: Tumors that are not cancer” and “Malignant: Tumors that are cancer”]",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,24,in_domain,What is diabetes and what causes high blood glucose levels?,"Diabetes is a chronic disorder in which the body cannot use glucose properly because insulin is missing, insufficient, or not processed correctly. In type I (insulin‑dependent) diabetes the pancreas produces little or no insulin, while in type II (non‑insulin‑dependent) the body’s cells become resistant to insulin and the insulin level may be low or high [Source 1].  
+
+High blood‑glucose levels result when glucose cannot enter cells, so the body compensates by making even more glucose (gluconeogenesis) and the excess remains in the bloodstream. This can occur because of inadequate insulin, insulin resistance, or other factors that prevent normal glucose utilization [Source 1][Source 3].",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,25,in_domain,What are the two major types of diabetes?,"The two major types of diabetes are:
+
+1. **Insulin‑dependent diabetes (Type I)** – requires insulin treatment.  
+2. **Non‑insulin‑dependent diabetes (Type II)** – usually managed with diet, exercise, and oral medications, though insulin may be needed later.  
+
+[Source 1] lines describing the two types.",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,26,in_domain,How does insulin function in the body?,"Insulin is the hormone that allows glucose to enter cells. Without insulin, cells cannot adequately use glucose, so the body attempts to make more glucose (via gluconeogenesis), causing blood‑sugar to rise [Source 1].",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,27,in_domain,What are the different types of cardiovascular diseases?,"The main categories of cardiovascular disease listed are:
+
+- Coronary heart disease  
+- Angina  
+- Stroke  
+- Rheumatic heart disease  
+- Congenital heart disease  
+- Peripheral arterial disease  
+- Aortic aneurysm and dissection  
+- Deep‑vein thrombosis  
+- Other, less‑common cardiovascular diseases  
+
+These types are enumerated in the typology section of the RAND overview of cardiovascular disease【Source 1】.",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,28,in_domain,What are the major risk factors of cardiovascular disease?,"The major risk factors for cardiovascular disease (CVD) identified in the documents are:
+
+- **Smoking** – a powerful independent risk factor that roughly doubles the risk of coronary heart disease and sudden cardiac death【Source 2】.  
+- **Physical inactivity** – reduces cholesterol, increases obesity and weakens the heart’s ability to pump blood【Source 1】.  
+- **Unhealthy diet / poor nutrition** – high intake of fat, sugar and salt raises cholesterol, blood pressure and diabetes risk【Source 1】.  
+- **Alcohol consumption** – low levels may be protective, but high levels increase CHD and stroke risk【Source 1】.  
+- **Obesity** – especially central (waist) fat, raises blood pressure, cholesterol, triglycerides and diabetes risk【Source 5】.  
+- **Diabetes (type I and type II)** – raises cholesterol, hypertension and atherosclerosis, markedly increasing CVD risk【Source 3】.  
+- **High blood pressure (hypertension)** – stresses the heart and blood vessels, leading to heart attacks and stroke【Source 3】.  
+- **High LDL cholesterol** – promotes fatty deposits and atherosclerosis in blood vessels【Source 3】.  
+- **Low socio‑economic status** – associated with higher rates of smoking, poor diet, inactivity and obesity, all of which raise CVD risk【Source 4】.",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,29,in_domain,What is the global impact of cardiovascular disease?,"Cardiovascular disease (CVD) is the world’s leading health burden.  It accounts for roughly 17 million deaths each year, making it the single largest contributor to the 57 million deaths recorded by WHO in 2002 – more deaths than cancer and HIV combined【Source 2†L1-L4】.  CVD also represents a major share of disability: it accounts for about 10.4 % of global DALYs lost today and is projected to rise to 11.6 % by 2030【Source 1†L12-L13】, with 18 % of all DALYs lost in high‑income countries (and 10 % in low‑ and middle‑income countries) attributed to CVD【Source 2†L13-L15】.  The disease’s economic impact is huge; in the United States alone the cost of CVD was estimated at over $400 billion in 2006【Source 1†L24-L26】.  Together, these figures show that CVD is the foremost cause of death and disability worldwide and a substantial economic burden.",-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,30,trap,What are the latest AI techniques used in cancer diagnosis in 2024?,I cannot find this information in the provided documents.,-1.0
+Config_C_second_llm_only,,31,trap,What is the exact cure for diabetes mentioned in the document?,"ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 4685, Requested 3591. Please try again in 2.07s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,32,trap,What are WHO guidelines for COVID-19 vaccination in 2023?,I cannot find this information in the provided documents.,-1.0
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,33,trap,Which country has the highest cardiovascular disease rate according to the document?,I cannot find this information in the provided documents.,-1.0

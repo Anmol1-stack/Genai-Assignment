@@ -1,0 +1,72 @@
+[
+  {
+    "filename": "CBSE_MH_Manual.pdf",
+    "source_type": "pdf",
+    "raw_chars": 136228,
+    "clean_chars": 136183,
+    "compression_ratio": 1.0
+  },
+  {
+    "filename": "3-MEDICAL-IMAGING-TECHNIQUES.pdf",
+    "source_type": "pdf",
+    "raw_chars": 23011,
+    "clean_chars": 22982,
+    "compression_ratio": 0.999
+  },
+  {
+    "filename": "diabetes.pdf",
+    "source_type": "pdf",
+    "raw_chars": 63610,
+    "clean_chars": 62827,
+    "compression_ratio": 0.988
+  },
+  {
+    "filename": "introduction-to-public-health.pdf",
+    "source_type": "pdf",
+    "raw_chars": 16385,
+    "clean_chars": 16234,
+    "compression_ratio": 0.991
+  },
+  {
+    "filename": "introduction-to-nutrition.pdf",
+    "source_type": "pdf",
+    "raw_chars": 29248,
+    "clean_chars": 29187,
+    "compression_ratio": 0.998
+  },
+  {
+    "filename": "infectious-diseases-2022-virtual-abstract-book.pdf",
+    "source_type": "pdf",
+    "raw_chars": 124652,
+    "clean_chars": 123581,
+    "compression_ratio": 0.991
+  },
+  {
+    "filename": "what-is-cancer.pdf",
+    "source_type": "pdf",
+    "raw_chars": 5556,
+    "clean_chars": 5550,
+    "compression_ratio": 0.999
+  },
+  {
+    "filename": "Immunization.pdf",
+    "source_type": "pdf",
+    "raw_chars": 31416,
+    "clean_chars": 31411,
+    "compression_ratio": 1.0
+  },
+  {
+    "filename": "2_2021_11_16!06_21_15_AM.pdf",
+    "source_type": "pdf",
+    "raw_chars": 16214,
+    "clean_chars": 16170,
+    "compression_ratio": 0.997
+  },
+  {
+    "filename": "RAND_WR467.pdf",
+    "source_type": "pdf",
+    "raw_chars": 63242,
+    "clean_chars": 62984,
+    "compression_ratio": 0.996
+  }
+]

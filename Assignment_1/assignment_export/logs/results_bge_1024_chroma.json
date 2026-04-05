@@ -1,0 +1,266 @@
+[
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 1,
+    "question_type": "in_domain",
+    "question": "What is the difference between hereditary and congenital diseases?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499688, Requested 5323. Please try again in 14m25.9008s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 2,
+    "question_type": "in_domain",
+    "question": "What are point mutations and how do they affect proteins?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499671, Requested 5148. Please try again in 13m52.7232s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 3,
+    "question_type": "in_domain",
+    "question": "What is a frameshift mutation?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499654, Requested 5345. Please try again in 14m23.8272s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 4,
+    "question_type": "in_domain",
+    "question": "How are X-ray images formed in diagnostic radiology?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499633, Requested 5122. Please try again in 13m41.664s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 5,
+    "question_type": "in_domain",
+    "question": "What are different modalities of X-ray imaging mentioned in the document?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499614, Requested 5125. Please try again in 13m38.8992s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 6,
+    "question_type": "in_domain",
+    "question": "What is the difference between radiography and CT imaging?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499596, Requested 5092. Please try again in 13m30.0864s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 7,
+    "question_type": "in_domain",
+    "question": "What is nutrition and how is it related to health?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499579, Requested 5968. Please try again in 15m58.521599999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 8,
+    "question_type": "in_domain",
+    "question": "What are the main functions of food in the human body?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499559, Requested 5329. Please try again in 14m4.6464s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 9,
+    "question_type": "in_domain",
+    "question": "Why is a balanced diet necessary?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499539, Requested 6640. Please try again in 17m47.7312s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 10,
+    "question_type": "in_domain",
+    "question": "What is the definition of public health according to Winslow?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499522, Requested 5186. Please try again in 13m33.5424s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 11,
+    "question_type": "in_domain",
+    "question": "What are the core functions of public health?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499504, Requested 5301. Please try again in 13m50.304s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 12,
+    "question_type": "in_domain",
+    "question": "What factors influence population health?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499485, Requested 5152. Please try again in 13m21.2736s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 13,
+    "question_type": "in_domain",
+    "question": "What is vaccination and how does it work?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499465, Requested 4121. Please try again in 10m19.6608s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 14,
+    "question_type": "in_domain",
+    "question": "Why are vaccines important for children?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499448, Requested 4160. Please try again in 10m23.4624s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 15,
+    "question_type": "in_domain",
+    "question": "What diseases can be prevented through immunization?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499430, Requested 5117. Please try again in 13m5.7216s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 16,
+    "question_type": "in_domain",
+    "question": "What are the key factors affecting mental health?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499412, Requested 4296. Please try again in 10m40.7424s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 17,
+    "question_type": "in_domain",
+    "question": "What role do schools play in mental health wellbeing?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499391, Requested 4722. Please try again in 11m50.7264s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 18,
+    "question_type": "in_domain",
+    "question": "What challenges are faced during adolescence?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499373, Requested 4942. Please try again in 12m25.632s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 19,
+    "question_type": "in_domain",
+    "question": "What is the purpose of the Infectious Diseases conference mentioned in the document?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499356, Requested 5334. Please try again in 13m30.431999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 20,
+    "question_type": "in_domain",
+    "question": "What are the main themes discussed in Infection 2022?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499338, Requested 5119. Please try again in 12m50.1696s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 21,
+    "question_type": "in_domain",
+    "question": "What is cancer and how does it develop?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499317, Requested 4512. Please try again in 11m1.6512s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 22,
+    "question_type": "in_domain",
+    "question": "What is metastasis?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499299, Requested 4421. Please try again in 10m42.816s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 23,
+    "question_type": "in_domain",
+    "question": "What is the difference between benign and malignant tumors?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499282, Requested 4650. Please try again in 11m19.449599999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 24,
+    "question_type": "in_domain",
+    "question": "What is diabetes and what causes high blood glucose levels?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499264, Requested 6550. Please try again in 16m44.6592s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 25,
+    "question_type": "in_domain",
+    "question": "What are the two major types of diabetes?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499241, Requested 6545. Please try again in 16m39.8208s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 26,
+    "question_type": "in_domain",
+    "question": "How does insulin function in the body?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499223, Requested 6439. Please try again in 16m18.3936s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 27,
+    "question_type": "in_domain",
+    "question": "What are the different types of cardiovascular diseases?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499206, Requested 4676. Please try again in 11m10.8096s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 28,
+    "question_type": "in_domain",
+    "question": "What are the major risk factors of cardiovascular disease?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499189, Requested 5982. Please try again in 14m53.5488s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 29,
+    "question_type": "in_domain",
+    "question": "What is the global impact of cardiovascular disease?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499166, Requested 6055. Please try again in 15m2.1888s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 30,
+    "question_type": "trap",
+    "question": "What are the latest AI techniques used in cancer diagnosis in 2024?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499149, Requested 5004. Please try again in 11m57.638399999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 31,
+    "question_type": "trap",
+    "question": "What is the exact cure for diabetes mentioned in the document?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499131, Requested 6658. Please try again in 16m40.3392s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 32,
+    "question_type": "trap",
+    "question": "What are WHO guidelines for COVID-19 vaccination in 2023?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499114, Requested 5198. Please try again in 12m25.1136s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  },
+  {
+    "config_name": "bge_1024_chroma",
+    "question_id": 33,
+    "question_type": "trap",
+    "question": "Which country has the highest cardiovascular disease rate according to the document?",
+    "answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgeppvbke7j98xdre8zzpwk4` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499090, Requested 5328. Please try again in 12m43.4304s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "error": true
+  }
+]

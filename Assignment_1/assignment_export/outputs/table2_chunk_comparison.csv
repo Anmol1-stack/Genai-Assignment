@@ -1,0 +1,4 @@
+chunk_size,retrieval_time,generation_time,total_time,avg_retrieval_score,max_retrieval_score,answer_length
+256.0,0.0889,13.4764,13.5654,0.6392,0.6854,578.5079
+512.0,0.0799,25.0813,25.1612,0.5794,0.6386,558.7407
+1024.0,0.033,44.3511,44.3842,0.4626,0.562,715.1786

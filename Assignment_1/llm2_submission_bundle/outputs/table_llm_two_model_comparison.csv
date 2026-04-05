@@ -1,0 +1,3 @@
+config_name,llm,retrieval_time,generation_time,total_time,avg_retrieval_score,max_retrieval_score,answer_length
+Config_A_baseline_health,groq/llama-3.1-8b-instant,0.0304,25.291,25.3214,0.5105,0.5842,540.9062
+Config_C_second_llm_only,groq/openai/gpt-oss-120b,0.0304,19.5005,19.5309,0.5108,0.587,498.1875

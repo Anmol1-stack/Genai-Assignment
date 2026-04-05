@@ -1,0 +1,72 @@
+[
+  {
+    "chunk_id": "what-is-cancer_chunk_0",
+    "source": "what-is-cancer",
+    "chunk_index": 0,
+    "start_char": 0,
+    "end_char": 1024,
+    "chunk_size": 256,
+    "text": "What is cancer?\nCancer affects 1 in 3 people in the United States. Chances are that you or\nsomeone you know has been affected by cancer.\nCancer starts when there are changes in parts of a\nperson s cells (genes). These abnormal cells can grow\nGlossary\nout of control and crowd out normal cells. Cancer cells\nHere are some words you might hear from your\ncan also spread from where they start to other parts of\ncancer care team.\nthe body.\nBenign: Tumors that are not cancer\nWhere can cancer start?\nBiomarkers: Parts of some cancer cells that might\nCancer can start in any part of the body. This includes\nbe used to choose the best treatment, check to\norgans, muscles, bones, and blood. Cancer is named for\nsee whether treatment is working, and watch to\nthe part of the body or type of cell where it begins. For\nsee if a cancer has come back. They are also called\nexample, cancer that starts in the breast is called breast\ntumor markers.\ncancer. Even if it spreads to other parts of the body, it is\nstill called breast cancer. C",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "what-is-cancer_chunk_1",
+    "source": "what-is-cancer",
+    "chunk_index": 1,
+    "start_char": 824,
+    "end_char": 1848,
+    "chunk_size": 256,
+    "text": "has come back. They are also called\nexample, cancer that starts in the breast is called breast\ntumor markers.\ncancer. Even if it spreads to other parts of the body, it is\nstill called breast cancer. Cancer stage: The size of a cancer and if it has\nspread from where it started\nWhen cancer spreads and grows\nCancer treatment plan: Outline of the treatments\nCancer cells can sometimes spread to other parts of the\nyou will get, when you will get them, and how long\nbody (metastasis). They can end up in the lymph nodes\ntreatment is likely to last\nor other body organs, causing problems with how the\nbody works. Genes: Parts of cells that tell them when to\ngrow, divide, and act. You get your genes from\nSome types of cancer grow fast. Others grow more\nyour parents.\nslowly. Some are more likely to spread to other parts of\nLymph nodes: Small structures that filter the fluid\nthe body. Others tend to stay where they started.\nin the body. They trap things like cancer cells and\nWhat is a tumor? infections. Immune cells in the",
+    "char_length": 1023
+  },
+  {
+    "chunk_id": "what-is-cancer_chunk_2",
+    "source": "what-is-cancer",
+    "chunk_index": 2,
+    "start_char": 1648,
+    "end_char": 2672,
+    "chunk_size": 256,
+    "text": "ph nodes: Small structures that filter the fluid\nthe body. Others tend to stay where they started.\nin the body. They trap things like cancer cells and\nWhat is a tumor? infections. Immune cells in the lymph nodes help\nA tumor is a mass or lump made up of many cells. Some the body fight infections and cancer.\ntumors are cancer (malignant), but many tumors are not\nMalignant: Tumors that are cancer\ncancer (benign).\nMetastasis: When cancer spreads from one part of\nSome cancers are caused by changes in blood cells and the body to another\ndon t cause tumors. These are cancers such as leukemia,\nRisk factor: Something that raises the chance of\nmyeloma, and lymphoma.\ngetting cancer\nWhat causes cancer? Screening tests: Tests done to look for cancer\nMany things can raise your risk of cancer, such as: before a person has any symptoms\n  Certain lifestyle habits, like smoking\n  Gene changes that you get from your parents\n(inherited)\n  Exposure at work, home, or outside to things that\ncan cause cancer\nThese things can cause",
+    "char_length": 1023
+  },
+  {
+    "chunk_id": "what-is-cancer_chunk_3",
+    "source": "what-is-cancer",
+    "chunk_index": 3,
+    "start_char": 2472,
+    "end_char": 3496,
+    "chunk_size": 256,
+    "text": "symptoms\n  Certain lifestyle habits, like smoking\n  Gene changes that you get from your parents\n(inherited)\n  Exposure at work, home, or outside to things that\ncan cause cancer\nThese things can cause changes in genes that might done on your cancer cells to see if they have any changes\nlead to cancer. But many times, there is no known cause that might affect treatment (biomarkers). Your overall\nfor cancer. health and personal preferences will also affect your\ntreatment options.\nYou can t change the genes you get from your parents,\nbut you might lower your risk of cancer by: Cancer is treated with surgery, radiation, and medicines.\nMore than one type of treatment is often used if they\n  Staying away from tobacco and secondhand smoke\nwork better together.\n  Eating healthy foods\n  Being active Surgery is used to remove part or all of a cancer.\n  Staying at a healthy weight It may be the only treatment needed if the cancer is\n  Limiting how much alcohol you drink just in one place. Or surgery may be used along wit",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "what-is-cancer_chunk_4",
+    "source": "what-is-cancer",
+    "chunk_index": 4,
+    "start_char": 3296,
+    "end_char": 4320,
+    "chunk_size": 256,
+    "text": "ve part or all of a cancer.\n  Staying at a healthy weight It may be the only treatment needed if the cancer is\n  Limiting how much alcohol you drink just in one place. Or surgery may be used along with\n  Protecting your skin from the sun other treatments.\nRadiation can kill or slow the growth of cancer cells in\nHow is cancer found?\none area of the body. Most radiation treatments are like\nSome cancers are found when a person has symptoms\ngetting an x-ray. But sometimes the radiation is placed\nthat don t go away. Other cancers are found when a\ninside your body close to the tumor.\nperson has no symptoms and gets regular screening\ntests. Screening tests can help find certain cancers early,\nMedicines are used to kill cancer cells or make them\nwhen treatment is more likely to be successful.\ngrow more slowly. They can treat cancer in any part of\nthe body. These medicines are called chemotherapy,\nWhat does cancer stage mean?\ntargeted therapy, immunotherapy, and hormone\nOnce a cancer is found, the cancer care team wil",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "what-is-cancer_chunk_5",
+    "source": "what-is-cancer",
+    "chunk_index": 5,
+    "start_char": 4120,
+    "end_char": 5144,
+    "chunk_size": 256,
+    "text": "reat cancer in any part of\nthe body. These medicines are called chemotherapy,\nWhat does cancer stage mean?\ntargeted therapy, immunotherapy, and hormone\nOnce a cancer is found, the cancer care team will want\ntherapy.\nto find out the stage of the cancer and any other factors\nthat can be used to help decide the best treatment. Some of these medicines are put into a vein through\na needle (IV). Others are taken as a pill. And some are\nTo find the stage of a cancer, tests are done to see how\ngiven in other ways like being put into the bladder. Each\nbig the cancer is and if it has spread to other parts of the\nmedicine works in a different way, so sometimes two or\nbody. A lower stage (such as a stage 1 or 2) means that\nmore are combined.\nthe cancer has not spread very much. A higher number\n(such as a stage 3 or 4) means it has spread more. You and your cancer care team will decide together\nwhich treatment is best for you. The team will continue\nHow is cancer treated?\nto support you through your treatment. They will a",
+    "char_length": 1024
+  },
+  {
+    "chunk_id": "what-is-cancer_chunk_6",
+    "source": "what-is-cancer",
+    "chunk_index": 6,
+    "start_char": 4944,
+    "end_char": 5550,
+    "chunk_size": 256,
+    "text": "it has spread more. You and your cancer care team will decide together\nwhich treatment is best for you. The team will continue\nHow is cancer treated?\nto support you through your treatment. They will answer\nCancer treatment depends on the type and stage of\nquestions, help manage side effects, and keep track of\nyour cancer. It will also depend on tests that might be\nhow your treatment is working.\nFor more information and support, visit the American Cancer Society website at\ncancer.org/cancer or call us at 1227-2345. We re here when you need us.\n 2026, American Cancer Society, Inc.\nNo. 004506 Rev. 2/26",
+    "char_length": 606
+  }
+]

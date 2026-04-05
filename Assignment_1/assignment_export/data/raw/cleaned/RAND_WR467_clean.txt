@@ -1,0 +1,918 @@
+W O R K I N G
+P A P E R
+An overview of
+cardiovascular disease
+and research
+EDWARD NASON
+WRRS
+January 2007
+Prepared for Project Retrosight
+This product is part of the RAND
+Europe working paper series.
+RAND working papers are intended
+to share researchers  latest findings
+and to solicit additional peer review.
+This paper has been peer reviewed
+but not edited. Unless otherwise
+indicated, working papers can be
+quoted and cited without permission
+of the author, provided the source is
+clearly referred to as a working paper.
+RAND s publications do not necessarily
+reflect the opinions of its research
+clients and sponsors.
+is a registered trademark.
+RAND Europe Cardiovascular research overview
+Preface
+This working paper has been prepared for the International consortium of cardiovascular
+disease (CVD) research funders involve in Project Retrosight. Project Retrosight is
+investigating the payback on CVD research in four countries (Australia, Britain, Canada
+and New Zealand). The main objective of this suite of documents is to provide an
+overview of the CVD situation, CVD research and the funding systems in place for CVD
+research.
+This background information will be useful in providing context to the case studies of
+specific CVD research projects that form the majority of Project Retrosight. Each country
+involved in the project will produce 4-16 case studies of research conducted around the
+early 1990s, following the outputs and outcomes from that research. The case studies will
+use the Payback framework used by the UK study team in previous health research
+studies.1
+This document provides an overview of the key background issues involved in this study of
+research into CVD. These are:
+  An introduction to CVD, including the different forms of the disease, risk factors
+and the impact on both people and countries.
+  An introduction to CVD research, covering the different areas of CVD research,
+the key advances, high-impact research and future expectations for research.
+This is a living document that can be updated when new advances are made, new
+information comes to light, or if researchers from specific countries have information on
+the CVD research or general health research funding situation within their country.
+Also contained within this suite of documents are overviews of the CVD situation (from
+disease burden through to research funding system) for each country involved in the study;
+a research pack that identifies the way to approach research looking at payback on CVD
+research; and an overview of the literature on  research on research    how to assess the
+impact of funded scientific research.
+1 Studies for the Arthritis Research Campaign (ARC), the English Department of Health (DH) and Economic
+and Social Research Council (ESRC) in the UK and research for the Alberta Heritage Foundation for Medical
+Research (AHFMR) in Canada have used the  payback  methodology to understand the impact of funded
+research and the key drivers, facilitators and inhibitors of this impact.
+Overview of cardiovascular disease and research RAND Europe
+RAND Europe is an independent not-for-profit policy research organisation that serves the
+public interest by improving policymaking and informing public debate. Its clients are
+European governments, institutions, and firms with a need for rigorous, impartial
+multidisciplinary analysis. This report has been peer-reviewed in accordance with RAND s
+quality assurance standards2 and therefore may be represented as a RAND Europe product.
+For more information about RAND Europe or this document, please contact:
+Edward Nason Dr. Steven Wooding
+Analyst Senior Analyst
+RAND Europe Cambridge RAND Europe Cambridge
+Westbrook Centre Westbrook Centre
+Milton Road Milton Road
+Cambridge. CB4 1YG. UK Cambridge. CB4 1YG. UK
+Tel: +44 (0)1223 353 329 Tel: +44 (0)1223 353 329
+Fax: +44 (0)1223 358 845 Fax: +44 (0)1223 358 845
+Email: nason@rand.org Email: jgrant@rand.org
+2 For more information, see http://www.rand.org/about/standards/
+RAND Europe Cardiovascular research overview
+Contents
+Preface..........................................................................................................................i
+Table of Figures............................................................................................................v
+Table of Tables..........................................................................................................vii
+Abbreviations...............................................................................................................ix
+CHAPTER 1 Cardiovascular disease overview.......................................................1
+1.1 Typology of disease...........................................................................................1
+1.1.1 Coronary heart disease..........................................................................1
+1.1.2 Angina..................................................................................................1
+1.1.3 Stroke...................................................................................................2
+1.1.4 Rheumatic heart disease........................................................................2
+1.1.5 Congenital heart disease........................................................................2
+1.1.6 Peripheral arterial disease......................................................................3
+1.1.7 Other cardiovascular diseases................................................................4
+1.2 Disease burden..................................................................................................4
+1.2.1 Change over time.................................................................................4
+1.2.2 Geographic spread................................................................................4
+1.2.3 Mortality and morbidity.......................................................................5
+1.2.4 Economic and socio-economic costs.....................................................7
+1.2.5 Risk factors...........................................................................................7
+1.3 Future of disease..............................................................................................10
+CHAPTER 2 Cardiovascular research overview...................................................13
+2.1 History and timeline of research......................................................................13
+2.2 Typology of research.......................................................................................17
+2.2.1 Electrics..............................................................................................17
+2.2.2 Surgery...............................................................................................18
+2.2.3 Mechanics (Stents, balloons, catheterisation)......................................18
+2.2.4 Other fields of CVD research.............................................................18
+2.3 High profile research.......................................................................................19
+2.4 Future research agenda....................................................................................20
+RAND Europe Cardiovascular research overview
+Table of Figures
+Figure 1. Global mortality in 2002 by major causes (millions)...................................................5
+Figure 2. Global deaths in 2002 due to CVD (millions)............................................................6
+Figure 3. The top four diseases for global DALYs lost in 2002: % of global DALYs
+lost due to disease.................................................................................................................6
+Figure 4. DALYs lost per1000 population in selected countries (2003 or nearest
+data).....................................................................................................................................7
+Figure 5. Timeline of CVD research: 1860s to 1970s..............................................................15
+Figure 6. Timeline of CVD research: 1980s to present.............................................................16
+Figure 7. Number of global clinical trials published in Medline in selected
+biomedical subjects.............................................................................................................20
+RAND Europe Cardiovascular research overview
+Table of Tables
+Table 1. Future predictions of global morbidity due to CVD...................................................11
+Table 2. Projection of major risk factors for CVD....................................................................11
+RAND Europe Cardiovascular research overview
+Abbreviations
+ACE (inhibitors) Angiotensin Converting Enzyme
+AIDS Auto Immune Deficiency Syndrome
+BHF British Heart Foundation
+CAD Coronary Artery Disease
+CHD Coronary Heart Disease
+CT Computer Tomography
+CVD Cardiovascular disease
+DALYs Daily Adjusted Life Years
+DVT Deep Vein Thrombosis
+ECG Electrocardiogram
+HDL High Density Lipoprotein
+HIV Human Immuno-Virus
+IOTF International Obesity TaskForce
+LDL Low Density Lipoprotein
+MRA Magnetic Resonance Angiogram
+MRI Magnetic Resonance Imaging
+PE Pulmonary Embolism
+PET Positron Emission Tomography
+VSD Ventricular Septal Defect
+WHO World Healt Organisation
+YLD Years Lived with Disability
+YLL Years Life Lost
+RAND Europe Cardiovascular research overview
+Cardiovascular disease overview
+CHAPTER 1
+As the largest single cause of death on the planet,3 cardiovascular disease (CVD) in all its
+forms is an important and life or death matter. CVD is not a single disease, but a cluster of
+diseases and injuries that affect the cardiovascular system (the heart and blood vessels).
+These are most commonly diseases of the heart and of the blood vessels of the heart and
+brain. In general they affect people in later life (with incidence rising sharply after the 30-
+44 age range), although, according to a leading cardiologist, by around 35 years old, most
+who will get a form of CVD already have the beginnings of the disease.4
+1.1 Typology of disease
+As mentioned, CVD is actually a collection of diseases affecting the cardiovascular system.
+These include: coronary heart disease; angina; stroke; rheumatic heart disease; congenital
+heart disease; peripheral arterial disease; aortic aneurysm and dissection; deep vein
+thrombosis; and other, less common, cardiovascular diseases.
+1.1.1 Coronary heart disease
+Coronary heart disease (CHD), also called coronary artery disease (CAD) and
+atherosclerotic heart disease, is the end result of the accumulation of atheromatous plaques5
+within the walls of the arteries that supply the myocardium (the muscle of the heart).
+While the symptoms and signs of coronary heart disease are noted in the advanced state of
+disease, most individuals with coronary heart disease show no evidence of disease for
+decades as the disease progresses before the first onset of symptoms, often a "sudden" heart
+attack, finally arise. After decades of progression, some of these atheromatous plaques may
+rupture and (along with the activation of the blood clotting system) start limiting blood
+flow to the heart muscle. The disease is the most common cause of sudden death.
+1.1.2 Angina
+The pain associated with very advanced CHD is known as angina, and usually presents as a
+sensation of pressure in the chest, arm pain, jaw pain, and other forms of discomfort. The
+3 WHO (2004)  Atlas of Heart Disease and Stroke , available at
+http://www.who.int/cardiovascular_diseases/resources/atlas/en/index.html
+4 From interview with a BHF professor of cardiovascular sciences, on 15th May 2006
+5 Abnormal inflammatory accumulations of macrophage white blood cells.
+
+Overview of cardiovascular disease and research RAND Europe
+word discomfort is preferred over the word pain for describing the sensation of angina,
+because it varies considerably among individuals in character and intensity and most
+people do not perceive angina as painful, unless it is severe. Angina is essentially a cramp in
+the heart muscle.
+1.1.3 Stroke
+A stroke is an acute neurological injury whereby the blood supply to a part of the brain is
+interrupted, either by arterial blockage or rupture (haemorrhage). The part of the brain
+perfused by a blocked or burst artery can no longer receive oxygen carried by the blood;
+brain cells are therefore damaged or die (become necrotic), impairing the function of that
+part of the brain. Stroke can cause permanent neurological damage or death if not
+promptly diagnosed and treated.
+Strokes can be classified into two major categories: ischemic and hemorrhagic. Ischemia
+can be due to thrombosis (clotting), embolism (clot or obstruction from elsewhere in the
+body), or systemic hypoperfusion (reduction of the blood flow to all parts of the body).
+Haemorrhage can be due to intracerebral haemorrhage or subarachnoid haemorrhage.
+~80% of strokes are due to ischemia.6
+1.1.4 Rheumatic heart disease
+Rheumatic heart disease is a condition in which the heart valves are damaged by rheumatic
+fever caused by streptococcal infection. Rheumatic fever is an inflammatory disease that
+can affect many of the body's connective tissues   especially those of the heart, joints,
+brain or skin. Anyone can get acute rheumatic fever, but it usually occurs in children five
+to 15 years old. The rheumatic heart disease that results can last for life. Every year at least
+eight out of every 1,000 babies born in the UK have some sort of heart defect.7 About half
+of these babies have a minor defect and will not need any treatment but the rest will need
+either medical treatment or surgery.
+1.1.5 Congenital heart disease
+Congenital heart disease is a broad term that can describe a number of different
+abnormalities affecting the heart, all of which are abnormalities of the heart's structure and
+function caused by abnormal or disordered heart development before birth. In some cases,
+such as coarctation of the aorta, it may not present itself for many years and a few lesions
+such as a small ventricular septal defect (VSD) may never cause any problems and are
+compatible with normal physical activity and a normal life span. Some congenital heart
+diseases can be treated with medication alone, while others require one or more surgeries.
+The risk of death from congenital heart disease surgery in the USA has dropped from
+approximately 30% in the 1970s to less than 5% in most cases today. Box 1 shows some of
+the major congenital heart diseases, taken from the British Heart Foundation (BHF)
+website (www.bhf.org.uk).
+(cid:2) Tetralogy of Fallot
+6 http://www.urmc.rochester.edu/smd/Rad/stroke.htm
+7 http://www.bhf.org.uk/hearthealth/printout.asp?secID=1&secondlevel=77&thirdlevel=362&artID=500
+
+RAND Europe Cardiovascular disease overview
+(cid:2) Transposition of the great vessels
+(cid:2) Tricuspid atresia
+(cid:2) Total anomalous pulmonary venous return
+(cid:2) Hypoplastic left heart/right heart
+(cid:2) Ventricular septal defect (VSD)/ Atrial septal defect (ASD)
+(cid:2) Patent ductus arteriosus (PDA)
+(cid:2) Aortic stenosis
+(cid:2) Pulmonic stenosis
+(cid:2) Atrioventricular canal (endocardial cushion defect)
+Box 1. Major forms of congenital heart disease
+1.1.6 Peripheral arterial disease
+In peripheral arterial disease, the arteries that supply the blood to the legs become
+narrowed or completely blocked off. The narrowing of the artery usually occurs in the
+upper part of the leg. The disease is caused by a gradual build-up of fatty material within
+the walls of the artery (atherosclerosis). The presence of atheroma can also cause a blood
+clot (or thrombus) to form, blocking off the artery completely. People with peripheral
+arterial disease are also likely to have narrowing of other arteries in the body. If there is
+narrowing in the arteries that supply blood to the heart, it can cause angina or a heart
+attack. If the arteries to the neck are affected, it can interfere with the flow of blood to the
+brain and may cause a stroke.
+Aortic aneurysm and dissection
+An aortic aneurysm is a balloon-like swelling of the aorta that can rupture causing large
+internal bleeding (dissection).
+Deep vein thrombosis
+A deep vein thrombosis (DVT) is a blood clot (thrombus) that develops in a deep vein,
+usually in the lower leg. Deep vein thrombosis can cause pain in the leg and can potentially
+lead to complications. About 1-3 people in 1000 develop a DVT each year in the UK.1 A
+DVT usually develops in a deep vein in the leg but it can occur elsewhere, such as the arm.
+Deep veins pass through the centre of the leg and are surrounded by the muscles. A DVT
+is different to blood clots that form in a separate set of veins (called superficial veins) that
+lie under the skin. These clots are called superficial thrombophlebitis and are less serious.2
+It is uncommon for DVT to cause any further problems but potential complications
+include Pulmonary Embolism (PE) and post-thrombotic syndrome. PE happens when a
+piece of the blood clot breaks off and travels in the bloodstream to become lodged in the
+lungs and block blood flow. This can happen hours or even days after the formation of a
+clot in the calf veins. It may cause chest pain and shortness of breath. Post-thrombotic
+syndrome happens if a DVT damages the valves in the vein, so that instead of flowing
+upwards, the blood pools in the lower leg. This can result in pain, swelling and ulcers on
+the leg.
+
+Overview of cardiovascular disease and research RAND Europe
+1.1.7 Other cardiovascular diseases
+These could include tumours of the heart, vascular tumours of the brain, disorders of the
+heart muscle (cardiomyopathy), heart valve diseases and disorders of the lining of the heart.
+1.2 Disease burden
+Prevalence of disease is notoriously difficult to estimate in a population since it requires an
+idea of those not presenting for healthcare and undiagnosed cases. In terms of global
+prevalence of CVD, this task is almost impossible since there are multiple countries
+reporting prevalence in slightly different ways and a number of different conditions
+making up CVD that can be interpreted in different ways. Throughout this section, the
+USA is commonly used as an example of disease burden statistics, since the USA has high
+levels of CVD and well kept statistical records. The figures for Retrosight study countries
+will be covered in country specific reports as part of the overview suite of documents.
+As an example of prevalence though, the USA estimated the number of cases of CVD in
+2003 at 71.3 million; this is over 1 in 4 Americans.8 Of these 71.3 million cases, around
+13.2 million were coronary heart disease cases and around 5.5 million were stroke.
+Prevalence rates for the study countries involved in Project Retrosight are shown in the
+country specific profile documents.
+1.2.1 Change over time
+Currently, 17 million people worldwide die of CVD each year.9 Due to improvements in
+treatment, the mortality due to CVD has dropped in developed countries in the last 10-15
+years. However, there remain problems in developing countries and there are a number of
+foreseeable problems that will affect developed countries in the coming years. As obesity
+and diabetes, two major risk factors for CVD, prevalence increase across the world (they
+are predicted to increase worldwide by 700 million people by 201510 and around 140
+million people by 202511 respectively), there is expected to be a corresponding increase in
+CVD cases.12
+1.2.2 Geographic spread
+Despite statistics often being quoted for the rise in CVD due to obesity, poor diet and lack
+of exercise in developed countries such as the USA and UK; it is not just a disease of the
+developed world. In fact, CVD is more of a threat to those living in developing countries
+8 Thom et al. (2006)  Heart Disease and Stroke Statistics - 2006 Update: A Report From the American Heart
+Association Statistics Committee and Stroke Statistics Subcommittee , Circulation, 1113, e85-e151
+9 WHO (2004)  Atlas of Heart Disease and Stroke , available at
+http://www.who.int/cardiovascular_diseases/resources/atlas/en/index.html
+10 http://www.who.int/mediacentre/factsheets/fs311/en/index.html
+11 http://www.eatlas.idf.org/Prevalence/
+12 The burden of CVD (% of DALYs lost worldwide) is expected to rise from 10.4% to 11.6% by 2030, see
+WHO (2004), Op cit
+
+RAND Europe Cardiovascular disease overview
+than to those in the developed world. 13 For example, of the global burden of CHD, over
+60% is in developing countries. India, China and Russia have the largest death tolls due to
+CHD, with Lithuania and Bhutan also having very high rates. These figures are mirrored
+by those for stroke, with the same three countries having the largest number of deaths per
+annum. In terms of DALYs (Disability Adjusted Life Years)14 lost due to stroke, only two
+countries have figures of over 20 DALYs lost per 1000 population; these are Mongolia and
+Kyrgyzstan. This means that Mongolia and Kyrgyzstan have an exceptionally high impact
+of CVD on their populations. Overall, these figures show that the developing world has a
+very real CVD problem and one that is predicted to become even more prevalent as
+treatment and prevention become more successful in the developed world. 15
+This does not mean that CVD is not a problem in developed countries, far from it. In high
+income countries 18% of all DALY s lost are due to CVD; but this figure is only 10% in
+low and middle income countries. As an example, stroke is the single biggest cause of
+major disability in the UK. 16
+1.2.3 Mortality and morbidity
+In terms of global mortality, CVD is the largest single contributor to the 57 million deaths
+registered by the WHO in 200217. In fact, CVD causes more deaths globally than cancer
+and HIV combined (Figure 1). In current terms, nearly 100 times as many people a year
+are killed by CVD than by war.
+Other causes
+2% Cardiovascular diseases
+6% 5% Malignant neoplasms (cancers)
+7% 38% Respiratory infections
+Respiratory diseases (e.g. asthma)
+12% HIV and AIDS
+Malaria
+Figure 1. Global mortality in 2002 by major causes (millions)
+Source: WHO global mortality figures, available at:
+www.who.int/healthinfo/statistics/gbdwhoregionmortality2002.xls
+13 Figures on the global burden of CHD and Stroke are taken from: WHO (2004)
+14 DALYs are calculated by taking the sum of two components; average or expected Years of Life Lost (YLL)
+and Years Lived with Disability (YLD) using the formula: DALY = YLL + YLD. This takes into account the
+effect on both length and quality of life.
+15 WHO (2004)
+16 Ibid
+17 Ibid
+
+Overview of cardiovascular disease and research RAND Europe
+Since CVD is a term that describes several different conditions, it is important to clarify
+exactly what the particular causes of disease burden are in terms of mortality and
+morbidity. The WHO Atlas of Heart Disease and Stroke (2004)18 breaks down the 16.7
+million deaths due to CVD globally into deaths due to CHD, stroke, rheumatic heart
+disease, inflammatory heart disease, hypertensive heart disease and other forms of heart
+disease (Figure 2).
+0.3 0.9 Coronary heart disease
+2.4 Stroke
+Other forms of heart disease
+Rheumatic heart disease
+Inflammatory heart disease
+Hypertensive heart disease
+Figure 2. Global deaths in 2002 due to CVD (millions)
+Source: WHO Atlas of Heart Disease and Stroke, p18
+Global morbidity is expressed in terms of DALYs lost due to a disease. CVD is one of the
+top contributors to the total number of DALYs lost globally, along with HIV and
+depression (bi-polar disorders). Figure 3 shows the WHO figures on DALYs lost due to
+disease globally, with CVD effects split into heart disease and stroke. It also splits the
+figures down to differentiate between men and women, showing that for men, heart
+disease and stroke are the second and third largest cause of DALYs lost (the largest when
+combined as CVD), whereas for women they are third and fourth respectively (although
+again, combined as CVD they would be the largest single cause).19
+Heart disease Stroke HIV Unipolar
+depressive
+disorders
+Figure 3. The top four diseases for global DALYs lost in 2002: % of global DALYs lost due to disease
+Source: WHO Atlas of Heart Disease and Stroke, p46-47
+18 WHO (2004)
+19 Ibid
+
+esaesid
+tsol
+sYLAD
+women
+RAND Europe Cardiovascular disease overview
+The amalgamation of global data is useful in understanding the importance of CVD in
+terms of deaths and disability. However, since there are major differences between
+developed and developing countries, it is important to know what the mortality and
+morbidity rates are in the countries being studied as part of Retrosight and in other
+countries. Figure 4 shows the DALYs lost per 1000 population in a number of different
+countries, comparing those lost in the developed world, with those lost in developing
+nations.
+
+Figure 4. DALYs lost per1000 population in selected countries (2003 or nearest data)
+Source: WHO Atlas of Heart Disease and Stroke, World data tables, p84-91
+1.2.4 Economic and socio-economic costs
+The economic cost of CVD is not simply one of healthcare costs associated with the
+disease, but one that reflects the loss to productivity due to CVD and general care costs to
+the economy. With CVD so highly prevalent, this economic cost can be substantial,
+especially in countries that have higher morbidity due to CHD and stroke. In the USA, the
+cost of CVD has been estimated by the National Heart Lung and Blood Institute at over
+$400 billion dollars for 2006.20 This cost is expected to rise, with the WHO predicting
+that the cost to the US healthcare budget for those aged 50-65 will rise from 15% in 2010
+to 25% in 2030.21
+1.2.5 Risk factors
+As CVD is such a complex collection of diseases, unsurprisingly there are a number of risk
+factors involved. There is also the added complication that many of the risk factors for
+CVD interact with one another. For example, both obesity and diabetes are major risk
+factors for the development of CVD, but obesity is also a risk factor for type II diabetes. As
+such it is impossible to produce any sort of summative formula for predicting CVD based
+20 http://www.nhlbi.nih.gov/about/factbook/chapter4.htm
+21 http://www.who.int/cardiovascular_diseases/en/cvd_atlas_25_future.pdf
+
+ailartsuA niatirB adanaC
+dnalaeZ sdnalrehteN nedewS ASU aipoihtE eniarkU aidnI
+Retrosight study countries Comparator countries
+noitalupop
+
+tsol
+SYLAD
+Heart disease
+Stroke
+Overview of cardiovascular disease and research RAND Europe
+on risk factors, merely to say that having more than one risk factor will increase your risk
+of contracting one form of CVD. Below, the major risk factors associated with CVD are
+discussed in more detail.
+Smoking
+Smoking increases the risk of developing coronary heart disease is by 2 4 times. Smoking
+is a powerful independent risk factor for sudden cardiac death in patients with coronary
+heart disease; where smokers have about twice the risk of non-smokers.22 Exposure to other
+people's smoke increases the risk of heart disease even for non-smokers; the British Heart
+Foundation estimates that regular exposure to second hand smoke can increase the risk of
+CHD by up to 25%.23 Cigarette smoking interacting with other risk factors greatly
+increases CHD risk.
+The mechanisms by which smoking increases the risk of CVD are relatively well
+understood. The main risk is in the increased tendency towards thrombosis seen in
+smokers, which can lead to myocardial infarction.24 Other mechanisms include increased
+atherosclerosis, blood pressure, heart rate, cardiac output and coronary blood flow.
+Smoking also increases the levels of carbon monoxide in the body, which binds to
+haemoglobin, reducing the amount of oxygen reaching body tissues.25
+The number of cigarettes smoked in 2000 was estimated at 5,500 billion, a number that
+has been rising with increasing world population. The number of daily smokers worldwide
+is thought to be around 1 billion men and 250 million women.26
+Obesity
+Obesity, particularly in those with excess fat around the waist, increases the chance of
+developing CHD even if no other risk factors are present. Excess weight increases strain on
+the heart, raises blood pressure and blood cholesterol and triglyceride levels, and lowers
+HDL cholesterol levels. All of these factors can increase the risk of atherosclerosis and
+thrombolytic embolism. It also increases the risk of developing type II diabetes, another
+risk factor for CVD. The WHO estimated that in 2005, around 1.6 billion people were
+overweight, with 400 million people obese.27
+Diabetes
+Diabetes is a disease that affects an individual s ability to maintain an appropriate blood
+glucose level. The disease has two forms, Type I and Type II diabetes. Type I diabetes is
+also known as insulin dependent diabetes and is caused by the body not producing any
+22 http://www.americanheart.org/presenter.jhtml?identifier=4726
+23 BHF Health promotion research group (2006), Op Cit
+24 Smith, Fischer and Sears (2000)  Environmental Tobacco Smoke, Cardiovascular Disease, and the
+Nonlinear Dose-Response Hypothesis , Toxicological Sciences, 554, 462-472
+25 http://mens-health.health-cares.net/smoking-cardiovascular-disease.php
+26 WHO (2002)  The tobacco atlas , available at
+http://whqlibdoc.who.int/publications/2002/9241562099.pdf
+27 http://www.who.int/mediacentre/factsheets/fs311/en/index.html
+
+RAND Europe Cardiovascular disease overview
+insulin. Type II diabetes is the more common form of the disease, and occurs when the
+body either does not produce enough insulin or cells do not process the insulin properly.28
+Both of these forms can lead to an increased risk of CVD via increased cholesterol levels,
+hypertension and atherosclerosis.29 Insulin resistance is also related to CHD.30
+WHO estimates suggest that more than 180 million people worldwide have diabetes; with
+this number likely to more than double by 2030. In 2005, an estimated 1.1 million
+people died from diabetes worldwide.31 In the USA, a survey of deaths in 1986 suggested
+that 60 75% of people with diabetes die from cardiovascular disease.32
+High blood pressure
+High blood pressure (hypertension) is strongly linked to both cardiac diseases and those of
+the vascular system. High blood pressure affects the heart by causing it to thicken and
+stiffen as it has to work harder to pump blood; this can lead to heart attacks. The effect on
+the vascular system is one of pressure on vasculature walls, leading to aneurisms and stroke.
+High blood pressure is a very common problem in developed countries, with one in four
+adults in the USA diagnosed with hypertension, although this represents a drop in the
+numbers since the 1980s when prevalence was around one in two.33 It is expected that
+global hypertension rates will rise in the next 20 years, reaching 1.5 billion adults globally,
+up to 1/ from   of the world population.34
+
+High LDL cholesterol
+The basic method by which LDL cholesterol (low density lipoprotein cholesterol) increases
+the risk of CVD is by increasing the fatty deposits in blood vessels, leading to
+atherosclerosis. Recently, research has suggested that this is more of an active process than
+previously thought, with LDL cholesterol actually activates endothelial cells to express
+adhesion molecules that speed the process of atherosclerosis.35
+A WHO analysis in 2004 looked at the prevalence of high cholesterol levels in a number of
+countries and estimated that a total of 4.4 million deaths worldwide and over 40 million
+DALYs were due to  non-optimal cholesterol . 36 These account for around 8% of deaths,
+28 See the website of the American Diabetes Association, http://www.diabetes.org/about-diabetes.jsp
+29 http://diabetes.niddk.nih.gov/dm/pubs/stroke/#connection
+30 Press release from NIH, http://www.nhlbi.nih.gov/new/press/sep01-99.htm
+31 http://www.who.int/mediacentre/factsheets/fs312/en/index.html
+32 http://www.clinicalevidence.com/ceweb/conditions/dia/0601/0601_background.jsp
+33 http://www.fauxpress.com/kimball/med/heart/h2/bloodpres.htm
+34 Kearney, Whelton, Reynolds, Muntner, Whelton and He (2005) Global burden of hypertension: analysis of
+worldwide data, The Lancet, 3365:9455, 217-223
+35 Ganjia, Kamannaa and Kashyap (2003) Niacin and cholesterol: role in cardiovascular disease (review), The
+Journal of Nutritional Biochemistry, 114:6 , 298-305
+36 Ezzati, Lopez, Rodgers and Murray (2004) Comparative Quantification of Health Risks: Global and
+Regional Burden of Disease Attribution to Selected Major Risk Factors, World Health Organisation, Chapter
+7. Available at: http://www.who.int/publications/cra/chapters/volume1/0391-0496.pdf
+
+Overview of cardiovascular disease and research RAND Europe
+and 3% of DALYs worldwide. Cholesterol levels have on the whole been rising globally37
+and are expected to continue rising in predictions up to 2030 (although interestingly,
+North America and Western Europe are expected to have a drop in cholesterol levels).38
+Socio-economic risks
+CVD deaths are associated with low socio-economic standing. For example, in developing
+countries such as Ukraine and India, the levels of CVD are up to 6 times higher than
+developed countries such as Canada, Australia and Britain (see Figure 4). This risk is
+inextricably tied in with several other risk factors such as diet, physical activity and levels of
+obesity. Even smoking is correlated with lower socio-economic status in south Asian
+populations in the UK.39
+Other risk factors
+Several other risk factors are important in the onset of CVD. For example, physical
+inactivity is seen as a large risk factor. Physical activity can reduce cholesterol levels,
+decrease obesity and cause the heart and muscles to work harder in pumping blood around
+the body. Alcohol intake is also a risk factor, and one that is complex since low levels of
+alcohol can reduce the risk of heart disease (through antioxidant polyphenols inhibiting the
+oxidation of LDL cholesterol) but high levels of alcohol intake actually increase the risk of
+CHD and stroke (by increasing blood pressure). Another key risk factor often cited is
+nutrition, with poor diet having a direct effect on fat concentrations in the body
+(increasing the risk of high cholesterol and obesity), sugar levels in the blood (increasing
+the risk of developing type II diabetes) and salt levels in the blood (increasing blood
+pressure and the risk of stroke).
+1.3 Future of disease
+The WHO has produced projections of the future of CVD up to 2030, based on current
+trends and analysis of relevant data.40 Their predictions for mortality show a rise in global
+annual CVD deaths to 18.1 million in 2010, 20.5 million in 2020 and up to 24.2 million
+by 2030. These represent 30.8%, 31.5% and 32.5% of all global deaths respectively.
+For male deaths due to CHD, there is a predicted rise from 13.1% of all male deaths in
+2010, to 14.9% in 2030. Interestingly, the same statistic for women predicts a drop in
+deaths due to CHD, from 13.6% in 2010 to 13.1% in 2030. Stroke deaths are predicted
+to rise for both men and women (from 9.2% to 10.4% for men, and from 11.5% to
+11.8% for women).
+Morbidity predictions (all in DALYs) suggest that there is a strong upward trend in both
+the number of DALYs and the % of all DALYs represented by CVD (see Table 1). By
+2020, stroke is expected to become the 4th largest contributor to DALYs lost globally.
+37 Ezzati, Lopez, Rodgers and Murray (2004) p444
+38 Ibid, p446, Table 7.18
+39 http://www.bhf.org.uk/news/index.asp?secID=16&secondlevel=241&thirdlevel=1875&artID=8138
+40 WHO (2004)  Atlas of Heart Disease and Stroke , chapter 25
+
+RAND Europe Cardiovascular disease overview
+Table 1. Future predictions of global morbidity due to CVD
+By 2010 By 2020 By 2030
+CVD DALYs (millions) 153 169 187
+Burden of CVD (% of all DALYs) 10.4 11.0 11.6
+CVD Rankings globally 3rd CHD 3rd CHD 3rd CHD
+5th Stroke 4th Stroke 4th Stroke
+Major risk factors for CVD are also projected to 2030, with the number of smokers
+predicted to rise over the next 34 years. The number of cases of diabetes is also likely to
+increase dramatically over the same timescale. Although both of these statistics are
+tempered by a predicted rise in world population, there is still a real increase in smokers
+and diabetes cases predicted to 2030 (Table 2).
+Table 2. Projection of major risk factors for CVD
+By 2010 By 2020 By 2030
+Smokers Number (upper estimate) 1.4 billion 1.6 billion 1.8 billion
+% World population 20.6 21.3 22.2
+Diabetes Number (>20 years old) 221 million 300 million 366 million
+% World population 3.3 4.0 4.5
+World population41 Number (billions) 6.79 7.50 8.11
+Obesity is the other major issue associated with CVD that is growing to epidemic
+proportions.42 As mentioned in the risk factors section, obesity is already a huge problem
+in the developed world, however it is also becoming a problem in the developing world
+too.43 Children are becoming increasingly vulnerable to overweight and obesity around the
+world. At least 155 million school-age children worldwide are overweight or obese,
+according to the latest estimates from the  International Obesity TaskForce . Around 30-
+45 million within that figure are classified as obese - accounting for 2-3% of the world s
+children aged 5-17. A further 22 million younger children are also affected according to
+previous IOTF global estimates based on WHO data for under-fives.44 Indeed, the WHO
+predicts that by 2015, 2.3 billion adults will be overweight and over 700 people will be
+obese.45 This is worrying data, since the morbidity due to CVD is increasing in developed
+countries. It is also worrying since childhood obesity is linked to diabetes development,
+41 World population estimates taken from Population division, Department of Economic and Social Affairs,
+(1999)  World at 6 billion , United Nations Secretariat, USA, Part 1, page 5 (available at
+http://www.un.org/esa/population/publications/sixbillion/sixbilpart1.pdf)
+42 The WHO even responded to the threat of a worldwide epidemic of obesity in 2000 by publishing a
+Technical Report entitled  Obesity: Preventing and managing the global epidemic  (available at
+http://whqlibdoc.who.int/trs/WHO_TRS_894.pdf)
+43 WHO obesity and overweight factsheet: http://www.who.int/mediacentre/factsheets/fs311/en/index.html
+44 See the IOTF website - http://www.iotf.org/childhoodobesity.asp
+45 WHO obesity and overweight factsheet
+
+Overview of cardiovascular disease and research RAND Europe
+another CVD risk factor, and the WHO prediction that diabetes deaths will grow by 50%
+in the next 10 years.
+
+RAND Europe Cardiovascular research overview
+Cardiovascular research overview
+CHAPTER 2
+The importance of CVD as a worldwide disease is reflected in a global research effort that
+aims to reduce both the death rate (mortality) due to CVD and the prevalence (morbidity)
+of the disease. The research into CVD covers a wide range of topics, from preventative
+population measures such as campaigns to reduce smoking or obesity levels, through to
+invasive surgical procedures such as key-hole heart surgery.
+2.1 History and timeline of research
+The field of cardiovascular research goes back as far as China in 26th Century BC, when
+the Emperor Huang Ti concluded that blood flowed in a circulatory system in the body
+that was controlled by the heart.46 Advances have arrived steadily over the years, including
+Leonardo Da Vinci describing atherosclerosis (although not coining that term) in the 15th
+Century.47 Research into the cardiovascular system really took off in the 19th Century when
+cholesterol was discovered, atherosclerotic plaques were described and the electrical pulse
+associated with the heartbeat discovered.48
+In modern times, the major discoveries of the 20th Century in cardiology are the ones upon
+which modern clinical cardiology is based.49 One key discovery was of the importance of
+electrics in cardiology, both in terms of the electrical activity of the heart per se, and the
+implantation of electrical devices as pacemakers. Along with the electric monitoring of
+heart activity was the imaging of heart activity, initially through echocardiography50 and
+then through MRI, CT and MRA techniques. The development of the lipid hypothesis of
+atherosclerosis in Russia in the early 1900s provided the basis for research into cholesterol
+and the clinical relief of atherosclerosis through angioplasty (including catheterisation with
+balloons, and stents). Other surgical advances that have been key to CVD treatment
+include open heart surgery and keyhole surgery   both of which have advanced greatly
+46 WHO (2004)  Atlas of Heart Disease and Stroke , chapter 26
+47 Ibid
+48 Ibid
+49 Taken from: Mehta and Khan (2002)  Cardiology s 10 greatest discoveries of the 20th Century , Texas Heart
+Institute Journal, 229(3), 164-171
+50 Interestingly one of the original developers of echocardiography (Hellmuth Hertz) also invented the inkjet
+printer which facilitated the development of colour Doppler echocardiography.
+
+Overview of cardiovascular disease and research RAND Europe
+since the 1950 s when the first open heart surgery was performed. Drug treatments have
+developed rapidly over the 20th Century, in particular the use of aspirin to prevent heart
+attacks and stroke in the 1970s, and the continuing advance of thrombolytic therapeutic
+drugs such as streptokinase (discovered in 1945).
+Perhaps the most talked about research of the 20th Century that is associated with CVD is
+the Framingham study. This was initiated in 1949 as a large cohort study, based in
+Massachusetts, to try and understand the causes of CVD in the population. The first
+results were published in 1961,51 and identified high blood pressure, smoking and high
+cholesterol as risk factors for developing CVD   the first time the concept of risk factors
+had been suggested. The Framingham study has continued for over 50 years, and reports
+continue to be published that highlight new associated risk factors for CVD (recent
+examples include the fact that high HDL cholesterol levels can reduce the risk of death
+from CVD).
+Figure 5 and Figure 6 show the timeline of major events in CVD research and treatment,
+although as mentioned above, it is almost impossible to provide a comprehensive timeline
+of major research since CVD is such a wide are to research and has such a long history of
+achievement.
+51 Kannel, Dawber, Kagan, Revotskie and Stokes (1961)  Factors of risk in the development of coronary heart
+disease--six year follow-up experience. The Framingham Study , Annals of Internal Medicine, 555, 33-50
+
+RAND Europe Cardiovascular research overview
+CCVVDD mmiilleessttoonneess  ffoouunnddaattiioonn ooff tthhee
+11886600ss ttoo 11997700ss NNaa UUtt SSiioo AAnn ;;aa ll FF HH rraaee mmaa iirr nntt ggIInn hhss aatt mmiittuu ccttee oo hhiinn oo rrtt tthh ee 11996644  ffiirrsstt LLaattee 11997700ss  sseevveerraall
+ssttuuddyy iinniittiiaatteedd ttrraannsslluummiinnaall nnaattiioonnaall ttrriiaallss aanndd lliiffeessttyyllee
+aannggiiooppllaassttyy pprrooggrraammss sshhooww rreedduuccttiioonn
+iinn rriisskk ffaaccttoorrss rreedduucceess
+iinncciiddeennttss ooff CCVVDD
+11995522  ffiirrsstt ssuucccceessssffuull hhuummaann
+11993311  ffiirrsstt aarrttiiffiicciiaall ooppeenn hheeaarrtt ssuurrggeerryy aanndd
+ccaarrddiiaacc ppaacceemmaakkeerr ssyynntthheettiicc vvaallvvee iimmppllaannttaattiioonn;; 11996600ss  bbeettaa--bblloocckkeerrss
+uusseedd iinn tthhee UUSSAA eexxtteerrnnaall ccaarrddiiaacc ppaacceemmaakkeerr
+iinnttrroodduucceedd ffoorr mmuullttiippllee
+11886699  ffiirrsstt ddeessiiggnneedd hheeaarrtt pprroobblleemmss;;
+eelleeccttrrooccaarrddiiooggrraamm ccoorroonnaarryy ccaarree uunniittss
+((EECCGG)) rreeccoorrddeedd iinnttrroodduucceedd iinn UUSSAA
+11993388  FFiirrsstt 11996611  
+hhuummaann hheeaarrtt
+BBrriittiisshh
+ssuurrggeerryy 11995544   HHeeaarrtt 11997700ss --AAssppiirriinn
+11990044   eecchhooccaarrddiiooggrraapphhyy FFoouunnddaattiioonn rreeccooggnniisseedd aass
+aatthheerroosscclleerroossiiss ddiissccoovveerreedd ffoorrmmeedd pprreevveennttiinngg hheeaarrtt
+iiddeennttiiffiieedd aattttaacckk aanndd ssttrrookkee
+TTIIMMEE
+11995577  ffiirrsstt
+bbaatttteerryy 11996677  ffiirrsstt
+ppoowweerreedd wwhhoollee hheeaarrtt
+eexxtteerrnnaall ttrraannssppllaanntt
+11990022  ffiirrsstt ppaacceemmaakkeerr 11997777  ffiirrsstt
+kkeeyyhhoollee ssuurrggeerryy 11993377  ffiirrsstt pprroottoottyyppee ppeerrccuuttaanneeoouuss ttrraannss--
+ppeerrffoorrmmeedd iinn hheeaarrtt--lluunngg mmaacchhiinnee lluummiinnaall ccoorroonnaarryy
+ddooggss bbuuiilltt aanndd tteesstteedd oonn aannggiiooppllaassttyy uussiinngg
+aanniimmaallss ((aalllloowwiinngg hheeaarrtt MMiidd 11996600ss  ffiirrsstt bbaalllloooonnss
+ssuurrggeerryy ttoo ffoollllooww)) 11995500  IInntteerrnnaattiioonnaall iimmppllaannttaabbllee
+SSoocciieettyy ooff CCaarrddiioollooggyy
+ppaacceemmaakkeerrss;; ppoorrttaabbllee
+eessttaabblliisshheedd;; ffiirrsstt
+ddeeffiibbrriillllaattoorr iinnvveenntteedd
+ppaacceemmaakkeerr iinnvveenntteedd
+11991122  ffiirrsstt 11994477  ffiirrsstt ddeeffiibbrriillllaattiioonn ooff 11996600- FFrraammiinngghhaamm 11997711  bbaassiicc rreesseeaarrcchh
+hhuummaann ccaarrddiiaacc hhuummaann hheeaarrtt dduurriinngg iiddeennttiiffiieess rriisskk ffaaccttoorrss ffoorr iinnttoo ssttaattiinnss ccoommmmeenncceess
+ccaatthheetteerriizzaattiioonn ccaarrddiiaacc ssuurrggeerryy hheeaarrtt ddiisseeaassee iinn JJaappaann
+Figure 5. Timeline of CVD research: 1860s to 1970s
+Sources: WHO (2004)  Atlas of Heart Disease and Stroke ; Mehta and Khan (2002); and American Heart Association website
+
+Overview of cardiovascular disease and research RAND Europe
+CCVVDD mmiilleessttoonneess  
+11998800ss ttoo pprreesseenntt
+11998888  IISSIISS 22 ttrriiaall 11999988  hhyyppeerrtteennssiioonn 22000033  WWHHOO rreeppoorrtt  SShhaappiinngg tthhee
+sshhoowweedd eemmeerrggeennccyy uussee ggeennee iinn mmeenn iiddeennttiiffiieedd;; FFuuttuurree hhiigghhlliigghhttss tthhee CCVVDD aass aa
+ooff aassppiirriinn aanndd cclloott-- ggeennee tthheerraappyy ggrroowwss nneegglleecctteedd gglloobbaall eeppiiddeemmiicc,, aanndd ccaallllss
+bbuussttiinngg ddrruuggss ssaavveess nneeww bblloooodd vveesssseellss ttoo ffoorr nnaattiioonnaall aanndd gglloobbaall aaccttiioonn ttoo
+lliivveess tthhee hheeaarrtt;; tthhee ccoonnttrrooll CCVVDD
+iimmppoorrttaannccee ooff
+iinnffllaammmmaattiioonn iinn CCVVDD iiss
+rreeccooggnniisseedd
+11998822  ffiirrsstt
+ppeerrmmaanneenntt 11999900ss  aannttii--
+aarrttiiffiicciiaall hheeaarrtt ppllaatteelleett ddrruuggss
+iimmppllaanntteedd bbeeccoommee ccoommmmoonnllyy
+11998866  ffiirrsstt uusseedd 22000000  eennttiirree 22000055  nneeww aannttii--
+ccoorroonnaarryy sstteenntt hhuummaann ggeennoommee ssmmookkiinngg ddrruugg
+iimmppllaanntteedd mmaappppeedd;; aadduulltt tteesstteedd ssuucccceessssffuullllyy
+sstteemm cceellllss uusseedd
+ttoo rreeppaaiirr ffaaiilliinngg
+hheeaarrtt
+TTIIMMEE
+11999922  CCaannaaddiiaann 22000022  UUKK ssttuuddyy
+ddeeccllaarraattiioonn tthhaatt CCVVDD iiss sshhoowwss ssttaattiinnss ccaann
+llaarrggeellyy pprreevveennttaabbllee iiff bbeenneeffiitt ddiiaabbeettiiccss
+tthhee ccoorrrreecctt aanndd tthhoossee wwiitthh
+iinnffrraassttrruuccttuurree iiss iinn ppllaaccee lloowweerr cchhoolleesstteerrooll
+11998877  FFiirrsstt uussee ooff llaasseerr lleevveellss
+ssuurrggeerryy oonn tthhee hheeaarrtt ttoo
+hheellpp wwiitthh rree--vvaassccuullaarriissaattiioonn
+iinn CCHHDD ppaattiieennttss 11999999  uullttrraa ffaasstt CCTT
+aanndd MMRRAA aaddvvaannccee 22000011  ddrruugg
+ccaarrddiiaacc iimmaaggiinngg ssttuuddiieess eelluuttiinngg sstteennttss
+uusseedd
+11998800ss  llaarrggee ssccaallee 22000044  ffiirrsstt iimmppllaannttaabbllee
+ mmeeggaa ttrriiaallss iinnttrroodduucceedd aarrttiiffiicciiaall hheeaarrtt aapppprroovveedd;;
+iinn tthhee UUSSAA ttoo rreedduuccee 11999900  mmeettaa--aannaallyyssiiss rreeggeenneerraattiioonn ooff hheeaarrtt
+eerrrroorr rraatteess;; AACCEE mmuussccllee sshhoowwnn
+iinnhhiibbiittoorrss iimmpprroovvee ooff UUKK cclliinniiccaall ttrriiaallss 22000000  iinn CCaannaaddaa,, nneeww
+ttrreeaattmmeenntt ffoorr hheeaarrtt ffaaiilluurree sshhoowwss lloowweerriinngg bblloooodd ddeeccllaarraattiioonn aaddddrreesssseess tthhee
+pprreessssuurree rreedduucceess tthhee iimmppoorrttaannccee ooff sscciieennccee aanndd
+rriisskk ooff ssttrrookkee ppoolliiccyy ttoo ttaacckkllee ggeennddeerr
+iinneeqquuaalliittiieess iinn CCVVDD
+eeppiiddeemmiicc
+Figure 6. Timeline of CVD research: 1980s to present
+Sources: WHO (2004)  Atlas of Heart Disease and Stroke ; Mehta and Khan (2002); and American Heart Association website
+
+RAND Europe Cardiovascular research overview
+2.2 Typology of research
+Since we can see that cardiovascular disease encompasses a range of clinical conditions,
+unsurprisingly there are a large number of distinct research fields that address clinical needs
+for CVD. In this chapter we split the research on CVD into four main groups (electrics,
+surgery, mechanics, other research areas) in order to try to cover the main strands of
+research that are affecting clinical practice today. 52
+CVD is a convenient grouping for a large number of disparate clinical conditions; this
+means that research necessarily covers a wide range of clinical and biomedical
+interventions. Aligned with this, the nature of clinical research to pursue multiple cures or
+treatments for any one condition creates an even wider variety of research topics and areas
+that can be aligned with CVD. In this section we have classified areas of CVD research not
+by the condition affected but by method of research. For example, surgery is an area of
+research that affects many different aspects of CVD from arterial vascularisation to
+congenital heart defects. Since many advances in surgery are applicable across these types of
+procedures it is sensible to group surgical advances together.
+Described below are four areas in which CVD research has advanced in the last 20-30
+years. The areas are:
+  Electrics   pacemakers, defibrillators, etc.
+  Surgery   open heart surgery, keyhole surgery, transplantation etc.
+  Mechanics   stents, balloons, etc.
+  Other advances   these include drugs to prevent rejection of transplanted tissue,
+lifestyle research for causes of CVD, prevention research, screening techniques,
+etc.
+For each of these areas we will discuss the types of research that fall into them, with some
+advances used as illustrative examples. We will also discuss how the areas overlap and are
+not necessarily distinct. For example, advances in drug therapy to prevent rejection of
+transplanted tissue are an obvious area where surgery cannot advance without advances in
+areas such as the quality of drug therapy or effective genotyping of transplant donors.
+2.2.1 Electrics
+The first major breakthrough in electrics came with the invention of the pacemaker in the
+1950s. Electrics research now comprises projects looking at a variety of problems in
+cardiology that can be treated with electrical devices. One such area is the miniaturisation
+of implantable pacemakers, so that they do not need unwieldy battery packs. Another
+would be the use of implanted defibrillators to both monitor and restart the heart rhythm
+in any case of fibrillation. Advances in cardiology electrics are now very much dependent
+on developments in electrical engineering and computing technology.
+52 This typology is based upon an interview with a BHF professor of cardiovascular sciences, who
+recommended grouping research by research area rather than disease area.
+
+Overview of cardiovascular disease and research RAND Europe
+2.2.2 Surgery
+Heart surgery is the best known surgery technique associated with CVD, and open heart
+surgery was made easier by the invention of the Heart-Lung Bypass machine in the 1960s.53
+These days, research into surgery techniques runs along two main lines. Firstly, research
+continues into heart surgery, concentrating on heart valve replacements and work on
+beating hearts. Secondly, research on surgery to other parts of the cardiovascular system is a
+major area of research. These include breakthroughs in angioplasty54 and implantation of
+electrical devices during surgical procedures.
+2.2.3 Mechanics (Stents, balloons, catheterisation)
+Although biomechanics in a cardiovascular science context often refers to the fluid
+mechanics of the cardiovascular system, the use of the phrase  mechanics  is slightly
+different in the clinical arena. In this document we use mechanics to mean those
+interventions that mechanically alter the cardiovascular system. For example, stents are
+wire mesh tubes that are used to physically hold open the arteries. This allows blood to
+flow more easily to organs around the body. Stents are often used to keep arteries open
+after angioplasty so that the artery can heal without contracting and reducing blood flow.
+Stents are now also able to be covered in slow release drug coatings that inhibit closure
+(sclerosis) of the artery after surgery. These are called  drug eluting stents  and are
+becoming the common choice of cardiovascular surgeons.
+In order to insert stents, either surgery or catheterisation is required. If using a catheter,
+then it is often necessary to have a stent that is initially smaller in diameter than the artery
+it is designed to hold open (in order to allow the stent to be put in place. This is done
+using a technique known as  balloon angioplasty . In this technique, the catheter has a
+deflated balloon on the end. This balloon is surrounded by the mesh stent. When in
+position in the artery, the balloon is inflated, increasing the diameter of the stent and
+pushing the stent into position. Once open and holding the artery, the balloon is deflated
+and removed with the catheter, leaving the stent in place.
+More complex forms of catheterisation can remove atherosclerotic plaques; this is the
+process of atherectomy. There are a number of atherectomy methods that include shaving
+the plaque, sucking away parts of the plaque, using a rotational device that wears down the
+plaque (as a rotational sander would), and even laser atherectomy using adapted catheters.
+2.2.4 Other fields of CVD research
+The fields described above are near the clinical end of the CVD research spectrum. Those
+that are more towards the basic science end include research into atherosclerosis and the
+science behind plaque formation; drug research into reducing symptoms of CVD (such as
+statins research and thrombolytic research); imaging techniques that allow more accurate
+understanding of the actions of the heart in vivo; genetics research into the underlying
+mechanisms of CVD; and stem cell research into regenerating damaged cardiac tissue.
+There is also a wealth of research into screening techniques for CVD (including
+53 See the BHF website for more details, http://www.bhf.org.uk/about/index.asp?SecID=17&secondlevel=62
+54 Angioplasty is surgery to repair damaged arteries.
+
+RAND Europe Cardiovascular research overview
+phenotypic and genotypic screening); risk factor identification and prevention of CVD;
+service delivery research; and policy research to reduce CVD.
+Cardiovascular disease is a huge field in which to locate research and often, basic science
+research that is relevant to CVD is actually from other fields. A particularly good example
+of this is the mapping of the human genome. The American Heart Association publishes a
+ Top 10 Research Advances in CVD  every year55 and in 2000, the top advance was the
+human genome, despite not being CVD research at all. This goes to show that it is very
+difficult to define what CVD research is, and that the examples given above are merely a
+taster of the areas in which CVD research occurs.
+2.3 High profile research
+One way to identify what is high-profile scientific research is to analyse publications and
+citations arising from those publications. This has been criticised in the past as it biases
+against applied clinical research, since clinical researchers have different citation patterns to
+basic researchers. As part of the initial work in Project Retrosight, there will be a
+bibliometric analysis of the cardiovascular research field, identifying research from the case
+study countries in particular. The remaining information in this section gives a flavour for
+the sorts of numbers involved in bibliometric analysis of CVD research in previous years,
+but the current bibliometric research will provide a more detailed analysis.
+Work by the Wellcome Trust in 1998 looked at publications in biomedical science and
+their distributions.56 This included looking at distribution of papers in the Science Citation
+Index (SCI) across different research areas, countries and funders. Overall, cardiology
+papers represented 11% of all papers in biomedical research. Of these cardiology papers,
+the majority came from researchers based in the USA. The UK accounted for 9% of the
+total, Canada 5% and Australia 2% (figures for New Zealand are not included in the
+Wellcome study). According to WHO data,57 there are more trials into CVD subjects than
+any other, even if only looking at clinical trials on coronary heart disease (Figure 7).
+In 2005,  The Scientist  magazine published a bibliometric analysis of the top papers
+(based on citations) published in all science over three periods 2005; 1995-2005;
+and all time.58 In the recent two year window, CVD research was represented by two
+papers;59 in the ten year window by two papers;60 however it was not represented in the all
+time list (although the majority of papers in the all time list were methodological).
+55 American Heart Association, available at: http://www.americanheart.org/presenter.jhtml?identifier=220
+56 Dawson, Lucocq, Cottrell and Lewison (1998)  Mapping the landscape: National biomedical research
+outputs 1988-1995 , Public Report No. 9, Wellcome Trust
+57 WHO (2004) chapter 18
+58  Top 10 Papers Published... , The Scientist (2005), 119(20), p26
+59 Manica et al (2003)  2003 European Society of Hypertension   European Society of Cardiology guidelines
+for the management of arterial hypertension , Journal of Hypertension, 221, 1011-1053; and Moses et al (2003)
+ Sirolimus-eluting stents versus standard stents in patients with stenosis in a native coronary artery , New
+England Journal of Medicine, 3349, 1315-1323
+
+Overview of cardiovascular disease and research RAND Europe
+
+oronary
+heart dise Ia ns fe ectC ia on uc s e dr ise Ma Pes ue n lts a ml oh ne aral yt h diseases Diabetes Stroke Art Rhr oiti as dH I trV/ afA fiI cD aS ccidents
+Figure 7. Number of global clinical trials published in Medline in selected biomedical subjects
+2.4 Future research agenda
+The future of CVD research is one that is often discussed amongst scientists. In particular,
+around the turn of the millennium saw a selection of editorials and lectures concerning the
+direction that CVD research would take. In 1997, the Shattuck Lecture discussed
+cardiology at the turn of the millennium, and identified opportunities for further research
+breakthroughs in: identifying new risk factors (such as oestrogen deficiency in post-
+menopausal women); advancing cardiac imaging; understanding the molecular basis of
+CVD; transgenic experimentation for CVD research; and gene transfer.61
+In an editorial in Circulation Research in 2001,62 Claude Lenfant   a former Director of
+the National Heart, Lung and Blood Institute in the US   described some of the basic
+biological technological advances that will benefit cardiovascular research (in particular
+heart disease) in the future. Unsurprisingly, genetics, molecular biology and genomics
+feature as potentially key to the future of CVD research. However, Lenfant suggests that it
+is the follow up to decoding the human genome, identifying the make up of the human
+proteome that is going to be key in understanding pathological processes at the cellular
+level.63 He also described how advances in cell biology (for example in terms of cell
+transplantation within a CVD sufferer) and immunobiology can benefit transplantation
+therapies by decreasing the chance of rejection by the host s immune system. At it s
+extreme this could even mean organogenesis. Imaging is also mentioned, but in a more
+60 Ross (1999)  Atherosclerosis - An inflammatory disease , New England Journal of Medicine, 3340(2), 115-
+126; and Shepherd et al (1995)  Prevention of coronary heart-disease with pravastatin in men with
+Hypercholesterolemia , New England Journal of Medicine, 3333(20), 1301-1307
+61 Braunwald (1997)  Shattuck Lecture   Cardiovascular medicine at the turn of the Millennium: Triumphs,
+concerns and opportunities , New England Journal of Medicine, 3337(19), 1360-1369
+62 Lenfant (2001)  Cardiovascular research: A look into tomorrow , Circulation Research, 888, 253-255
+63 The human proteome is the protein equivalent of the human genome, i.e. a full map of every protein in the
+human body (through analysis of protein coding regions of the genome).
+
+slairt
+lacinilc
+dehsilbup
+fo rebmuN
+enildeM
+RAND Europe Cardiovascular research overview
+speculative fashion. Lenfant refers to the prospect of molecular imaging, specifically in
+terms of PET imaging to identify gene activation in cardiac cells.
+These research themes are echoed in Lefkowitz and Willerson s 2001  Prospects for
+Cardiovascular Research .64 They identify risk factors as the first issue to deal with, arguing
+that current known risk factors account for only around half of all cases of cardiovascular
+disease. Their identification of future areas of CVD research are more clinical than those of
+Lenfant, and often use the basic biology advances Lenfant determines. An example of this
+is the use of molecular biology advances to understand the molecular basis of plaque
+formation in athersclerosis. However, these research agendas are very much researcher led,
+rather than disease led. As the majority of CVD actually occurs in developing countries, it
+will become increasingly important to tailor research agendas to address problems
+encountered in those countries.65
+Perhaps the most intriguing view of the future for CVD research is that espoused by the
+WHO as part of their Atlas of Cardiovascular Disease.66 In it, the WHO identify potential
+advancements in R&D and treatment (which will rely on R&D advances). For example,
+they predict that by 2020, a vaccine may have been developed which switches of nicotine
+receptors (cutting the physical addictiveness of cigarettes). They also predict that by 2020
+screening for heart disease will use an array of genetic markers; that xenotransplantation
+(transplantation of animal organs into humans) will be possible due to improved
+understanding of tissue rejection; and that nano-technology will allow intra-artery repair of
+atherosclerosis.
+64 Lefkowitz and Willerson (2001)  Prospects for Cardiovascular Research , Journal of the American Medical
+Association, 2285(5), 581-587
+65 For an example see: Commerford and Mayosi (2006)  An appropriate research agenda for heart disease in
+Africa , The Lancet, 3367, 1884-1885
+66 WHO (2004) Chapter 25
